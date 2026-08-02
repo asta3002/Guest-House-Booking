@@ -1,0 +1,5000 @@
+u51,shop35,3.2,2.2,Bad Service and Bad Hygiene,B
+u19,shop132,1.4,3.1,Bad Service and Bad Hygiene,A
+u75,shop93,2.9,4.3,Good Service,A
+u33,shop51,4,4.1,Good Hygiene,B
+u99,shop104,5,1.2,Good Hygiene,A
+u20,shop147,4.9,4.4,Good Hygiene,B
+u100,shop113,4.5,3.9,Good Hygiene,A
+u26,shop44,3.6,2.4,Good Hygiene,A
+u87,shop66,3.7,2,Good Hygiene,A
+u47,shop145,1.3,3,Bad Service and Bad Hygiene,A
+u57,shop146,2.7,2.9,Bad Service and Bad Hygiene,B
+u69,shop30,3.9,4.7,Good Hygiene,B
+u67,shop62,3.1,2.8,Bad Service and Bad Hygiene,A
+u22,shop25,2.4,5,Good Service,B
+u4,shop59,4.3,3.2,Good Hygiene,A
+u73,shop141,2.8,3.6,Good Service,B
+u40,shop27,1.5,2.5,Bad Service and Bad Hygiene,B
+u90,shop108,1.1,2.6,Bad Service and Bad Hygiene,B
+u49,shop74,3.5,1.4,Bad Service and Bad Hygiene,A
+u68,shop135,2.5,1.3,Bad Service and Bad Hygiene,B
+u62,shop4,3.4,3.7,Good Service,A
+u44,shop137,4.4,4.6,Good Hygiene,A
+u29,shop126,4.6,4.8,Good Hygiene,A
+u6,shop83,3,2.7,Bad Service and Bad Hygiene,B
+u37,shop142,2.2,4.5,Good Service,B
+u85,shop96,3.8,1.1,Good Hygiene,B
+u48,shop87,4.8,3.5,Good Hygiene,B
+u80,shop29,4.7,4.9,Good Hygiene,B
+u89,shop85,2.6,3.8,Good Service,B
+u91,shop40,4.2,4,Good Hygiene,B
+u34,shop140,4.1,3.4,Good Hygiene,A
+u23,shop148,2,1.5,Bad Service and Bad Hygiene,B
+u64,shop128,1.2,4.2,Good Service,A
+u17,shop103,4.1,3.5,Good Hygiene,B
+u78,shop14,3.6,2.5,Good Hygiene,A
+u98,shop131,3.9,3.5,Good Hygiene,B
+u21,shop149,4,3.8,Good Hygiene,B
+u79,shop22,3.1,1.4,Bad Service and Bad Hygiene,A
+u58,shop88,3.1,4,Good Service,A
+u41,shop106,2.2,1.1,Bad Service and Bad Hygiene,A
+u50,shop34,3.4,3,Bad Service and Bad Hygiene,B
+u16,shop57,4.7,3.6,Good Hygiene,B
+u63,shop94,4.2,4.4,Good Hygiene,A
+u36,shop26,3.2,3.2,Bad Service and Bad Hygiene,B
+u14,shop37,3.1,5,Good Service,B
+u96,shop13,1.5,2.7,Bad Service and Bad Hygiene,A
+u83,shop82,3.7,4.8,Good Hygiene,A
+u95,shop33,2.5,3.5,Bad Service and Bad Hygiene,A
+u66,shop48,4.4,4.8,Good Hygiene,B
+u54,shop17,3.1,3.7,Good Service,B
+u92,shop43,3.6,4.9,Good Hygiene,A
+u86,shop101,3.4,5,Good Service,A
+u84,shop3,4.9,3.4,Good Hygiene,A
+u97,shop65,4,2,Good Hygiene,B
+u88,shop76,4.2,3.8,Good Hygiene,A
+u30,shop12,2.5,4,Good Service,A
+u77,shop144,4.3,5,Good Hygiene,B
+u59,shop53,2.7,5,Good Service,B
+u8,shop71,2.7,3.9,Good Service,A
+u18,shop102,3.2,3.6,Good Service,B
+u76,shop24,3.9,1.4,Good Hygiene,A
+u35,shop1,1.4,2.6,Bad Service and Bad Hygiene,B
+u1,shop6,1.1,2.6,Bad Service and Bad Hygiene,A
+u52,shop111,2.2,1.2,Bad Service and Bad Hygiene,B
+u46,shop91,4.4,2,Good Hygiene,A
+u53,shop90,4,2.9,Good Hygiene,A
+u61,shop117,3.4,2.9,Bad Service and Bad Hygiene,B
+u28,shop15,4.7,3.6,Good Hygiene,A
+u60,shop20,3.9,3,Good Hygiene,B
+u82,shop18,2.6,2.4,Bad Service and Bad Hygiene,A
+u15,shop67,2.9,3.2,Bad Service and Bad Hygiene,B
+u70,shop73,1.3,5,Good Service,B
+u10,shop86,3.7,4.1,Good Hygiene,A
+u13,shop138,3.7,2.8,Good Hygiene,B
+u32,shop47,4.7,1.5,Good Hygiene,B
+u65,shop92,3.5,2.6,Bad Service and Bad Hygiene,B
+u5,shop36,4.9,4.4,Good Hygiene,A
+u3,shop95,1.3,1.1,Bad Service and Bad Hygiene,B
+u31,shop55,2,1.4,Bad Service and Bad Hygiene,B
+u55,shop11,2.5,4.9,Good Service,B
+u39,shop41,2.9,4.9,Good Service,A
+u93,shop45,3.5,2.7,Bad Service and Bad Hygiene,B
+u27,shop9,4.4,1.1,Good Hygiene,B
+u56,shop136,4.2,2.2,Good Hygiene,B
+u9,shop79,2.8,2.5,Bad Service and Bad Hygiene,B
+u7,shop31,3.9,3.8,Good Hygiene,A
+u25,shop123,3.4,3.9,Good Service,A
+u2,shop115,4.5,2.5,Good Hygiene,A
+u38,shop124,2,2.9,Bad Service and Bad Hygiene,A
+u11,shop21,2.9,3.5,Bad Service and Bad Hygiene,A
+u94,shop46,2.2,2.2,Bad Service and Bad Hygiene,A
+u12,shop16,2.9,5,Good Service,A
+u24,shop60,4.6,4.1,Good Hygiene,B
+u42,shop32,4.8,4.6,Good Hygiene,B
+u71,shop97,3.5,2.9,Bad Service and Bad Hygiene,A
+u74,shop129,4.1,1.2,Good Hygiene,A
+u81,shop70,3.4,2.7,Bad Service and Bad Hygiene,A
+u43,shop2,4.1,3.5,Good Hygiene,B
+u45,shop61,4.5,4.9,Good Hygiene,A
+u72,shop49,4.9,4.7,Good Hygiene,A
+u26,shop50,3.9,4.9,Good Hygiene,A
+u56,shop116,1.3,3.1,Bad Service and Bad Hygiene,B
+u51,shop134,4.1,1.2,Good Hygiene,A
+u47,shop10,2,2.9,Bad Service and Bad Hygiene,B
+u2,shop139,4.8,3.4,Good Hygiene,B
+u3,shop119,4.6,4.9,Good Hygiene,B
+u82,shop122,4.2,5,Good Hygiene,A
+u98,shop58,1.3,2,Bad Service and Bad Hygiene,B
+u82,shop42,3.7,3.8,Good Hygiene,B
+u36,shop80,4.2,3,Good Hygiene,B
+u50,shop39,4.5,1.2,Good Hygiene,B
+u41,shop63,2.2,4.3,Good Service,A
+u71,shop109,5,4.8,Good Hygiene,A
+u39,shop125,1.5,3.1,Bad Service and Bad Hygiene,B
+u49,shop8,3.9,2.2,Good Hygiene,A
+u85,shop143,2.6,4.5,Good Service,A
+u61,shop110,3.6,3.4,Good Hygiene,B
+u55,shop98,4.6,1.4,Good Hygiene,A
+u51,shop77,4.9,4.7,Good Hygiene,B
+u6,shop150,2.5,2.5,Bad Service and Bad Hygiene,A
+u98,shop75,1.5,2.5,Bad Service and Bad Hygiene,B
+u15,shop121,3.4,4.3,Good Service,A
+u91,shop28,3.2,3.6,Good Service,A
+u32,shop107,1.4,4.5,Good Service,A
+u77,shop19,3.1,3.7,Good Service,B
+u40,shop56,4.3,4.5,Good Hygiene,B
+u52,shop114,3.5,1.3,Bad Service and Bad Hygiene,A
+u97,shop130,4.7,2.4,Good Hygiene,B
+u15,shop23,1.5,3.7,Good Service,A
+u28,shop120,3.5,4.4,Good Service,B
+u65,shop38,2.2,1.3,Bad Service and Bad Hygiene,B
+u67,shop69,4.3,4.7,Good Hygiene,B
+u16,shop100,2.4,3.1,Bad Service and Bad Hygiene,A
+u95,shop127,2,4.3,Good Service,A
+u76,shop81,3.8,3.6,Good Hygiene,B
+u78,shop99,3.9,2,Good Hygiene,A
+u79,shop52,1.2,1.5,Bad Service and Bad Hygiene,B
+u90,shop72,3.9,4,Good Hygiene,B
+u32,shop64,4.6,4.5,Good Hygiene,B
+u55,shop112,3,4.1,Good Service,B
+u57,shop54,2.9,2.9,Bad Service and Bad Hygiene,A
+u85,shop5,4.5,2.9,Good Hygiene,A
+u84,shop78,3.4,3,Bad Service and Bad Hygiene,B
+u47,shop118,2.7,4.7,Good Service,A
+u23,shop84,3.1,3.5,Bad Service and Bad Hygiene,A
+u49,shop89,4.3,2,Good Hygiene,A
+u83,shop133,2.9,3.7,Good Service,A
+u44,shop7,1.2,5,Good Service,B
+u92,shop105,4.1,1.1,Good Hygiene,B
+u93,shop68,4.5,5,Good Hygiene,B
+u33,shop47,2.7,4.9,Good Service,A
+u10,shop125,2.7,2.7,Bad Service and Bad Hygiene,A
+u58,shop6,2,4.2,Good Service,A
+u90,shop95,1.5,3.1,Bad Service and Bad Hygiene,B
+u65,shop104,4.6,2.5,Good Hygiene,B
+u28,shop67,1.1,3.2,Bad Service and Bad Hygiene,B
+u72,shop36,3.7,4.8,Good Hygiene,A
+u69,shop89,2.9,1.1,Bad Service and Bad Hygiene,B
+u1,shop128,3,2.8,Bad Service and Bad Hygiene,B
+u91,shop139,2.9,3.2,Bad Service and Bad Hygiene,A
+u4,shop40,3.8,4.9,Good Hygiene,B
+u98,shop145,4.8,1.2,Good Hygiene,B
+u90,shop43,2.6,4.1,Good Service,A
+u46,shop142,2.2,1.1,Bad Service and Bad Hygiene,B
+u88,shop9,2.7,3.5,Bad Service and Bad Hygiene,B
+u73,shop95,4.1,2.9,Good Hygiene,A
+u79,shop43,3.8,1.4,Good Hygiene,A
+u27,shop108,2.5,4,Good Service,B
+u48,shop24,4.5,2.4,Good Hygiene,A
+u87,shop138,1.4,2,Bad Service and Bad Hygiene,B
+u68,shop25,4.9,2.5,Good Hygiene,B
+u77,shop65,3.4,4,Good Service,A
+u88,shop103,2.2,2.9,Bad Service and Bad Hygiene,A
+u61,shop5,4.4,2.7,Good Hygiene,B
+u49,shop114,1.1,3.6,Good Service,B
+u91,shop117,4.9,3.8,Good Hygiene,A
+u7,shop7,1.2,3,Bad Service and Bad Hygiene,B
+u95,shop92,4.5,3.4,Good Hygiene,B
+u1,shop44,1.1,2.5,Bad Service and Bad Hygiene,B
+u68,shop86,2.2,4.5,Good Service,B
+u2,shop134,4.3,4.3,Good Hygiene,B
+u58,shop27,2.9,2.8,Bad Service and Bad Hygiene,B
+u25,shop101,2.8,3.9,Good Service,A
+u73,shop80,1.3,4,Good Service,A
+u76,shop5,3.5,3.7,Good Service,A
+u96,shop48,4.7,3.5,Good Hygiene,A
+u17,shop59,1.4,2.4,Bad Service and Bad Hygiene,A
+u56,shop148,3.7,1.2,Good Hygiene,A
+u44,shop112,1.5,4.8,Good Service,A
+u21,shop62,4.8,3,Good Hygiene,A
+u49,shop72,2.5,1.2,Bad Service and Bad Hygiene,B
+u32,shop65,1.3,4.9,Good Service,A
+u98,shop133,3.2,3.7,Good Service,B
+u71,shop90,2.9,3.1,Bad Service and Bad Hygiene,B
+u12,shop31,4.2,1.5,Good Hygiene,B
+u6,shop56,3.5,2.8,Bad Service and Bad Hygiene,B
+u64,shop148,2.2,2.2,Bad Service and Bad Hygiene,A
+u74,shop39,3.8,3.7,Good Hygiene,A
+u10,shop2,1.2,3.2,Bad Service and Bad Hygiene,A
+u30,shop15,3.6,3.4,Good Hygiene,A
+u88,shop46,4.6,2,Good Hygiene,B
+u12,shop1,1.1,3.5,Bad Service and Bad Hygiene,B
+u39,shop97,3.6,4.8,Good Hygiene,B
+u93,shop13,3.6,3.6,Good Hygiene,B
+u7,shop16,2.7,3.4,Bad Service and Bad Hygiene,B
+u63,shop120,3.1,4.5,Good Service,A
+u67,shop31,3.1,3.4,Bad Service and Bad Hygiene,A
+u99,shop48,2,3.5,Bad Service and Bad Hygiene,B
+u60,shop43,1.1,3.9,Good Service,B
+u78,shop103,3,4.1,Good Service,B
+u99,shop136,3,2.9,Bad Service and Bad Hygiene,A
+u84,shop13,1.4,4.9,Good Service,A
+u19,shop13,4,4.3,Good Hygiene,B
+u63,shop92,4.8,4.4,Good Hygiene,A
+u87,shop62,1.4,3.6,Good Service,A
+u18,shop77,1.3,2.4,Bad Service and Bad Hygiene,A
+u65,shop34,3.5,4.4,Good Service,B
+u30,shop133,3.9,4.4,Good Hygiene,A
+u10,shop135,4.5,3,Good Hygiene,B
+u61,shop111,4.2,3.7,Good Hygiene,B
+u47,shop94,3.8,2.2,Good Hygiene,B
+u82,shop103,1.3,4.7,Good Service,B
+u68,shop126,3.1,4.2,Good Service,B
+u56,shop4,1.2,4.7,Good Service,A
+u37,shop27,1.3,3,Bad Service and Bad Hygiene,A
+u85,shop38,4.2,3.2,Good Hygiene,A
+u5,shop47,4.7,4.8,Good Hygiene,B
+u48,shop65,5,3,Good Hygiene,B
+u1,shop1,3.7,5,Good Hygiene,A
+u31,shop16,4.3,1.3,Good Hygiene,B
+u95,shop63,3.9,2.2,Good Hygiene,A
+u89,shop30,1.1,1.5,Bad Service and Bad Hygiene,B
+u87,shop60,4.4,4.4,Good Hygiene,A
+u79,shop98,1.4,4.9,Good Service,B
+u84,shop40,2.7,3.6,Good Service,A
+u11,shop102,2.7,4.3,Good Service,B
+u60,shop4,2.5,2.6,Bad Service and Bad Hygiene,A
+u46,shop43,3.1,3,Bad Service and Bad Hygiene,B
+u44,shop15,2.4,4.2,Good Service,B
+u68,shop104,2.5,1.5,Bad Service and Bad Hygiene,B
+u24,shop52,3.2,2,Bad Service and Bad Hygiene,A
+u95,shop112,4.5,4.8,Good Hygiene,B
+u66,shop106,2.4,1.3,Bad Service and Bad Hygiene,B
+u67,shop78,4.1,4.2,Good Hygiene,A
+u10,shop22,3,2.2,Bad Service and Bad Hygiene,A
+u34,shop17,2.9,2.9,Bad Service and Bad Hygiene,B
+u79,shop30,4.1,2.9,Good Hygiene,A
+u2,shop86,1.2,4.3,Good Service,B
+u48,shop4,3.5,2,Bad Service and Bad Hygiene,A
+u89,shop43,3.5,3.6,Good Service,B
+u43,shop95,4.7,1.4,Good Hygiene,B
+u94,shop42,2.4,4.5,Good Service,A
+u2,shop15,3,1.3,Bad Service and Bad Hygiene,B
+u57,shop44,5,2.7,Good Hygiene,A
+u2,shop143,4.6,3.1,Good Hygiene,A
+u26,shop76,4.7,2.8,Good Hygiene,B
+u8,shop117,3.9,3.8,Good Hygiene,B
+u25,shop142,3.4,4.8,Good Service,B
+u59,shop11,1.1,4.3,Good Service,A
+u88,shop150,2.7,4.8,Good Service,A
+u97,shop122,3,1.3,Bad Service and Bad Hygiene,A
+u49,shop112,3.8,4.9,Good Hygiene,A
+u89,shop133,4.2,3.4,Good Hygiene,B
+u20,shop11,4.8,4.4,Good Hygiene,A
+u64,shop149,3.6,3.1,Good Hygiene,A
+u26,shop141,4.8,2.2,Good Hygiene,A
+u2,shop69,2,4.2,Good Service,B
+u68,shop80,2.6,1.4,Bad Service and Bad Hygiene,B
+u13,shop60,3.2,2.7,Bad Service and Bad Hygiene,B
+u26,shop65,4.6,2.2,Good Hygiene,A
+u25,shop29,2,4.6,Good Service,B
+u96,shop132,5,4.8,Good Hygiene,B
+u83,shop26,2.9,1.3,Bad Service and Bad Hygiene,B
+u46,shop144,3.9,2.5,Good Hygiene,B
+u30,shop31,3.9,4.3,Good Hygiene,A
+u2,shop86,3.5,3.6,Good Service,B
+u13,shop85,4.1,2.9,Good Hygiene,A
+u10,shop81,2.2,4.8,Good Service,A
+u43,shop144,1.5,3.1,Bad Service and Bad Hygiene,A
+u90,shop90,4.2,4.3,Good Hygiene,A
+u26,shop64,2.7,1.5,Bad Service and Bad Hygiene,B
+u43,shop141,4.4,2,Good Hygiene,B
+u45,shop100,1.1,4.3,Good Service,B
+u18,shop63,1.2,3,Bad Service and Bad Hygiene,B
+u8,shop72,4.1,1.4,Good Hygiene,B
+u85,shop95,2.8,3.9,Good Service,B
+u85,shop79,4.9,3.2,Good Hygiene,B
+u10,shop23,3.2,4.2,Good Service,A
+u42,shop123,4.2,4.1,Good Hygiene,B
+u17,shop89,4.4,1.5,Good Hygiene,A
+u7,shop54,4,4.5,Good Hygiene,B
+u94,shop69,2.5,3.8,Good Service,B
+u55,shop99,2.7,4.4,Good Service,B
+u91,shop113,4.4,2.6,Good Hygiene,A
+u40,shop130,3.9,2.2,Good Hygiene,B
+u12,shop52,3.2,3.7,Good Service,A
+u48,shop20,3.9,2.9,Good Hygiene,A
+u37,shop123,3.2,4.7,Good Service,B
+u59,shop42,2.7,2.4,Bad Service and Bad Hygiene,A
+u40,shop150,5,3,Good Hygiene,B
+u89,shop73,4.1,3.8,Good Hygiene,B
+u60,shop148,1.3,4.4,Good Service,B
+u15,shop127,3.2,3.6,Good Service,B
+u5,shop133,2,3.1,Bad Service and Bad Hygiene,A
+u87,shop100,2.5,3.8,Good Service,B
+u87,shop77,2.9,1.2,Bad Service and Bad Hygiene,A
+u79,shop47,3.9,2.9,Good Hygiene,A
+u44,shop88,2.6,2.2,Bad Service and Bad Hygiene,A
+u48,shop124,2.4,4.2,Good Service,B
+u27,shop127,2.2,3.4,Bad Service and Bad Hygiene,A
+u16,shop122,2.7,4.1,Good Service,A
+u71,shop23,1.1,2,Bad Service and Bad Hygiene,B
+u55,shop39,3.5,2.9,Bad Service and Bad Hygiene,A
+u91,shop145,2.6,2.5,Bad Service and Bad Hygiene,A
+u80,shop60,4.2,2.9,Good Hygiene,B
+u49,shop6,1.4,2.8,Bad Service and Bad Hygiene,A
+u15,shop69,4.7,1.2,Good Hygiene,A
+u69,shop71,3.1,2.5,Bad Service and Bad Hygiene,B
+u75,shop106,1.3,1.5,Bad Service and Bad Hygiene,A
+u80,shop35,4.3,3.9,Good Hygiene,A
+u56,shop147,2.8,4.5,Good Service,B
+u15,shop115,3.5,3.6,Good Service,B
+u18,shop71,1.5,4.5,Good Service,A
+u2,shop75,3.5,2.7,Bad Service and Bad Hygiene,A
+u59,shop140,3.2,2.8,Bad Service and Bad Hygiene,B
+u67,shop35,4.3,3.1,Good Hygiene,B
+u50,shop108,3,4.8,Good Service,A
+u51,shop86,2.4,1.4,Bad Service and Bad Hygiene,A
+u82,shop124,2.8,2.7,Bad Service and Bad Hygiene,B
+u39,shop86,1.2,3.2,Bad Service and Bad Hygiene,A
+u83,shop144,3,4.6,Good Service,A
+u53,shop38,1.1,2.7,Bad Service and Bad Hygiene,B
+u45,shop104,2,5,Good Service,B
+u83,shop74,2.6,4.3,Good Service,B
+u54,shop103,4.7,1.3,Good Hygiene,A
+u56,shop25,3.5,2.8,Bad Service and Bad Hygiene,A
+u70,shop87,2.4,2.7,Bad Service and Bad Hygiene,B
+u99,shop150,2.8,2.6,Bad Service and Bad Hygiene,B
+u88,shop48,3.5,4.8,Good Service,A
+u51,shop56,2.8,4.1,Good Service,B
+u38,shop51,1.3,2.4,Bad Service and Bad Hygiene,B
+u35,shop123,2.7,5,Good Service,A
+u54,shop134,3.1,3.7,Good Service,A
+u99,shop13,4.5,2.7,Good Hygiene,A
+u100,shop125,3.7,2.5,Good Hygiene,B
+u96,shop49,4.8,4.3,Good Hygiene,A
+u51,shop124,4.1,3.2,Good Hygiene,B
+u75,shop55,4.5,3.4,Good Hygiene,B
+u20,shop2,1.2,1.5,Bad Service and Bad Hygiene,B
+u43,shop25,3.7,4.2,Good Hygiene,B
+u30,shop121,3.5,5,Good Service,B
+u4,shop30,1.5,2.5,Bad Service and Bad Hygiene,B
+u29,shop50,4.6,4,Good Hygiene,B
+u73,shop132,4,4,Good Hygiene,B
+u23,shop143,2.4,4.6,Good Service,B
+u61,shop101,3.9,2,Good Hygiene,A
+u58,shop139,1.3,3.4,Bad Service and Bad Hygiene,B
+u99,shop64,3.5,4.3,Good Service,A
+u1,shop141,1.1,3.5,Bad Service and Bad Hygiene,A
+u5,shop123,3.5,2.2,Bad Service and Bad Hygiene,B
+u65,shop56,3.7,2,Good Hygiene,A
+u1,shop114,4.5,3.1,Good Hygiene,B
+u59,shop54,2,3.2,Bad Service and Bad Hygiene,A
+u16,shop116,4.2,4.2,Good Hygiene,B
+u7,shop35,2.4,4.2,Good Service,B
+u86,shop29,3.7,3.2,Good Hygiene,B
+u80,shop107,3.7,1.2,Good Hygiene,B
+u51,shop65,3.7,3.8,Good Hygiene,B
+u81,shop82,2.5,2,Bad Service and Bad Hygiene,A
+u28,shop70,2.7,4.7,Good Service,A
+u98,shop9,4.4,4.7,Good Hygiene,B
+u52,shop94,1.4,4.5,Good Service,A
+u76,shop8,1.5,5,Good Service,A
+u84,shop37,2.6,4.7,Good Service,B
+u92,shop22,3.2,5,Good Service,B
+u73,shop61,2.6,3.9,Good Service,B
+u73,shop120,4.4,4.8,Good Hygiene,B
+u52,shop119,3.5,4.7,Good Service,A
+u44,shop126,4.7,3.9,Good Hygiene,A
+u45,shop67,3.6,2.6,Good Hygiene,B
+u12,shop26,4.4,2.8,Good Hygiene,B
+u30,shop134,2.4,4.2,Good Service,A
+u73,shop72,1.1,4.4,Good Service,B
+u8,shop77,2,4.9,Good Service,B
+u73,shop101,2.5,4,Good Service,A
+u100,shop101,3.5,1.2,Bad Service and Bad Hygiene,B
+u50,shop149,1.2,4,Good Service,A
+u14,shop40,4.2,1.4,Good Hygiene,A
+u80,shop44,3.4,3.5,Bad Service and Bad Hygiene,A
+u88,shop31,3.4,2.7,Bad Service and Bad Hygiene,B
+u40,shop82,4.4,2.7,Good Hygiene,B
+u66,shop122,1.2,1.1,Bad Service and Bad Hygiene,A
+u8,shop78,3.8,2.6,Good Hygiene,B
+u26,shop57,4.4,4,Good Hygiene,A
+u77,shop145,4.8,2.6,Good Hygiene,A
+u11,shop13,4.6,4,Good Hygiene,B
+u59,shop106,2.2,3.9,Good Service,B
+u34,shop11,1.5,1.4,Bad Service and Bad Hygiene,B
+u3,shop81,3.5,4.9,Good Service,B
+u34,shop53,4.6,3.7,Good Hygiene,B
+u75,shop19,3,4.2,Good Service,A
+u47,shop129,4.5,3.4,Good Hygiene,A
+u68,shop145,1.3,4.5,Good Service,B
+u58,shop123,3.6,2.5,Good Hygiene,A
+u40,shop124,2.5,3.1,Bad Service and Bad Hygiene,B
+u17,shop128,3.8,4.4,Good Hygiene,B
+u10,shop6,3.2,4.1,Good Service,A
+u78,shop24,1.5,2,Bad Service and Bad Hygiene,A
+u9,shop18,4.2,4.5,Good Hygiene,B
+u18,shop1,4.4,4.3,Good Hygiene,B
+u23,shop76,2.9,2.7,Bad Service and Bad Hygiene,B
+u79,shop82,4.7,3.6,Good Hygiene,B
+u92,shop47,4.7,2.8,Good Hygiene,B
+u54,shop103,4.3,4.3,Good Hygiene,B
+u28,shop150,4.1,2.7,Good Hygiene,A
+u43,shop25,4.8,3.2,Good Hygiene,B
+u53,shop121,3.7,2.4,Good Hygiene,B
+u4,shop26,4.9,3,Good Hygiene,A
+u82,shop11,3.7,4.3,Good Hygiene,A
+u5,shop79,2.9,2.7,Bad Service and Bad Hygiene,B
+u21,shop111,4,4.5,Good Hygiene,B
+u29,shop14,4.7,4.1,Good Hygiene,A
+u53,shop149,4.1,3.6,Good Hygiene,A
+u20,shop118,2.6,3.2,Bad Service and Bad Hygiene,B
+u58,shop57,2.5,2,Bad Service and Bad Hygiene,A
+u55,shop96,3.6,2.6,Good Hygiene,B
+u64,shop76,1.4,3.7,Good Service,A
+u78,shop3,4.5,4.2,Good Hygiene,A
+u51,shop120,4,2,Good Hygiene,B
+u34,shop110,2.9,3.5,Bad Service and Bad Hygiene,B
+u4,shop29,3.9,3.5,Good Hygiene,A
+u5,shop88,3.5,4.8,Good Service,A
+u76,shop143,4.3,1.5,Good Hygiene,B
+u32,shop23,3,2.9,Bad Service and Bad Hygiene,B
+u48,shop31,2.4,4.1,Good Service,A
+u20,shop76,2.2,3.7,Good Service,A
+u60,shop38,2.8,2.8,Bad Service and Bad Hygiene,B
+u91,shop26,2.6,3.9,Good Service,B
+u69,shop40,3.7,1.3,Good Hygiene,B
+u26,shop27,3.5,3.6,Good Service,B
+u77,shop46,2.2,4.5,Good Service,A
+u76,shop134,2.6,1.4,Bad Service and Bad Hygiene,B
+u94,shop55,3.6,3.5,Good Hygiene,B
+u49,shop147,3.4,1.5,Bad Service and Bad Hygiene,A
+u84,shop42,2.7,2,Bad Service and Bad Hygiene,B
+u75,shop37,3.1,1.5,Bad Service and Bad Hygiene,B
+u37,shop103,3.4,3.5,Bad Service and Bad Hygiene,B
+u68,shop88,2,4.7,Good Service,A
+u43,shop54,4.7,1.1,Good Hygiene,A
+u71,shop104,3.2,2.7,Bad Service and Bad Hygiene,B
+u85,shop86,1.5,3.8,Good Service,A
+u21,shop132,1.2,2,Bad Service and Bad Hygiene,A
+u95,shop122,3.5,1.3,Bad Service and Bad Hygiene,B
+u20,shop114,2.6,4.1,Good Service,B
+u38,shop47,4,4.7,Good Hygiene,B
+u81,shop136,5,4,Good Hygiene,A
+u52,shop52,3.6,4.3,Good Hygiene,A
+u13,shop66,2.7,4.9,Good Service,A
+u38,shop68,2.6,3.2,Bad Service and Bad Hygiene,B
+u100,shop48,1.1,3.1,Bad Service and Bad Hygiene,B
+u74,shop106,3.9,2,Good Hygiene,B
+u5,shop61,1.2,1.4,Bad Service and Bad Hygiene,B
+u65,shop113,4.3,3.7,Good Hygiene,A
+u99,shop143,2.9,4.6,Good Service,A
+u17,shop81,4.4,4.2,Good Hygiene,A
+u43,shop27,3.1,2.7,Bad Service and Bad Hygiene,A
+u88,shop94,4,2.6,Good Hygiene,B
+u55,shop81,3.7,3.7,Good Hygiene,A
+u83,shop120,3.5,3.8,Good Service,B
+u83,shop36,2.7,2.9,Bad Service and Bad Hygiene,B
+u64,shop114,1.3,1.4,Bad Service and Bad Hygiene,B
+u6,shop40,4.1,3.8,Good Hygiene,B
+u13,shop17,2.6,3.4,Bad Service and Bad Hygiene,B
+u1,shop16,4.1,3.1,Good Hygiene,A
+u13,shop100,3.6,2.4,Good Hygiene,A
+u16,shop27,2.9,4.8,Good Service,A
+u4,shop31,1.3,4.4,Good Service,A
+u12,shop98,3.7,2.4,Good Hygiene,B
+u64,shop98,2.6,2.6,Bad Service and Bad Hygiene,A
+u21,shop148,1.1,4,Good Service,B
+u51,shop113,3.7,2.9,Good Hygiene,A
+u18,shop37,2.2,2.7,Bad Service and Bad Hygiene,B
+u86,shop99,3.7,4,Good Hygiene,B
+u57,shop79,3,3.5,Bad Service and Bad Hygiene,A
+u4,shop78,3.9,3.9,Good Hygiene,A
+u2,shop17,4.5,2.9,Good Hygiene,B
+u24,shop62,2.4,1.1,Bad Service and Bad Hygiene,A
+u46,shop130,4.3,4.9,Good Hygiene,B
+u18,shop14,4,4.8,Good Hygiene,B
+u14,shop106,1.1,2.8,Bad Service and Bad Hygiene,A
+u86,shop9,2,2,Bad Service and Bad Hygiene,B
+u71,shop101,4.5,4.6,Good Hygiene,A
+u29,shop23,2.4,2.9,Bad Service and Bad Hygiene,A
+u65,shop7,4.2,2.4,Good Hygiene,B
+u66,shop64,2.5,1.1,Bad Service and Bad Hygiene,B
+u6,shop114,1.5,2.9,Bad Service and Bad Hygiene,A
+u80,shop37,4.7,2.5,Good Hygiene,B
+u94,shop135,3.8,3.8,Good Hygiene,B
+u81,shop19,2,4.9,Good Service,B
+u6,shop37,1.4,1.5,Bad Service and Bad Hygiene,A
+u87,shop48,3.5,3.9,Good Service,A
+u41,shop144,1.3,2.9,Bad Service and Bad Hygiene,B
+u12,shop13,3.9,1.3,Good Hygiene,A
+u18,shop99,4.2,1.1,Good Hygiene,A
+u21,shop57,1.4,4,Good Service,B
+u53,shop14,1.3,2.8,Bad Service and Bad Hygiene,A
+u74,shop129,1.1,1.3,Bad Service and Bad Hygiene,B
+u93,shop131,2.6,2.7,Bad Service and Bad Hygiene,A
+u67,shop111,3.9,4.4,Good Hygiene,B
+u46,shop5,3.8,3.7,Good Hygiene,A
+u19,shop1,2.5,3.8,Good Service,B
+u55,shop113,4.8,2.6,Good Hygiene,B
+u24,shop2,4,2,Good Hygiene,A
+u13,shop139,4.8,4.3,Good Hygiene,A
+u86,shop136,2,4.1,Good Service,B
+u44,shop104,4,3.4,Good Hygiene,A
+u93,shop147,2.9,2.9,Bad Service and Bad Hygiene,A
+u73,shop148,4.1,3,Good Hygiene,B
+u36,shop113,2,3.9,Good Service,A
+u2,shop48,4.7,2.7,Good Hygiene,B
+u33,shop46,2.2,3.4,Bad Service and Bad Hygiene,B
+u77,shop121,3.5,2,Bad Service and Bad Hygiene,B
+u40,shop137,4.3,3.4,Good Hygiene,A
+u64,shop133,4.2,2,Good Hygiene,A
+u25,shop63,3.8,4.7,Good Hygiene,B
+u86,shop98,3.9,2.5,Good Hygiene,B
+u99,shop78,3.5,4.4,Good Service,B
+u24,shop128,2.8,1.3,Bad Service and Bad Hygiene,A
+u15,shop27,4.1,4.1,Good Hygiene,A
+u92,shop147,1.3,1.2,Bad Service and Bad Hygiene,B
+u7,shop18,4.1,4.4,Good Hygiene,A
+u9,shop7,2.8,2.2,Bad Service and Bad Hygiene,A
+u70,shop34,1.5,2.9,Bad Service and Bad Hygiene,A
+u81,shop49,4.4,4.4,Good Hygiene,B
+u39,shop72,4.9,4.1,Good Hygiene,B
+u36,shop115,4.8,3.5,Good Hygiene,B
+u45,shop55,3.8,2.2,Good Hygiene,A
+u36,shop136,3,3.8,Good Service,B
+u61,shop85,4.5,1.2,Good Hygiene,A
+u31,shop111,3.4,4.7,Good Service,B
+u90,shop17,4.8,2.9,Good Hygiene,B
+u25,shop122,3.7,3.2,Good Hygiene,A
+u77,shop126,3.1,2.9,Bad Service and Bad Hygiene,B
+u68,shop69,1.5,4,Good Service,A
+u73,shop17,2.8,2.6,Bad Service and Bad Hygiene,A
+u32,shop57,4.9,4.4,Good Hygiene,A
+u97,shop41,4.9,2,Good Hygiene,B
+u55,shop97,4.2,1.2,Good Hygiene,A
+u23,shop49,2.7,4.2,Good Service,B
+u74,shop138,3.6,4.2,Good Hygiene,B
+u34,shop57,2.9,5,Good Service,B
+u52,shop44,3.6,3.8,Good Hygiene,B
+u6,shop3,1.1,1.3,Bad Service and Bad Hygiene,B
+u53,shop55,4.8,3.1,Good Hygiene,A
+u51,shop56,4.5,4.8,Good Hygiene,A
+u74,shop15,4.2,2.4,Good Hygiene,A
+u70,shop119,4.1,4.6,Good Hygiene,B
+u75,shop143,2.8,1.5,Bad Service and Bad Hygiene,A
+u60,shop130,3.5,1.5,Bad Service and Bad Hygiene,A
+u97,shop102,4.1,4.8,Good Hygiene,A
+u37,shop70,2.8,3.4,Bad Service and Bad Hygiene,A
+u74,shop51,3,4.7,Good Service,A
+u46,shop138,3.2,2.6,Bad Service and Bad Hygiene,B
+u86,shop6,1.1,2,Bad Service and Bad Hygiene,B
+u32,shop74,5,3.4,Good Hygiene,B
+u92,shop12,4.8,3.7,Good Hygiene,B
+u20,shop71,4.4,1.5,Good Hygiene,B
+u63,shop85,1.2,1.2,Bad Service and Bad Hygiene,B
+u70,shop122,3.2,4.1,Good Service,A
+u79,shop130,4.1,2.5,Good Hygiene,B
+u46,shop32,4.3,4.2,Good Hygiene,B
+u30,shop103,4.5,1.4,Good Hygiene,B
+u60,shop4,2.9,2.8,Bad Service and Bad Hygiene,B
+u100,shop128,4.2,2.4,Good Hygiene,B
+u62,shop148,3.5,4.3,Good Service,B
+u69,shop127,4.5,3.9,Good Hygiene,B
+u37,shop127,3.8,4.2,Good Hygiene,A
+u12,shop53,2,1.5,Bad Service and Bad Hygiene,A
+u84,shop8,4.7,2.6,Good Hygiene,B
+u88,shop150,3.9,3,Good Hygiene,A
+u29,shop11,2,3.4,Bad Service and Bad Hygiene,A
+u66,shop80,2.7,4.6,Good Service,A
+u87,shop21,4.5,4.4,Good Hygiene,B
+u37,shop94,3.1,4,Good Service,A
+u6,shop68,5,3.1,Good Hygiene,A
+u63,shop18,1.1,2.4,Bad Service and Bad Hygiene,B
+u58,shop29,3.7,3.7,Good Hygiene,B
+u22,shop66,2.6,2.4,Bad Service and Bad Hygiene,B
+u31,shop92,3.4,2,Bad Service and Bad Hygiene,A
+u47,shop118,2.8,3.5,Bad Service and Bad Hygiene,A
+u24,shop141,1.3,1.1,Bad Service and Bad Hygiene,A
+u87,shop28,2.2,3.7,Good Service,B
+u29,shop123,3.1,4,Good Service,A
+u93,shop43,3.5,4.7,Good Service,B
+u66,shop52,4.6,3.7,Good Hygiene,B
+u18,shop44,2.9,4,Good Service,B
+u62,shop118,2.9,3.1,Bad Service and Bad Hygiene,A
+u55,shop89,1.4,3.1,Bad Service and Bad Hygiene,A
+u39,shop35,1.1,3.4,Bad Service and Bad Hygiene,A
+u52,shop68,3.8,4.2,Good Hygiene,B
+u52,shop76,1.5,4.7,Good Service,B
+u79,shop108,2.8,4.7,Good Service,A
+u8,shop67,4.6,1.3,Good Hygiene,A
+u97,shop37,2.4,2.5,Bad Service and Bad Hygiene,A
+u92,shop100,2.6,4.1,Good Service,A
+u73,shop46,3.5,4.8,Good Service,B
+u53,shop40,2.8,1.5,Bad Service and Bad Hygiene,A
+u31,shop61,4.8,4.8,Good Hygiene,A
+u5,shop121,2.5,3.5,Bad Service and Bad Hygiene,A
+u100,shop58,2.5,2.7,Bad Service and Bad Hygiene,B
+u60,shop19,3.1,4.8,Good Service,A
+u83,shop48,2.7,2,Bad Service and Bad Hygiene,A
+u91,shop8,3.7,3.2,Good Hygiene,B
+u47,shop117,1.5,4.8,Good Service,A
+u7,shop108,1.4,3.8,Good Service,A
+u98,shop3,3.5,2.9,Bad Service and Bad Hygiene,A
+u51,shop109,4,2.9,Good Hygiene,A
+u26,shop41,1.4,1.4,Bad Service and Bad Hygiene,A
+u63,shop142,3,2.4,Bad Service and Bad Hygiene,A
+u47,shop8,3.6,3.1,Good Hygiene,B
+u38,shop3,3.5,3.1,Bad Service and Bad Hygiene,A
+u8,shop32,4,4.3,Good Hygiene,A
+u68,shop101,3.2,4,Good Service,A
+u18,shop33,4.4,4,Good Hygiene,A
+u24,shop115,3.5,3,Bad Service and Bad Hygiene,B
+u87,shop67,1.5,3.6,Good Service,B
+u98,shop24,2.4,2.2,Bad Service and Bad Hygiene,A
+u93,shop31,4.3,3.2,Good Hygiene,A
+u15,shop137,4.3,3.4,Good Hygiene,B
+u95,shop99,2.4,2.7,Bad Service and Bad Hygiene,A
+u82,shop30,1.3,3.5,Bad Service and Bad Hygiene,A
+u16,shop70,2.6,2.8,Bad Service and Bad Hygiene,A
+u76,shop11,1.4,3.6,Good Service,A
+u34,shop81,2.5,4.3,Good Service,B
+u48,shop50,2.2,4.7,Good Service,A
+u64,shop29,2,2,Bad Service and Bad Hygiene,A
+u96,shop1,1.5,4.8,Good Service,A
+u11,shop62,4.7,4,Good Hygiene,A
+u36,shop116,3.9,4.3,Good Hygiene,A
+u69,shop116,1.2,1.4,Bad Service and Bad Hygiene,A
+u65,shop38,2.9,1.2,Bad Service and Bad Hygiene,B
+u2,shop49,1.2,2.6,Bad Service and Bad Hygiene,B
+u78,shop104,4.3,2,Good Hygiene,B
+u89,shop49,3.1,2.7,Bad Service and Bad Hygiene,B
+u18,shop70,2.6,3,Bad Service and Bad Hygiene,B
+u31,shop134,4.7,4,Good Hygiene,B
+u86,shop150,3.9,3.7,Good Hygiene,B
+u27,shop125,4.3,5,Good Hygiene,B
+u63,shop40,3.6,2.8,Good Hygiene,A
+u91,shop24,1.3,3.4,Bad Service and Bad Hygiene,A
+u19,shop88,3.9,4.1,Good Hygiene,A
+u50,shop29,4.4,2.8,Good Hygiene,A
+u17,shop10,1.1,5,Good Service,A
+u54,shop73,3.1,1.1,Bad Service and Bad Hygiene,A
+u5,shop68,4.2,1.5,Good Hygiene,A
+u47,shop150,2.8,5,Good Service,B
+u58,shop44,3,4.5,Good Service,A
+u25,shop60,1.3,2.9,Bad Service and Bad Hygiene,B
+u30,shop73,3.7,1.3,Good Hygiene,B
+u41,shop76,3.9,4.8,Good Hygiene,A
+u72,shop59,2.5,2.4,Bad Service and Bad Hygiene,A
+u78,shop82,3,4,Good Service,A
+u27,shop10,4.9,4.7,Good Hygiene,B
+u68,shop76,3.4,4.1,Good Service,B
+u97,shop46,1.3,4.4,Good Service,B
+u23,shop88,2.4,2.2,Bad Service and Bad Hygiene,A
+u27,shop56,4.3,4.8,Good Hygiene,B
+u70,shop17,2.8,4,Good Service,B
+u77,shop34,1.5,3.6,Good Service,B
+u5,shop148,2.4,4.5,Good Service,A
+u31,shop52,4.9,1.3,Good Hygiene,B
+u29,shop149,2,1.5,Bad Service and Bad Hygiene,A
+u39,shop141,2.7,2,Bad Service and Bad Hygiene,A
+u62,shop127,4,2.8,Good Hygiene,B
+u11,shop10,1.5,3.1,Bad Service and Bad Hygiene,A
+u71,shop45,3.1,3.9,Good Service,A
+u15,shop95,3.9,4.1,Good Hygiene,B
+u17,shop52,1.5,4.1,Good Service,B
+u50,shop82,1.3,1.4,Bad Service and Bad Hygiene,B
+u71,shop115,5,5,Good Hygiene,A
+u92,shop82,1.5,3.5,Bad Service and Bad Hygiene,B
+u13,shop32,3,2.8,Bad Service and Bad Hygiene,B
+u6,shop114,4.2,4.4,Good Hygiene,A
+u37,shop134,4.1,1.5,Good Hygiene,A
+u1,shop128,1.5,1.2,Bad Service and Bad Hygiene,A
+u56,shop30,2.5,2.5,Bad Service and Bad Hygiene,A
+u10,shop85,2.4,2.7,Bad Service and Bad Hygiene,A
+u42,shop96,4.3,3.7,Good Hygiene,B
+u99,shop87,3.5,2.4,Bad Service and Bad Hygiene,A
+u74,shop76,3.2,2.2,Bad Service and Bad Hygiene,A
+u2,shop99,2,3.1,Bad Service and Bad Hygiene,A
+u41,shop148,4.1,4.3,Good Hygiene,B
+u88,shop1,4,2.8,Good Hygiene,A
+u90,shop68,4.2,3.5,Good Hygiene,B
+u79,shop60,3.4,3.4,Bad Service and Bad Hygiene,A
+u60,shop138,2.9,4.1,Good Service,B
+u16,shop15,4.4,4.8,Good Hygiene,A
+u97,shop62,2.4,3.9,Good Service,B
+u84,shop125,2.7,4.3,Good Service,A
+u69,shop53,3.2,3.5,Bad Service and Bad Hygiene,B
+u18,shop56,3.1,3.8,Good Service,A
+u70,shop20,3,2.5,Bad Service and Bad Hygiene,B
+u40,shop64,4.6,3.2,Good Hygiene,B
+u96,shop20,4.6,4.7,Good Hygiene,B
+u100,shop54,3.6,2.7,Good Hygiene,A
+u5,shop83,4.6,2.9,Good Hygiene,B
+u32,shop139,3.9,4,Good Hygiene,A
+u39,shop75,4,3.7,Good Hygiene,B
+u77,shop113,3,4.5,Good Service,A
+u54,shop59,1.2,4.5,Good Service,B
+u76,shop141,2.2,3,Bad Service and Bad Hygiene,A
+u68,shop141,3,4.5,Good Service,A
+u39,shop116,3.2,5,Good Service,A
+u37,shop104,1.3,3,Bad Service and Bad Hygiene,B
+u35,shop98,2.8,4,Good Service,B
+u74,shop121,4.8,4.4,Good Hygiene,A
+u84,shop59,5,4.7,Good Hygiene,B
+u6,shop47,1.1,3,Bad Service and Bad Hygiene,B
+u58,shop81,3.9,3,Good Hygiene,A
+u93,shop31,2,4.4,Good Service,B
+u45,shop14,4.5,5,Good Hygiene,A
+u83,shop49,3.9,5,Good Hygiene,B
+u78,shop71,1.2,3.5,Bad Service and Bad Hygiene,B
+u13,shop94,1.4,3.1,Bad Service and Bad Hygiene,B
+u46,shop137,4.5,1.2,Good Hygiene,A
+u44,shop139,4.3,1.2,Good Hygiene,A
+u4,shop79,4.1,4,Good Hygiene,A
+u97,shop140,4.6,3.8,Good Hygiene,B
+u68,shop42,1.5,4.2,Good Service,B
+u23,shop31,4.5,3.8,Good Hygiene,B
+u99,shop141,4.6,1.4,Good Hygiene,B
+u97,shop58,3,1.2,Bad Service and Bad Hygiene,B
+u79,shop58,4.7,3.7,Good Hygiene,B
+u17,shop7,3.8,3.4,Good Hygiene,B
+u74,shop63,4.9,4,Good Hygiene,A
+u62,shop79,1.4,4.1,Good Service,A
+u75,shop21,2.4,1.1,Bad Service and Bad Hygiene,B
+u4,shop24,3.7,3.4,Good Hygiene,A
+u78,shop17,4.7,3.7,Good Hygiene,B
+u52,shop92,4.5,4.6,Good Hygiene,A
+u45,shop123,4.3,3.9,Good Hygiene,B
+u47,shop59,2.9,3.4,Bad Service and Bad Hygiene,B
+u62,shop125,1.3,1.1,Bad Service and Bad Hygiene,B
+u31,shop2,4.6,4,Good Hygiene,B
+u10,shop118,2.5,5,Good Service,A
+u51,shop53,4.1,4.3,Good Hygiene,A
+u46,shop48,5,3.8,Good Hygiene,A
+u20,shop78,4.3,3.6,Good Hygiene,B
+u49,shop36,1.5,2.2,Bad Service and Bad Hygiene,B
+u57,shop22,2,1.3,Bad Service and Bad Hygiene,B
+u69,shop43,2.2,3,Bad Service and Bad Hygiene,B
+u48,shop39,3.5,2.9,Bad Service and Bad Hygiene,B
+u56,shop30,3.4,2.8,Bad Service and Bad Hygiene,B
+u26,shop104,1.3,2.7,Bad Service and Bad Hygiene,B
+u98,shop45,3.6,4.4,Good Hygiene,A
+u23,shop76,1.4,4.9,Good Service,A
+u100,shop24,3.6,2.7,Good Hygiene,B
+u83,shop45,3.9,3.6,Good Hygiene,B
+u24,shop129,1.2,1.1,Bad Service and Bad Hygiene,A
+u71,shop55,3,2,Bad Service and Bad Hygiene,A
+u4,shop55,2.5,3.7,Good Service,B
+u86,shop93,3.9,1.5,Good Hygiene,A
+u49,shop67,4.2,2.5,Good Hygiene,B
+u39,shop140,2.5,4.8,Good Service,A
+u94,shop76,4,2.4,Good Hygiene,B
+u68,shop122,1.3,3,Bad Service and Bad Hygiene,B
+u23,shop5,2.2,4.6,Good Service,A
+u53,shop47,2.8,3,Bad Service and Bad Hygiene,A
+u83,shop121,2.5,2,Bad Service and Bad Hygiene,B
+u90,shop62,1.5,1.5,Bad Service and Bad Hygiene,A
+u79,shop37,4.9,4.7,Good Hygiene,B
+u93,shop88,2.8,1.1,Bad Service and Bad Hygiene,B
+u16,shop72,4.4,1.4,Good Hygiene,B
+u50,shop106,2.4,2.7,Bad Service and Bad Hygiene,A
+u9,shop136,4.1,4.7,Good Hygiene,A
+u41,shop125,4.2,1.2,Good Hygiene,B
+u20,shop60,4.7,4.6,Good Hygiene,A
+u11,shop88,4.1,3.5,Good Hygiene,A
+u61,shop40,4.2,1.3,Good Hygiene,A
+u92,shop149,4.7,3.6,Good Hygiene,A
+u79,shop1,2.9,3,Bad Service and Bad Hygiene,A
+u19,shop73,3.9,4.6,Good Hygiene,A
+u96,shop32,5,1.3,Good Hygiene,A
+u77,shop143,1.2,4.4,Good Service,A
+u93,shop132,2.2,5,Good Service,A
+u41,shop7,1.2,2.9,Bad Service and Bad Hygiene,A
+u99,shop35,4.3,4.5,Good Hygiene,A
+u98,shop37,3.9,4.7,Good Hygiene,A
+u24,shop137,1.3,4.6,Good Service,A
+u69,shop75,3.2,3.2,Bad Service and Bad Hygiene,B
+u4,shop132,2.8,3.9,Good Service,A
+u77,shop21,4.6,3.6,Good Hygiene,B
+u92,shop140,4.8,4.7,Good Hygiene,A
+u43,shop107,2.5,4.4,Good Service,B
+u5,shop79,4.8,5,Good Hygiene,B
+u12,shop34,4.7,3.4,Good Hygiene,B
+u94,shop118,2.8,1.3,Bad Service and Bad Hygiene,B
+u34,shop21,1.2,4,Good Service,B
+u96,shop24,1.1,3.4,Bad Service and Bad Hygiene,B
+u52,shop42,3,4.6,Good Service,A
+u53,shop10,4.2,3.2,Good Hygiene,A
+u83,shop42,3.5,2.5,Bad Service and Bad Hygiene,A
+u89,shop44,3.2,3.1,Bad Service and Bad Hygiene,B
+u3,shop19,3.1,2,Bad Service and Bad Hygiene,B
+u24,shop103,3.1,2.4,Bad Service and Bad Hygiene,B
+u10,shop57,1.2,3.6,Good Service,B
+u95,shop17,3.4,3.8,Good Service,B
+u73,shop41,2.2,3.7,Good Service,B
+u32,shop72,3.5,2.4,Bad Service and Bad Hygiene,B
+u73,shop29,4.2,2,Good Hygiene,B
+u39,shop105,3,3.7,Good Service,B
+u29,shop58,4.6,4.3,Good Hygiene,A
+u67,shop36,4.1,4.6,Good Hygiene,B
+u16,shop65,2.6,2.2,Bad Service and Bad Hygiene,A
+u41,shop116,1.3,1.2,Bad Service and Bad Hygiene,A
+u60,shop132,4.8,1.3,Good Hygiene,B
+u57,shop8,2.8,1.2,Bad Service and Bad Hygiene,A
+u10,shop110,2.6,3.4,Bad Service and Bad Hygiene,B
+u27,shop64,3.1,1.5,Bad Service and Bad Hygiene,B
+u71,shop42,3,1.4,Bad Service and Bad Hygiene,A
+u93,shop26,2.5,4.7,Good Service,A
+u91,shop69,3.5,3.2,Bad Service and Bad Hygiene,B
+u65,shop54,3.6,2.6,Good Hygiene,B
+u59,shop126,4.5,3,Good Hygiene,A
+u36,shop67,1.4,1.1,Bad Service and Bad Hygiene,B
+u91,shop109,4.3,4.2,Good Hygiene,B
+u9,shop8,3.4,1.2,Bad Service and Bad Hygiene,B
+u28,shop83,4.9,2.4,Good Hygiene,B
+u16,shop136,4.9,1.2,Good Hygiene,A
+u72,shop148,3.7,4.5,Good Hygiene,B
+u99,shop76,4.8,4.4,Good Hygiene,A
+u2,shop94,4.1,1.2,Good Hygiene,A
+u27,shop52,4.7,2.9,Good Hygiene,B
+u6,shop110,3.2,1.5,Bad Service and Bad Hygiene,A
+u45,shop43,3.6,4.3,Good Hygiene,B
+u32,shop89,3.5,2.6,Bad Service and Bad Hygiene,B
+u95,shop14,3.9,2.6,Good Hygiene,A
+u85,shop37,3.7,4.9,Good Hygiene,A
+u98,shop9,2.8,5,Good Service,A
+u94,shop26,1.5,3.4,Bad Service and Bad Hygiene,B
+u71,shop4,3.9,4.4,Good Hygiene,B
+u80,shop66,3.8,3,Good Hygiene,B
+u21,shop143,1.2,4.9,Good Service,B
+u12,shop122,3.9,1.1,Good Hygiene,A
+u86,shop45,3.6,4.6,Good Hygiene,A
+u54,shop110,2.5,2.9,Bad Service and Bad Hygiene,A
+u45,shop101,3.8,3.4,Good Hygiene,B
+u82,shop34,2.6,4,Good Service,A
+u83,shop150,4,1.1,Good Hygiene,A
+u43,shop43,2.9,4.9,Good Service,B
+u98,shop46,2,4.2,Good Service,A
+u42,shop147,1.1,3.5,Bad Service and Bad Hygiene,B
+u90,shop105,2.4,2.7,Bad Service and Bad Hygiene,B
+u75,shop92,1.1,2.5,Bad Service and Bad Hygiene,A
+u41,shop5,4.8,2.4,Good Hygiene,A
+u87,shop34,3.8,4.6,Good Hygiene,A
+u4,shop77,2.4,3.9,Good Service,A
+u9,shop18,4.4,3.9,Good Hygiene,A
+u26,shop77,4.1,5,Good Hygiene,A
+u46,shop67,3.1,2.5,Bad Service and Bad Hygiene,B
+u55,shop73,2.8,1.1,Bad Service and Bad Hygiene,A
+u11,shop138,3.2,3.2,Bad Service and Bad Hygiene,B
+u43,shop70,1.3,2.9,Bad Service and Bad Hygiene,A
+u58,shop141,3.2,2.9,Bad Service and Bad Hygiene,A
+u71,shop27,5,4.1,Good Hygiene,B
+u58,shop134,3.8,1.3,Good Hygiene,B
+u9,shop35,3.4,3.2,Bad Service and Bad Hygiene,A
+u28,shop55,1.4,3.8,Good Service,A
+u79,shop134,4.2,3.2,Good Hygiene,B
+u40,shop26,4.9,3.6,Good Hygiene,A
+u78,shop49,2.2,2.2,Bad Service and Bad Hygiene,B
+u61,shop53,4.8,2.6,Good Hygiene,B
+u48,shop147,3.7,4.6,Good Hygiene,B
+u100,shop109,3.7,2.4,Good Hygiene,A
+u34,shop5,3.7,1.5,Good Hygiene,A
+u19,shop55,5,2.6,Good Hygiene,B
+u15,shop75,2,2.6,Bad Service and Bad Hygiene,B
+u41,shop106,3.2,3.2,Bad Service and Bad Hygiene,B
+u4,shop56,4.5,2.6,Good Hygiene,A
+u29,shop149,4.3,2.8,Good Hygiene,B
+u75,shop38,4.1,3.4,Good Hygiene,A
+u38,shop15,2.9,2.6,Bad Service and Bad Hygiene,B
+u88,shop15,4.6,4,Good Hygiene,B
+u74,shop60,4.3,4.8,Good Hygiene,A
+u12,shop22,2.6,3.1,Bad Service and Bad Hygiene,A
+u54,shop57,2.4,4.7,Good Service,A
+u65,shop94,3.1,4.1,Good Service,B
+u13,shop24,3.7,2.8,Good Hygiene,B
+u80,shop72,3,3.4,Bad Service and Bad Hygiene,A
+u75,shop57,3.9,5,Good Hygiene,A
+u14,shop125,4.8,3.6,Good Hygiene,B
+u85,shop54,2.4,3.8,Good Service,B
+u25,shop52,1.4,1.4,Bad Service and Bad Hygiene,A
+u37,shop56,3.8,5,Good Hygiene,A
+u37,shop131,3.2,2.8,Bad Service and Bad Hygiene,B
+u73,shop115,2.9,2,Bad Service and Bad Hygiene,A
+u76,shop124,4,1.5,Good Hygiene,B
+u56,shop128,2.7,2.8,Bad Service and Bad Hygiene,B
+u42,shop146,4,4,Good Hygiene,A
+u86,shop98,1.3,4.3,Good Service,B
+u57,shop51,2.9,2.5,Bad Service and Bad Hygiene,A
+u45,shop61,3.4,1.4,Bad Service and Bad Hygiene,B
+u58,shop2,2.5,3.7,Good Service,B
+u16,shop24,3.8,4.9,Good Hygiene,A
+u64,shop60,2,4.4,Good Service,B
+u22,shop93,4.5,4.5,Good Hygiene,A
+u26,shop144,4.1,5,Good Hygiene,A
+u99,shop43,2.6,3.2,Bad Service and Bad Hygiene,B
+u34,shop120,4.2,1.3,Good Hygiene,B
+u8,shop83,3,2.7,Bad Service and Bad Hygiene,A
+u5,shop43,2.4,1.4,Bad Service and Bad Hygiene,A
+u78,shop128,1.3,4.7,Good Service,A
+u50,shop110,2.9,2.9,Bad Service and Bad Hygiene,A
+u14,shop106,3.4,1.4,Bad Service and Bad Hygiene,A
+u45,shop142,3.1,4.2,Good Service,B
+u27,shop82,5,4,Good Hygiene,A
+u91,shop58,1.1,4.3,Good Service,A
+u66,shop144,4.1,3.5,Good Hygiene,B
+u85,shop2,4.1,4.4,Good Hygiene,B
+u30,shop124,3.7,1.2,Good Hygiene,A
+u52,shop121,4,2.5,Good Hygiene,A
+u5,shop96,4.9,4.1,Good Hygiene,A
+u22,shop53,3.5,1.5,Bad Service and Bad Hygiene,B
+u62,shop73,2.4,1.1,Bad Service and Bad Hygiene,B
+u79,shop107,3.5,4.7,Good Service,B
+u16,shop53,2,3,Bad Service and Bad Hygiene,A
+u68,shop93,2.9,4.3,Good Service,A
+u87,shop12,3.1,2.5,Bad Service and Bad Hygiene,A
+u34,shop85,1.4,3.4,Bad Service and Bad Hygiene,A
+u26,shop44,3.9,4.5,Good Hygiene,B
+u84,shop132,4.1,3.2,Good Hygiene,A
+u59,shop145,3,4.9,Good Service,A
+u85,shop12,1.4,4.7,Good Service,A
+u68,shop25,4.5,2.2,Good Hygiene,B
+u34,shop72,3.5,2.6,Bad Service and Bad Hygiene,A
+u75,shop73,2,1.2,Bad Service and Bad Hygiene,A
+u88,shop113,1.4,3.1,Bad Service and Bad Hygiene,A
+u36,shop70,3.5,4.9,Good Service,B
+u28,shop143,2.5,5,Good Service,A
+u26,shop76,2.5,4.4,Good Service,B
+u25,shop60,4.8,4.1,Good Hygiene,A
+u30,shop132,1.5,3.6,Good Service,A
+u75,shop78,5,1.4,Good Hygiene,B
+u8,shop7,2.9,3,Bad Service and Bad Hygiene,B
+u87,shop117,2.2,3.4,Bad Service and Bad Hygiene,A
+u8,shop54,3,1.3,Bad Service and Bad Hygiene,B
+u88,shop74,4.9,3.2,Good Hygiene,B
+u87,shop141,4.3,2.6,Good Hygiene,B
+u20,shop109,3.4,2.5,Bad Service and Bad Hygiene,A
+u57,shop55,4.9,3.6,Good Hygiene,B
+u2,shop126,2.8,3.9,Good Service,A
+u57,shop105,4.7,3.5,Good Hygiene,A
+u51,shop10,2.9,1.3,Bad Service and Bad Hygiene,A
+u91,shop62,3,1.3,Bad Service and Bad Hygiene,B
+u65,shop92,2.4,4.4,Good Service,B
+u4,shop90,5,4.7,Good Hygiene,A
+u82,shop62,1.5,3.7,Good Service,A
+u32,shop45,4.4,3.7,Good Hygiene,A
+u45,shop107,2,3.5,Bad Service and Bad Hygiene,A
+u73,shop20,1.3,1.3,Bad Service and Bad Hygiene,B
+u2,shop18,4,3,Good Hygiene,B
+u43,shop115,3.1,4,Good Service,B
+u3,shop82,3.9,4.4,Good Hygiene,B
+u17,shop41,2.4,4.9,Good Service,A
+u39,shop116,2.6,4,Good Service,A
+u100,shop50,4.1,2.5,Good Hygiene,A
+u93,shop43,3.8,4.8,Good Hygiene,B
+u59,shop89,3,3.9,Good Service,A
+u40,shop5,4.6,5,Good Hygiene,A
+u44,shop19,1.1,3.1,Bad Service and Bad Hygiene,B
+u94,shop34,3.7,4.4,Good Hygiene,B
+u86,shop131,4.6,4.3,Good Hygiene,B
+u31,shop95,2,3.6,Good Service,A
+u10,shop13,3.1,4.2,Good Service,A
+u43,shop77,4.4,4.1,Good Hygiene,B
+u37,shop66,4.9,4.7,Good Hygiene,A
+u74,shop29,1.1,5,Good Service,A
+u4,shop32,4.9,1.1,Good Hygiene,A
+u68,shop4,4.6,2.4,Good Hygiene,A
+u2,shop126,2.2,2.6,Bad Service and Bad Hygiene,B
+u31,shop110,4.5,1.4,Good Hygiene,B
+u93,shop34,1.3,3.2,Bad Service and Bad Hygiene,B
+u79,shop95,4.6,5,Good Hygiene,B
+u9,shop60,3.4,3.8,Good Service,B
+u41,shop111,3.5,2.7,Bad Service and Bad Hygiene,B
+u22,shop53,3.6,1.3,Good Hygiene,A
+u70,shop150,4.3,2.5,Good Hygiene,A
+u84,shop142,3.4,4.5,Good Service,A
+u15,shop23,3.9,3.4,Good Hygiene,A
+u84,shop107,3.9,1.1,Good Hygiene,B
+u85,shop134,2.6,4.9,Good Service,A
+u2,shop86,3.5,3.2,Bad Service and Bad Hygiene,A
+u37,shop108,3.6,3.4,Good Hygiene,B
+u94,shop104,2.6,3,Bad Service and Bad Hygiene,A
+u3,shop37,2.4,4.4,Good Service,B
+u78,shop12,4.9,5,Good Hygiene,B
+u18,shop140,3.6,4.7,Good Hygiene,B
+u65,shop149,4.6,4.4,Good Hygiene,B
+u31,shop21,2.9,2.7,Bad Service and Bad Hygiene,A
+u55,shop37,2,2.7,Bad Service and Bad Hygiene,B
+u86,shop107,3.7,4.3,Good Hygiene,A
+u47,shop107,4.4,1.2,Good Hygiene,A
+u81,shop101,4.5,3.7,Good Hygiene,B
+u40,shop122,4,1.2,Good Hygiene,A
+u91,shop30,3.8,2.8,Good Hygiene,A
+u76,shop17,1.3,2.9,Bad Service and Bad Hygiene,A
+u17,shop117,3.2,4.3,Good Service,B
+u74,shop59,2.8,3.4,Bad Service and Bad Hygiene,A
+u68,shop149,3.2,1.4,Bad Service and Bad Hygiene,A
+u87,shop10,4.9,2.4,Good Hygiene,B
+u40,shop82,2.4,1.2,Bad Service and Bad Hygiene,B
+u81,shop78,2.4,3.2,Bad Service and Bad Hygiene,B
+u30,shop121,4.6,3.4,Good Hygiene,A
+u76,shop6,4,3.7,Good Hygiene,B
+u35,shop136,4.1,2.9,Good Hygiene,B
+u70,shop17,4.1,2.4,Good Hygiene,B
+u79,shop27,4.3,1.4,Good Hygiene,A
+u58,shop134,2.5,4.9,Good Service,B
+u24,shop98,4.1,3.1,Good Hygiene,B
+u31,shop143,4,1.2,Good Hygiene,A
+u26,shop103,4.8,4.3,Good Hygiene,B
+u64,shop23,1.4,2.4,Bad Service and Bad Hygiene,B
+u57,shop144,3.1,3.4,Bad Service and Bad Hygiene,A
+u74,shop37,1.4,2,Bad Service and Bad Hygiene,B
+u21,shop2,3.1,4.3,Good Service,B
+u72,shop63,2.8,2,Bad Service and Bad Hygiene,B
+u10,shop142,4,3.5,Good Hygiene,B
+u95,shop51,1.5,2.6,Bad Service and Bad Hygiene,A
+u4,shop140,2.2,4.4,Good Service,B
+u70,shop113,3.9,1.2,Good Hygiene,B
+u32,shop150,1.5,3.5,Bad Service and Bad Hygiene,B
+u56,shop25,4.7,2.9,Good Hygiene,A
+u18,shop107,2.5,4,Good Service,A
+u92,shop114,4.4,4.5,Good Hygiene,B
+u62,shop69,4.4,1.2,Good Hygiene,B
+u83,shop92,2.6,4.8,Good Service,B
+u55,shop50,4.2,2.5,Good Hygiene,A
+u68,shop71,4.6,3.5,Good Hygiene,A
+u46,shop31,4.9,2.8,Good Hygiene,B
+u66,shop124,4.4,1.1,Good Hygiene,B
+u98,shop21,3,2.9,Bad Service and Bad Hygiene,B
+u2,shop135,5,4.3,Good Hygiene,B
+u91,shop88,2.5,2,Bad Service and Bad Hygiene,B
+u40,shop56,4.7,2.8,Good Hygiene,A
+u31,shop48,3,3.5,Bad Service and Bad Hygiene,A
+u95,shop121,2.7,3.8,Good Service,A
+u6,shop120,4.9,3.5,Good Hygiene,A
+u99,shop108,2.4,2,Bad Service and Bad Hygiene,B
+u3,shop64,3.7,4.7,Good Hygiene,A
+u68,shop19,4.3,3.5,Good Hygiene,A
+u70,shop30,4.1,4.8,Good Hygiene,A
+u32,shop96,5,3.7,Good Hygiene,B
+u35,shop146,4.3,3.1,Good Hygiene,B
+u86,shop119,4.4,1.1,Good Hygiene,B
+u23,shop87,1.5,4.9,Good Service,B
+u29,shop143,3.1,2.6,Bad Service and Bad Hygiene,A
+u83,shop34,5,5,Good Hygiene,B
+u65,shop121,2.8,1.2,Bad Service and Bad Hygiene,A
+u95,shop37,3.4,2.4,Bad Service and Bad Hygiene,B
+u78,shop69,3.1,3.5,Bad Service and Bad Hygiene,A
+u77,shop69,1.3,2.4,Bad Service and Bad Hygiene,A
+u44,shop55,3,3.5,Bad Service and Bad Hygiene,B
+u60,shop57,2.9,2.2,Bad Service and Bad Hygiene,A
+u29,shop136,2.9,1.3,Bad Service and Bad Hygiene,A
+u31,shop119,5,2.8,Good Hygiene,B
+u80,shop96,1.4,5,Good Service,B
+u29,shop123,2.9,1.4,Bad Service and Bad Hygiene,B
+u19,shop41,4.1,4.8,Good Hygiene,B
+u14,shop86,3.1,4.7,Good Service,B
+u82,shop140,2.5,1.4,Bad Service and Bad Hygiene,B
+u86,shop19,2.5,4.5,Good Service,A
+u3,shop75,4.9,3.1,Good Hygiene,B
+u82,shop7,2,3.8,Good Service,B
+u85,shop37,3.2,4.7,Good Service,B
+u35,shop11,2.4,2.5,Bad Service and Bad Hygiene,B
+u9,shop139,4,2,Good Hygiene,B
+u21,shop94,2.2,3.6,Good Service,B
+u62,shop26,4.3,4.9,Good Hygiene,A
+u30,shop150,2.5,1.1,Bad Service and Bad Hygiene,B
+u61,shop79,4.9,1.5,Good Hygiene,A
+u77,shop22,3.8,3.6,Good Hygiene,A
+u77,shop83,2.6,3.9,Good Service,B
+u51,shop38,3.2,4.3,Good Service,A
+u6,shop101,4.4,1.3,Good Hygiene,B
+u45,shop128,3.5,4.9,Good Service,A
+u100,shop6,3,3.6,Good Service,A
+u13,shop99,2.9,2.8,Bad Service and Bad Hygiene,B
+u56,shop23,2.7,2.5,Bad Service and Bad Hygiene,A
+u66,shop30,2.5,4.4,Good Service,A
+u25,shop56,4.1,3,Good Hygiene,B
+u29,shop56,4.6,3.9,Good Hygiene,A
+u99,shop145,2.2,1.1,Bad Service and Bad Hygiene,A
+u2,shop45,3.6,3.6,Good Hygiene,B
+u37,shop18,3.8,4.8,Good Hygiene,A
+u51,shop122,4.9,3.5,Good Hygiene,B
+u40,shop59,3,3.7,Good Service,A
+u71,shop113,2.7,4.7,Good Service,A
+u30,shop124,1.5,4,Good Service,B
+u67,shop136,2.9,1.4,Bad Service and Bad Hygiene,A
+u98,shop88,4.9,4.3,Good Hygiene,A
+u24,shop107,3.8,3.9,Good Hygiene,A
+u21,shop115,4.9,2.4,Good Hygiene,A
+u85,shop132,3.2,4.8,Good Service,A
+u91,shop89,3.9,4,Good Hygiene,A
+u31,shop148,3.7,3.4,Good Hygiene,B
+u22,shop130,2.7,5,Good Service,A
+u29,shop94,2.6,3.7,Good Service,A
+u56,shop64,3.6,3.9,Good Hygiene,B
+u100,shop92,3.8,4.8,Good Hygiene,B
+u89,shop5,1.5,4.8,Good Service,A
+u28,shop50,4,3.6,Good Hygiene,B
+u37,shop60,2,2.5,Bad Service and Bad Hygiene,A
+u33,shop35,2.4,3.6,Good Service,A
+u34,shop147,4.8,2.2,Good Hygiene,A
+u13,shop50,4.3,2.9,Good Hygiene,B
+u19,shop81,2.5,2.4,Bad Service and Bad Hygiene,B
+u82,shop107,2.5,2.7,Bad Service and Bad Hygiene,B
+u18,shop28,2.8,4.7,Good Service,B
+u87,shop85,4.8,3.5,Good Hygiene,A
+u60,shop64,4.5,1.3,Good Hygiene,B
+u9,shop15,4,4.6,Good Hygiene,A
+u80,shop62,4.4,4.8,Good Hygiene,A
+u84,shop20,2.4,3.4,Bad Service and Bad Hygiene,B
+u22,shop79,4.8,4.6,Good Hygiene,B
+u66,shop74,3.6,3.7,Good Hygiene,A
+u35,shop76,3.8,2.8,Good Hygiene,B
+u2,shop90,4,4,Good Hygiene,A
+u45,shop148,4,3.6,Good Hygiene,A
+u46,shop63,2.7,4.3,Good Service,B
+u12,shop132,4.5,4.8,Good Hygiene,A
+u26,shop14,2.4,2.4,Bad Service and Bad Hygiene,A
+u51,shop76,3,2.5,Bad Service and Bad Hygiene,A
+u30,shop46,1.3,4.6,Good Service,A
+u10,shop12,5,3.1,Good Hygiene,A
+u28,shop15,2.8,4.1,Good Service,A
+u97,shop58,4.5,4.2,Good Hygiene,A
+u21,shop49,4.9,2.9,Good Hygiene,A
+u39,shop89,2.4,3.6,Good Service,A
+u36,shop131,4.2,3.9,Good Hygiene,A
+u36,shop49,4.3,2.8,Good Hygiene,B
+u69,shop96,1.3,4.9,Good Service,B
+u40,shop123,3.5,2.4,Bad Service and Bad Hygiene,B
+u94,shop131,3.8,4.5,Good Hygiene,B
+u74,shop21,3.8,4.1,Good Hygiene,B
+u68,shop22,3.7,2.4,Good Hygiene,B
+u78,shop129,2.8,5,Good Service,B
+u92,shop33,3.1,3.6,Good Service,B
+u42,shop19,2.5,3,Bad Service and Bad Hygiene,A
+u68,shop68,2,3.7,Good Service,B
+u52,shop41,4.7,2.7,Good Hygiene,A
+u93,shop7,1.4,3.4,Bad Service and Bad Hygiene,A
+u26,shop94,2.8,3,Bad Service and Bad Hygiene,B
+u21,shop63,4.1,4.3,Good Hygiene,B
+u54,shop125,4.9,1.4,Good Hygiene,A
+u54,shop90,4.6,3.2,Good Hygiene,A
+u31,shop45,3.6,3.1,Good Hygiene,A
+u42,shop121,2.4,1.2,Bad Service and Bad Hygiene,A
+u91,shop147,4.2,4.9,Good Hygiene,B
+u28,shop113,5,1.2,Good Hygiene,B
+u38,shop115,3.9,4.1,Good Hygiene,B
+u13,shop109,4.4,1.3,Good Hygiene,B
+u65,shop43,3.5,1.1,Bad Service and Bad Hygiene,B
+u67,shop24,2.5,4.9,Good Service,A
+u13,shop50,5,1.2,Good Hygiene,A
+u59,shop25,5,1.5,Good Hygiene,B
+u81,shop115,3.1,2,Bad Service and Bad Hygiene,B
+u62,shop116,1.5,3.7,Good Service,B
+u7,shop8,4.6,1.3,Good Hygiene,B
+u41,shop135,1.4,3.1,Bad Service and Bad Hygiene,B
+u41,shop77,4.5,2.6,Good Hygiene,A
+u20,shop121,3.2,3.1,Bad Service and Bad Hygiene,A
+u56,shop34,4.1,4.2,Good Hygiene,B
+u69,shop122,3,3.8,Good Service,A
+u10,shop18,1.1,5,Good Service,A
+u50,shop102,4,3.4,Good Hygiene,B
+u34,shop6,3.5,3.8,Good Service,B
+u36,shop44,4.9,3,Good Hygiene,A
+u62,shop52,1.2,3.2,Bad Service and Bad Hygiene,A
+u30,shop40,1.3,2.6,Bad Service and Bad Hygiene,A
+u34,shop123,4.8,2.4,Good Hygiene,B
+u58,shop116,4.6,3.4,Good Hygiene,A
+u49,shop101,1.5,3.7,Good Service,A
+u21,shop65,2.2,3.9,Good Service,A
+u60,shop147,1.4,4.4,Good Service,A
+u92,shop87,4.5,4.7,Good Hygiene,B
+u68,shop21,2.6,5,Good Service,B
+u64,shop84,3.1,4.3,Good Service,B
+u23,shop89,4.9,3.9,Good Hygiene,B
+u12,shop51,2.4,1.3,Bad Service and Bad Hygiene,A
+u51,shop20,2.8,3.5,Bad Service and Bad Hygiene,B
+u3,shop148,1.4,2.2,Bad Service and Bad Hygiene,A
+u74,shop92,4.2,4.6,Good Hygiene,A
+u67,shop93,4.4,2.4,Good Hygiene,B
+u12,shop2,1.3,4.8,Good Service,A
+u29,shop116,2.6,1.5,Bad Service and Bad Hygiene,B
+u20,shop57,3.9,3.4,Good Hygiene,A
+u15,shop5,1.3,3.1,Bad Service and Bad Hygiene,B
+u18,shop120,2.9,2.6,Bad Service and Bad Hygiene,B
+u40,shop13,2.9,1.3,Bad Service and Bad Hygiene,B
+u84,shop23,2.2,1.1,Bad Service and Bad Hygiene,A
+u95,shop28,4.8,4.1,Good Hygiene,B
+u77,shop108,2.8,5,Good Service,B
+u47,shop46,1.1,1.5,Bad Service and Bad Hygiene,B
+u1,shop132,3.8,2.9,Good Hygiene,A
+u4,shop114,5,3.5,Good Hygiene,B
+u75,shop48,1.3,2.7,Bad Service and Bad Hygiene,A
+u99,shop135,4.5,4.7,Good Hygiene,B
+u85,shop74,4.9,4.1,Good Hygiene,A
+u50,shop79,4.6,4.6,Good Hygiene,B
+u31,shop81,2.4,5,Good Service,B
+u38,shop109,4.3,4.6,Good Hygiene,A
+u30,shop88,2,4.7,Good Service,A
+u89,shop150,3.7,2.9,Good Hygiene,B
+u86,shop116,4.8,2.9,Good Hygiene,A
+u35,shop92,3.5,3.2,Bad Service and Bad Hygiene,B
+u82,shop4,3.5,4.7,Good Service,B
+u25,shop51,2.9,2.6,Bad Service and Bad Hygiene,A
+u45,shop58,4.8,3.9,Good Hygiene,A
+u51,shop119,4.6,4.4,Good Hygiene,A
+u56,shop6,4.1,3.9,Good Hygiene,B
+u95,shop21,2.2,4.1,Good Service,A
+u69,shop127,5,1.4,Good Hygiene,A
+u76,shop75,2.4,3.4,Bad Service and Bad Hygiene,B
+u50,shop20,3.6,2.6,Good Hygiene,B
+u5,shop109,3.1,4.7,Good Service,A
+u8,shop123,4.6,4.5,Good Hygiene,B
+u88,shop51,3.2,2.7,Bad Service and Bad Hygiene,A
+u33,shop105,2.8,1.5,Bad Service and Bad Hygiene,B
+u51,shop15,2,2.5,Bad Service and Bad Hygiene,B
+u41,shop137,2.4,4.9,Good Service,A
+u41,shop87,3.7,3.9,Good Hygiene,B
+u75,shop118,4.8,4.5,Good Hygiene,A
+u98,shop70,4,1.2,Good Hygiene,B
+u36,shop144,3.7,4.3,Good Hygiene,A
+u84,shop147,4,4.7,Good Hygiene,B
+u70,shop146,2.9,5,Good Service,A
+u4,shop81,2.4,4.7,Good Service,B
+u37,shop9,3.5,3,Bad Service and Bad Hygiene,A
+u59,shop109,2.8,4.3,Good Service,A
+u1,shop32,1.1,3.4,Bad Service and Bad Hygiene,A
+u29,shop1,3.2,4.6,Good Service,A
+u78,shop103,2.5,3.1,Bad Service and Bad Hygiene,A
+u82,shop103,2.5,1.4,Bad Service and Bad Hygiene,B
+u22,shop106,2.8,3.2,Bad Service and Bad Hygiene,B
+u43,shop129,1.3,1.2,Bad Service and Bad Hygiene,B
+u49,shop90,3.2,2.5,Bad Service and Bad Hygiene,A
+u77,shop104,2.5,1.2,Bad Service and Bad Hygiene,B
+u91,shop49,3.8,4.9,Good Hygiene,B
+u56,shop105,3.5,1.2,Bad Service and Bad Hygiene,A
+u30,shop61,3.6,3.5,Good Hygiene,B
+u64,shop115,2.2,4.4,Good Service,A
+u48,shop128,2.9,4.6,Good Service,A
+u76,shop88,3.7,3.9,Good Hygiene,A
+u15,shop149,3.6,3.1,Good Hygiene,A
+u9,shop29,4.4,4.4,Good Hygiene,B
+u99,shop93,3.2,4.7,Good Service,A
+u19,shop69,2.8,3.2,Bad Service and Bad Hygiene,B
+u63,shop112,3.5,1.4,Bad Service and Bad Hygiene,B
+u72,shop139,4.4,2.8,Good Hygiene,A
+u23,shop84,1.2,2.4,Bad Service and Bad Hygiene,A
+u7,shop113,4.6,3.4,Good Hygiene,A
+u97,shop136,4.5,2.6,Good Hygiene,A
+u20,shop77,3.9,3.7,Good Hygiene,A
+u1,shop134,4.9,1.3,Good Hygiene,A
+u27,shop77,5,1.1,Good Hygiene,B
+u31,shop19,5,2.4,Good Hygiene,A
+u66,shop82,2.9,4.6,Good Service,A
+u64,shop63,4,2.7,Good Hygiene,B
+u88,shop53,4.7,4.5,Good Hygiene,B
+u42,shop58,2.4,4.9,Good Service,B
+u75,shop43,2.2,3.7,Good Service,B
+u28,shop116,3,4.9,Good Service,A
+u9,shop88,2.7,2.2,Bad Service and Bad Hygiene,B
+u31,shop23,1.2,2.9,Bad Service and Bad Hygiene,B
+u47,shop129,3.6,2.9,Good Hygiene,B
+u28,shop105,4.3,1.4,Good Hygiene,A
+u65,shop18,2.7,4.8,Good Service,A
+u17,shop147,4,2,Good Hygiene,A
+u34,shop73,3.8,4.2,Good Hygiene,A
+u80,shop117,4.6,1.4,Good Hygiene,B
+u52,shop64,5,1.5,Good Hygiene,A
+u12,shop125,4.5,4.8,Good Hygiene,B
+u26,shop130,4,2.7,Good Hygiene,B
+u84,shop109,2.8,1.4,Bad Service and Bad Hygiene,A
+u38,shop34,1.3,3.7,Good Service,B
+u94,shop116,4.2,3.8,Good Hygiene,A
+u45,shop107,1.5,3.4,Bad Service and Bad Hygiene,B
+u99,shop118,2.4,3.7,Good Service,B
+u57,shop110,2.8,2.5,Bad Service and Bad Hygiene,B
+u71,shop46,2.4,4,Good Service,B
+u100,shop33,1.4,1.2,Bad Service and Bad Hygiene,B
+u21,shop16,4.4,4.7,Good Hygiene,B
+u78,shop145,3.5,2.5,Bad Service and Bad Hygiene,A
+u19,shop97,3.7,1.4,Good Hygiene,A
+u70,shop64,3.8,4,Good Hygiene,A
+u90,shop68,3.5,2.9,Bad Service and Bad Hygiene,A
+u27,shop47,3.2,4.5,Good Service,B
+u88,shop132,4.4,4.4,Good Hygiene,B
+u77,shop9,3.8,2.6,Good Hygiene,A
+u50,shop99,3.2,2.2,Bad Service and Bad Hygiene,A
+u67,shop19,3.7,4.2,Good Hygiene,A
+u54,shop94,3.6,4.3,Good Hygiene,B
+u91,shop67,3.5,2.9,Bad Service and Bad Hygiene,A
+u43,shop29,3.5,3.4,Bad Service and Bad Hygiene,A
+u70,shop134,4.7,2.6,Good Hygiene,B
+u67,shop126,3.1,3,Bad Service and Bad Hygiene,B
+u74,shop44,4,4.1,Good Hygiene,B
+u79,shop99,1.4,4.3,Good Service,A
+u1,shop91,1.4,3.4,Bad Service and Bad Hygiene,A
+u6,shop119,4.5,2.6,Good Hygiene,A
+u29,shop30,1.3,3.2,Bad Service and Bad Hygiene,A
+u75,shop121,2.9,2.8,Bad Service and Bad Hygiene,B
+u54,shop119,2.5,4.1,Good Service,B
+u99,shop134,4.7,2.2,Good Hygiene,A
+u59,shop71,3.2,2.9,Bad Service and Bad Hygiene,B
+u81,shop146,4.9,2.8,Good Hygiene,A
+u8,shop111,3.5,3.4,Bad Service and Bad Hygiene,A
+u30,shop67,4.9,3.1,Good Hygiene,B
+u57,shop137,3.6,3.2,Good Hygiene,B
+u24,shop61,4.8,1.5,Good Hygiene,A
+u42,shop22,4.2,3.2,Good Hygiene,B
+u67,shop58,1.1,4.6,Good Service,B
+u9,shop22,2,3,Bad Service and Bad Hygiene,A
+u19,shop63,4.4,3.4,Good Hygiene,A
+u93,shop109,4.6,3.8,Good Hygiene,B
+u17,shop116,4.3,4.1,Good Hygiene,A
+u82,shop11,2.5,3.6,Good Service,A
+u22,shop126,3.9,1.5,Good Hygiene,B
+u5,shop145,2.9,4.5,Good Service,B
+u63,shop117,1.5,4.9,Good Service,B
+u95,shop26,4.9,3.2,Good Hygiene,A
+u49,shop109,1.2,1.1,Bad Service and Bad Hygiene,B
+u73,shop19,4.5,1.2,Good Hygiene,B
+u94,shop60,2.8,3.2,Bad Service and Bad Hygiene,B
+u57,shop142,1.1,2.6,Bad Service and Bad Hygiene,A
+u88,shop129,3.9,3.4,Good Hygiene,B
+u70,shop94,4.4,2.5,Good Hygiene,B
+u23,shop59,4.3,3.9,Good Hygiene,A
+u4,shop145,1.2,2.6,Bad Service and Bad Hygiene,B
+u53,shop150,2.5,4,Good Service,B
+u81,shop139,1.5,4.6,Good Service,B
+u47,shop147,4.2,4.2,Good Hygiene,A
+u83,shop121,2.2,4.9,Good Service,A
+u82,shop122,4.6,3,Good Hygiene,B
+u22,shop102,2.7,4.3,Good Service,A
+u46,shop37,2.9,4.6,Good Service,A
+u21,shop94,3.8,3.1,Good Hygiene,B
+u22,shop109,1.1,4.7,Good Service,B
+u9,shop140,3.9,4.8,Good Hygiene,A
+u51,shop27,3.4,1.3,Bad Service and Bad Hygiene,B
+u7,shop123,4.9,4.8,Good Hygiene,A
+u31,shop10,5,2.5,Good Hygiene,B
+u67,shop143,2.2,4,Good Service,A
+u21,shop35,1.4,3.1,Bad Service and Bad Hygiene,B
+u64,shop14,2.7,5,Good Service,B
+u37,shop147,3.7,4,Good Hygiene,B
+u53,shop55,4.3,4.1,Good Hygiene,B
+u58,shop36,4.9,5,Good Hygiene,B
+u1,shop52,4.6,3.7,Good Hygiene,B
+u24,shop114,1.5,3.4,Bad Service and Bad Hygiene,A
+u47,shop85,1.2,3.1,Bad Service and Bad Hygiene,A
+u38,shop21,2.5,2.4,Bad Service and Bad Hygiene,B
+u7,shop141,4.1,2.7,Good Hygiene,B
+u19,shop39,1.3,3.6,Good Service,B
+u55,shop102,2.6,2.2,Bad Service and Bad Hygiene,B
+u61,shop85,3.5,1.1,Bad Service and Bad Hygiene,B
+u67,shop141,2.5,2.5,Bad Service and Bad Hygiene,A
+u62,shop64,4.2,3.4,Good Hygiene,B
+u48,shop132,2.8,2.7,Bad Service and Bad Hygiene,B
+u49,shop56,2.5,1.5,Bad Service and Bad Hygiene,B
+u94,shop95,3.7,3.1,Good Hygiene,B
+u20,shop101,1.5,4.3,Good Service,A
+u36,shop107,4.9,5,Good Hygiene,B
+u99,shop98,2.5,3.7,Good Service,B
+u8,shop129,4,1.4,Good Hygiene,B
+u76,shop7,2.6,3.9,Good Service,B
+u66,shop119,4,5,Good Hygiene,A
+u85,shop42,4.6,3.5,Good Hygiene,A
+u29,shop21,4.8,3.2,Good Hygiene,A
+u70,shop84,4,2.4,Good Hygiene,B
+u68,shop34,4.1,2.8,Good Hygiene,B
+u37,shop10,3.9,2.6,Good Hygiene,A
+u13,shop64,4.9,3.1,Good Hygiene,A
+u56,shop42,2.9,5,Good Service,B
+u89,shop72,2.4,5,Good Service,B
+u84,shop20,1.5,2,Bad Service and Bad Hygiene,B
+u42,shop149,1.5,4.2,Good Service,B
+u68,shop46,4.7,4.1,Good Hygiene,B
+u98,shop138,1.2,4.4,Good Service,B
+u46,shop43,4,2.7,Good Hygiene,B
+u48,shop141,5,2.5,Good Hygiene,A
+u83,shop122,3.5,1.5,Bad Service and Bad Hygiene,B
+u62,shop73,3.1,3.8,Good Service,A
+u79,shop146,2.8,3.4,Bad Service and Bad Hygiene,A
+u16,shop136,1.2,2.6,Bad Service and Bad Hygiene,A
+u36,shop114,4.1,3.6,Good Hygiene,B
+u46,shop86,4.7,4.1,Good Hygiene,A
+u26,shop59,4,3.7,Good Hygiene,A
+u64,shop59,3.1,3.1,Bad Service and Bad Hygiene,B
+u44,shop94,1.5,4.2,Good Service,B
+u39,shop98,2.9,4.8,Good Service,A
+u65,shop91,4.4,2.7,Good Hygiene,A
+u8,shop11,3.6,4.6,Good Hygiene,B
+u79,shop23,1.1,1.3,Bad Service and Bad Hygiene,B
+u44,shop53,1.1,4.4,Good Service,B
+u92,shop81,4.8,2,Good Hygiene,A
+u8,shop146,4.1,2.6,Good Hygiene,B
+u81,shop84,3.8,1.4,Good Hygiene,A
+u61,shop115,1.4,2.9,Bad Service and Bad Hygiene,A
+u30,shop49,1.3,3.7,Good Service,A
+u41,shop90,4.7,3.4,Good Hygiene,B
+u10,shop107,5,1.5,Good Hygiene,B
+u17,shop108,3.6,3.6,Good Hygiene,B
+u85,shop138,3.4,3.9,Good Service,A
+u1,shop72,4.1,5,Good Hygiene,A
+u26,shop70,4.2,3.4,Good Hygiene,A
+u88,shop142,1.5,3.7,Good Service,B
+u79,shop128,3.1,2.4,Bad Service and Bad Hygiene,A
+u79,shop21,1.3,4.4,Good Service,B
+u36,shop133,4.4,5,Good Hygiene,A
+u38,shop87,4.4,2.8,Good Hygiene,A
+u59,shop54,3.1,3.7,Good Service,A
+u1,shop95,4.2,3.8,Good Hygiene,B
+u43,shop84,2.4,4.9,Good Service,A
+u54,shop149,2.8,2.8,Bad Service and Bad Hygiene,B
+u70,shop146,3.7,3.8,Good Hygiene,B
+u34,shop102,1.5,4.7,Good Service,A
+u77,shop7,2.2,4,Good Service,B
+u10,shop120,2.7,3.7,Good Service,B
+u60,shop143,4.3,3.2,Good Hygiene,B
+u61,shop77,2.9,1.5,Bad Service and Bad Hygiene,A
+u47,shop123,3.6,2,Good Hygiene,A
+u98,shop17,3.5,4.3,Good Service,B
+u82,shop69,4.9,3.8,Good Hygiene,B
+u95,shop80,4.7,2.7,Good Hygiene,B
+u57,shop65,5,4.7,Good Hygiene,B
+u16,shop38,1.4,4.9,Good Service,A
+u52,shop56,4,1.1,Good Hygiene,B
+u20,shop72,2.6,3.8,Good Service,A
+u3,shop149,4.2,2.6,Good Hygiene,A
+u40,shop128,1.4,1.1,Bad Service and Bad Hygiene,B
+u71,shop68,2,4.4,Good Service,B
+u100,shop26,3.9,4.1,Good Hygiene,B
+u72,shop68,4.9,3.8,Good Hygiene,B
+u87,shop147,1.1,3.7,Good Service,B
+u59,shop56,1.3,4.6,Good Service,B
+u97,shop141,1.2,2.5,Bad Service and Bad Hygiene,A
+u98,shop72,1.4,2.9,Bad Service and Bad Hygiene,B
+u78,shop77,4.9,1.1,Good Hygiene,A
+u44,shop122,2.6,2.6,Bad Service and Bad Hygiene,A
+u1,shop3,2,1.5,Bad Service and Bad Hygiene,A
+u86,shop128,3.8,3.7,Good Hygiene,A
+u49,shop79,1.3,4.7,Good Service,A
+u89,shop62,3.2,1.1,Bad Service and Bad Hygiene,B
+u85,shop130,1.4,1.5,Bad Service and Bad Hygiene,B
+u19,shop65,3.5,4.6,Good Service,A
+u15,shop9,4.9,3.8,Good Hygiene,B
+u56,shop27,4.6,1.4,Good Hygiene,A
+u82,shop84,3,3.6,Good Service,A
+u52,shop98,2.2,3.4,Bad Service and Bad Hygiene,B
+u92,shop126,3.1,1.5,Bad Service and Bad Hygiene,B
+u33,shop89,3.9,2.8,Good Hygiene,A
+u43,shop97,5,3.9,Good Hygiene,B
+u93,shop150,1.3,4.3,Good Service,A
+u84,shop48,3.1,2,Bad Service and Bad Hygiene,A
+u4,shop71,2.2,3.1,Bad Service and Bad Hygiene,A
+u26,shop80,2.4,4.7,Good Service,B
+u75,shop28,1.4,2.5,Bad Service and Bad Hygiene,A
+u3,shop107,2.7,3.2,Bad Service and Bad Hygiene,A
+u29,shop108,3.6,3.8,Good Hygiene,B
+u61,shop82,3.5,4,Good Service,A
+u72,shop110,4.8,2.9,Good Hygiene,A
+u79,shop108,1.3,2.6,Bad Service and Bad Hygiene,A
+u21,shop21,4.2,4.5,Good Hygiene,A
+u69,shop55,4.9,1.1,Good Hygiene,A
+u25,shop45,3.2,4.3,Good Service,B
+u60,shop33,2.4,1.2,Bad Service and Bad Hygiene,A
+u29,shop14,2.6,3.6,Good Service,B
+u1,shop100,3.5,3.9,Good Service,A
+u59,shop149,3.9,3.6,Good Hygiene,A
+u83,shop142,2.7,4.6,Good Service,B
+u10,shop44,4.2,3.5,Good Hygiene,A
+u85,shop120,4.7,5,Good Hygiene,B
+u82,shop101,3.7,4.1,Good Hygiene,B
+u19,shop101,3.9,1.5,Good Hygiene,A
+u14,shop103,4.6,5,Good Hygiene,B
+u9,shop22,5,1.4,Good Hygiene,B
+u27,shop144,2.8,2.8,Bad Service and Bad Hygiene,A
+u84,shop138,4,4.9,Good Hygiene,A
+u82,shop5,3.1,3.2,Bad Service and Bad Hygiene,B
+u61,shop69,1.3,3.1,Bad Service and Bad Hygiene,A
+u9,shop36,2.5,4.4,Good Service,B
+u17,shop142,4.4,2.8,Good Hygiene,B
+u76,shop104,5,4.2,Good Hygiene,A
+u100,shop66,4.4,3.7,Good Hygiene,A
+u47,shop150,3,4.6,Good Service,B
+u8,shop134,5,2.8,Good Hygiene,B
+u46,shop127,2.2,2.7,Bad Service and Bad Hygiene,A
+u36,shop81,4.8,4.5,Good Hygiene,B
+u4,shop122,4,3.1,Good Hygiene,B
+u18,shop148,1.1,4.3,Good Service,A
+u52,shop59,4.5,4.2,Good Hygiene,B
+u27,shop133,3.1,5,Good Service,B
+u19,shop29,3.6,2.7,Good Hygiene,B
+u48,shop46,3.2,3.4,Bad Service and Bad Hygiene,B
+u21,shop6,3.9,3.9,Good Hygiene,B
+u26,shop149,1.5,4.6,Good Service,A
+u90,shop132,4.2,4.2,Good Hygiene,B
+u48,shop134,3.2,3.8,Good Service,B
+u10,shop119,3.1,4.9,Good Service,A
+u95,shop38,3.7,3.7,Good Hygiene,A
+u68,shop24,2.4,2.9,Bad Service and Bad Hygiene,A
+u34,shop85,2.4,2.6,Bad Service and Bad Hygiene,A
+u73,shop116,1.5,4.1,Good Service,B
+u51,shop63,4.9,2.4,Good Hygiene,B
+u75,shop7,2.2,4.7,Good Service,A
+u72,shop6,3,1.1,Bad Service and Bad Hygiene,A
+u83,shop24,1.5,4.6,Good Service,A
+u99,shop116,4.7,2.9,Good Hygiene,A
+u25,shop49,5,2.9,Good Hygiene,B
+u36,shop109,1.3,4.2,Good Service,B
+u54,shop150,1.1,2.4,Bad Service and Bad Hygiene,B
+u48,shop133,4.2,4.3,Good Hygiene,A
+u96,shop82,2.8,1.4,Bad Service and Bad Hygiene,B
+u100,shop67,4.5,3.5,Good Hygiene,A
+u87,shop33,3,3.6,Good Service,A
+u40,shop35,3,4.2,Good Service,B
+u100,shop33,2.4,4.5,Good Service,B
+u24,shop14,1.2,2.8,Bad Service and Bad Hygiene,A
+u83,shop77,5,3.7,Good Hygiene,B
+u11,shop48,4.6,4.9,Good Hygiene,A
+u7,shop77,2.4,3.6,Good Service,B
+u12,shop66,2.9,3.7,Good Service,B
+u40,shop113,1.4,3.2,Bad Service and Bad Hygiene,A
+u28,shop98,4.1,3.1,Good Hygiene,A
+u64,shop13,4.5,3.8,Good Hygiene,A
+u78,shop1,4.7,4.7,Good Hygiene,B
+u16,shop28,2,2.7,Bad Service and Bad Hygiene,B
+u16,shop33,4.1,4.9,Good Hygiene,A
+u36,shop8,4.1,4.4,Good Hygiene,B
+u18,shop105,1.1,4.3,Good Service,A
+u84,shop1,4,2.5,Good Hygiene,B
+u35,shop67,2.9,4,Good Service,A
+u45,shop71,2,3.4,Bad Service and Bad Hygiene,A
+u41,shop147,4.9,3.6,Good Hygiene,A
+u28,shop103,4.9,3.4,Good Hygiene,B
+u84,shop81,4.8,1.4,Good Hygiene,B
+u59,shop26,4.9,1.5,Good Hygiene,A
+u81,shop50,1.4,2.5,Bad Service and Bad Hygiene,B
+u12,shop111,2.4,2.7,Bad Service and Bad Hygiene,A
+u97,shop31,2.2,3,Bad Service and Bad Hygiene,B
+u35,shop122,2.9,2,Bad Service and Bad Hygiene,A
+u39,shop65,3.4,4.8,Good Service,A
+u4,shop121,3.8,4.3,Good Hygiene,A
+u74,shop138,4.1,3.5,Good Hygiene,A
+u69,shop134,1.2,4.4,Good Service,A
+u12,shop140,1.1,1.5,Bad Service and Bad Hygiene,B
+u39,shop35,1.3,1.5,Bad Service and Bad Hygiene,B
+u84,shop79,4,1.5,Good Hygiene,A
+u69,shop128,1.3,4.6,Good Service,A
+u15,shop138,5,3.7,Good Hygiene,B
+u26,shop93,3,3.5,Bad Service and Bad Hygiene,A
+u71,shop30,1.3,2,Bad Service and Bad Hygiene,A
+u34,shop137,4.4,4,Good Hygiene,A
+u45,shop43,4.4,3.9,Good Hygiene,A
+u30,shop1,3.4,1.5,Bad Service and Bad Hygiene,A
+u34,shop138,4.3,4.1,Good Hygiene,A
+u50,shop132,3,2.5,Bad Service and Bad Hygiene,A
+u42,shop129,2.2,2.9,Bad Service and Bad Hygiene,A
+u66,shop135,1.4,4.9,Good Service,B
+u71,shop10,4.2,2.4,Good Hygiene,B
+u78,shop21,3.4,1.4,Bad Service and Bad Hygiene,B
+u67,shop29,1.2,4,Good Service,A
+u30,shop95,2.2,1.3,Bad Service and Bad Hygiene,A
+u48,shop80,4.8,1.3,Good Hygiene,B
+u45,shop150,2.6,3.2,Bad Service and Bad Hygiene,A
+u6,shop4,2,3.8,Good Service,B
+u72,shop122,2.2,1.5,Bad Service and Bad Hygiene,A
+u83,shop112,4.4,1.2,Good Hygiene,B
+u81,shop30,3.4,4.6,Good Service,A
+u92,shop5,2.8,4.2,Good Service,A
+u4,shop94,3.9,5,Good Hygiene,A
+u41,shop110,4.4,1.5,Good Hygiene,A
+u46,shop75,3.1,3.7,Good Service,A
+u85,shop143,1.2,3.2,Bad Service and Bad Hygiene,A
+u94,shop39,5,2.8,Good Hygiene,B
+u73,shop67,4.4,5,Good Hygiene,A
+u96,shop87,3.4,2.6,Bad Service and Bad Hygiene,B
+u18,shop83,4,3.8,Good Hygiene,B
+u92,shop93,4.2,4.4,Good Hygiene,B
+u78,shop35,2.7,1.3,Bad Service and Bad Hygiene,A
+u75,shop133,3,2.5,Bad Service and Bad Hygiene,A
+u32,shop19,3.4,3,Bad Service and Bad Hygiene,A
+u24,shop88,2.4,3.5,Bad Service and Bad Hygiene,A
+u95,shop122,2.9,1.3,Bad Service and Bad Hygiene,A
+u33,shop111,3,2.8,Bad Service and Bad Hygiene,A
+u12,shop27,5,2.9,Good Hygiene,A
+u3,shop102,1.1,3.9,Good Service,A
+u4,shop77,1.1,3.2,Bad Service and Bad Hygiene,A
+u81,shop13,3.9,3.1,Good Hygiene,A
+u59,shop99,1.4,1.1,Bad Service and Bad Hygiene,A
+u94,shop11,4.3,3.6,Good Hygiene,A
+u46,shop78,2.8,3.9,Good Service,A
+u63,shop31,3.2,4.6,Good Service,A
+u90,shop86,5,3.7,Good Hygiene,B
+u47,shop26,4.7,3.9,Good Hygiene,B
+u21,shop6,4.4,4.4,Good Hygiene,B
+u31,shop90,4.5,1.4,Good Hygiene,B
+u80,shop53,2,2.8,Bad Service and Bad Hygiene,A
+u89,shop127,1.5,2.6,Bad Service and Bad Hygiene,A
+u5,shop125,1.4,2.5,Bad Service and Bad Hygiene,B
+u40,shop149,3.8,3.4,Good Hygiene,B
+u32,shop3,4.9,3.9,Good Hygiene,B
+u85,shop19,4.9,4.3,Good Hygiene,A
+u1,shop2,2.2,4.4,Good Service,B
+u2,shop40,5,3.5,Good Hygiene,B
+u68,shop4,2.4,1.5,Bad Service and Bad Hygiene,B
+u79,shop99,1.5,2.9,Bad Service and Bad Hygiene,B
+u57,shop73,1.3,4.9,Good Service,A
+u42,shop102,4.5,3.1,Good Hygiene,A
+u60,shop25,4.7,5,Good Hygiene,A
+u89,shop37,4.4,2,Good Hygiene,A
+u2,shop112,4.4,2.2,Good Hygiene,A
+u34,shop18,4.5,1.1,Good Hygiene,A
+u82,shop121,1.3,3.7,Good Service,A
+u36,shop86,2.9,3.4,Bad Service and Bad Hygiene,A
+u57,shop133,4.2,4.5,Good Hygiene,B
+u42,shop90,3.5,5,Good Service,B
+u46,shop81,3.9,1.5,Good Hygiene,B
+u87,shop63,3.5,4.9,Good Service,B
+u13,shop79,4.5,2.7,Good Hygiene,A
+u17,shop31,3.1,4.7,Good Service,B
+u55,shop143,2.6,3.2,Bad Service and Bad Hygiene,B
+u78,shop113,2.8,3.7,Good Service,A
+u8,shop141,2.9,1.1,Bad Service and Bad Hygiene,A
+u100,shop108,3,2.4,Bad Service and Bad Hygiene,B
+u66,shop19,2.2,4.8,Good Service,B
+u2,shop18,1.3,4.7,Good Service,B
+u56,shop3,4.2,3.8,Good Hygiene,B
+u19,shop103,4.3,2.4,Good Hygiene,B
+u62,shop129,1.2,4.5,Good Service,B
+u91,shop81,1.3,4.4,Good Service,A
+u68,shop73,3.5,1.3,Bad Service and Bad Hygiene,B
+u54,shop90,5,3.6,Good Hygiene,A
+u95,shop80,2.5,2.6,Bad Service and Bad Hygiene,A
+u6,shop58,1.1,2.5,Bad Service and Bad Hygiene,B
+u19,shop73,4.3,2.5,Good Hygiene,A
+u29,shop31,4,3.1,Good Hygiene,A
+u10,shop19,1.5,4.2,Good Service,A
+u28,shop6,5,2.9,Good Hygiene,B
+u75,shop47,4.8,3.4,Good Hygiene,A
+u94,shop87,4.6,4.9,Good Hygiene,B
+u48,shop13,3.2,2.4,Bad Service and Bad Hygiene,B
+u7,shop94,3.8,1.5,Good Hygiene,A
+u7,shop8,4.6,2,Good Hygiene,A
+u2,shop52,3.1,4.2,Good Service,B
+u63,shop8,1.4,4.9,Good Service,A
+u48,shop39,3.6,3.4,Good Hygiene,A
+u42,shop56,4.3,4.8,Good Hygiene,A
+u78,shop81,2.7,2.7,Bad Service and Bad Hygiene,A
+u69,shop13,4.3,4.1,Good Hygiene,B
+u91,shop98,4.5,2.7,Good Hygiene,B
+u53,shop111,4,3.8,Good Hygiene,B
+u90,shop85,1.2,3.2,Bad Service and Bad Hygiene,B
+u33,shop102,4.3,2.7,Good Hygiene,A
+u29,shop84,4,3.4,Good Hygiene,B
+u49,shop116,3.8,4.5,Good Hygiene,B
+u60,shop144,1.3,1.2,Bad Service and Bad Hygiene,B
+u71,shop21,4.9,2.5,Good Hygiene,A
+u36,shop114,3.7,3,Good Hygiene,B
+u57,shop7,2.9,3.7,Good Service,A
+u100,shop26,4.5,4.7,Good Hygiene,A
+u92,shop111,3.7,2,Good Hygiene,A
+u70,shop83,4,1.2,Good Hygiene,A
+u4,shop86,4.8,2.6,Good Hygiene,B
+u24,shop54,1.2,2,Bad Service and Bad Hygiene,B
+u41,shop117,3,5,Good Service,A
+u79,shop55,4.1,4.7,Good Hygiene,B
+u29,shop4,1.4,1.5,Bad Service and Bad Hygiene,B
+u34,shop122,2.5,3.9,Good Service,B
+u10,shop34,4.5,2.2,Good Hygiene,A
+u12,shop46,2.5,3.4,Bad Service and Bad Hygiene,A
+u50,shop126,2.8,1.1,Bad Service and Bad Hygiene,A
+u71,shop59,3.7,2.6,Good Hygiene,A
+u55,shop67,4.3,3.4,Good Hygiene,B
+u72,shop32,4.5,1.5,Good Hygiene,B
+u87,shop67,1.2,2.5,Bad Service and Bad Hygiene,B
+u7,shop85,3.7,3.5,Good Hygiene,A
+u10,shop49,1.5,3.7,Good Service,A
+u39,shop27,3.9,4.2,Good Hygiene,A
+u14,shop122,2.2,3,Bad Service and Bad Hygiene,B
+u83,shop117,3.4,2,Bad Service and Bad Hygiene,B
+u15,shop5,3.2,4.7,Good Service,A
+u98,shop39,2.4,4.4,Good Service,A
+u82,shop67,5,3.8,Good Hygiene,A
+u98,shop43,4.8,3.7,Good Hygiene,B
+u12,shop15,4.3,2.6,Good Hygiene,B
+u37,shop65,4.3,3.7,Good Hygiene,A
+u60,shop89,4.4,4.4,Good Hygiene,B
+u49,shop110,1.4,3.6,Good Service,B
+u76,shop92,2,4.9,Good Service,A
+u10,shop85,3.1,3.1,Bad Service and Bad Hygiene,A
+u2,shop57,3.7,2.8,Good Hygiene,B
+u26,shop76,4.1,1.2,Good Hygiene,B
+u29,shop54,4.4,2,Good Hygiene,B
+u7,shop55,1.2,2.7,Bad Service and Bad Hygiene,B
+u15,shop56,4.2,4.9,Good Hygiene,A
+u30,shop56,1.3,3.7,Good Service,B
+u13,shop12,1.1,4.4,Good Service,A
+u42,shop149,1.3,1.3,Bad Service and Bad Hygiene,B
+u87,shop7,4,4.8,Good Hygiene,B
+u59,shop117,2.8,4.3,Good Service,A
+u40,shop112,3,3.2,Bad Service and Bad Hygiene,A
+u56,shop63,4.6,1.5,Good Hygiene,B
+u28,shop25,2.9,5,Good Service,B
+u54,shop96,3.5,2.7,Bad Service and Bad Hygiene,A
+u44,shop50,4.4,2.9,Good Hygiene,B
+u48,shop40,1.3,2.5,Bad Service and Bad Hygiene,B
+u50,shop92,3.2,5,Good Service,A
+u13,shop37,3.5,2,Bad Service and Bad Hygiene,A
+u73,shop14,3.4,3.4,Bad Service and Bad Hygiene,A
+u45,shop113,4.9,1.1,Good Hygiene,A
+u52,shop118,2,3.7,Good Service,A
+u19,shop84,3.6,3.7,Good Hygiene,B
+u42,shop55,3.7,2.2,Good Hygiene,A
+u100,shop88,3.8,3.5,Good Hygiene,A
+u79,shop101,1.2,1.3,Bad Service and Bad Hygiene,B
+u68,shop147,4.6,4.9,Good Hygiene,A
+u28,shop26,4.3,3.7,Good Hygiene,A
+u29,shop64,2.4,3.8,Good Service,B
+u24,shop50,4.3,3.9,Good Hygiene,B
+u70,shop52,2.6,3.8,Good Service,B
+u24,shop130,4.2,4.7,Good Hygiene,A
+u42,shop26,1.4,2.2,Bad Service and Bad Hygiene,A
+u22,shop39,4.6,4.8,Good Hygiene,A
+u29,shop24,3.2,3,Bad Service and Bad Hygiene,B
+u72,shop88,1.2,1.5,Bad Service and Bad Hygiene,A
+u83,shop61,2.6,2.8,Bad Service and Bad Hygiene,B
+u24,shop69,4.6,2.5,Good Hygiene,A
+u14,shop90,4.7,4.5,Good Hygiene,B
+u20,shop126,4.1,4.3,Good Hygiene,A
+u26,shop127,4.4,2.5,Good Hygiene,B
+u49,shop7,3.5,4.1,Good Service,B
+u59,shop19,3,4.9,Good Service,B
+u70,shop70,3.8,4.2,Good Hygiene,B
+u93,shop105,1.2,4.8,Good Service,A
+u20,shop119,1.4,1.3,Bad Service and Bad Hygiene,B
+u1,shop19,1.3,3.9,Good Service,B
+u21,shop143,2.2,2.4,Bad Service and Bad Hygiene,B
+u33,shop33,4.7,4.4,Good Hygiene,B
+u3,shop93,4.3,3.5,Good Hygiene,A
+u13,shop108,4.3,3.9,Good Hygiene,A
+u85,shop34,2.2,4.8,Good Service,B
+u62,shop56,2.8,4,Good Service,B
+u54,shop60,3.4,4.7,Good Service,A
+u67,shop25,4.1,3.6,Good Hygiene,B
+u41,shop88,1.3,5,Good Service,B
+u44,shop103,3,1.2,Bad Service and Bad Hygiene,B
+u18,shop67,3.9,3.1,Good Hygiene,B
+u25,shop47,3.4,2.2,Bad Service and Bad Hygiene,A
+u11,shop76,4.7,2.2,Good Hygiene,A
+u67,shop30,4.8,4.3,Good Hygiene,B
+u37,shop124,2.8,2.2,Bad Service and Bad Hygiene,A
+u8,shop46,2.4,2.4,Bad Service and Bad Hygiene,A
+u85,shop112,3.6,4.3,Good Hygiene,B
+u53,shop76,3.2,5,Good Service,B
+u63,shop98,4.3,3.5,Good Hygiene,A
+u49,shop15,3.6,2.8,Good Hygiene,A
+u17,shop56,3,2.9,Bad Service and Bad Hygiene,B
+u74,shop50,4.1,1.1,Good Hygiene,B
+u58,shop141,4.4,3.9,Good Hygiene,A
+u8,shop99,4.7,4.8,Good Hygiene,A
+u85,shop42,2.2,3.2,Bad Service and Bad Hygiene,A
+u72,shop86,3.2,4.7,Good Service,A
+u32,shop83,3.4,1.3,Bad Service and Bad Hygiene,B
+u92,shop21,1.4,3.9,Good Service,A
+u1,shop137,4.1,1.3,Good Hygiene,B
+u33,shop21,2.7,3.1,Bad Service and Bad Hygiene,B
+u35,shop51,5,3.4,Good Hygiene,B
+u49,shop4,4.2,3,Good Hygiene,A
+u77,shop54,1.4,3.9,Good Service,A
+u61,shop14,3.9,1.3,Good Hygiene,A
+u60,shop101,3.9,4.4,Good Hygiene,A
+u50,shop102,3.5,3.9,Good Service,A
+u11,shop26,2,2.6,Bad Service and Bad Hygiene,B
+u28,shop24,2.2,3.2,Bad Service and Bad Hygiene,A
+u53,shop111,2,2.9,Bad Service and Bad Hygiene,B
+u66,shop35,3.5,4.4,Good Service,A
+u42,shop47,4.2,4.4,Good Hygiene,A
+u55,shop28,1.4,2,Bad Service and Bad Hygiene,A
+u1,shop21,2.9,2.9,Bad Service and Bad Hygiene,A
+u26,shop129,5,1.1,Good Hygiene,B
+u66,shop69,4.2,1.3,Good Hygiene,A
+u96,shop57,4.3,3,Good Hygiene,B
+u27,shop98,4.7,1.1,Good Hygiene,A
+u95,shop57,3.5,2.9,Bad Service and Bad Hygiene,A
+u76,shop8,3.7,4.9,Good Hygiene,B
+u40,shop97,3.9,3.5,Good Hygiene,A
+u64,shop48,4.4,4.8,Good Hygiene,A
+u25,shop77,4,3.8,Good Hygiene,B
+u49,shop40,4.2,1.2,Good Hygiene,A
+u60,shop51,4.5,1.1,Good Hygiene,A
+u45,shop57,4.7,3.1,Good Hygiene,B
+u44,shop87,4.4,4.7,Good Hygiene,A
+u72,shop146,3.2,5,Good Service,B
+u21,shop96,3.5,4.5,Good Service,B
+u1,shop29,2.4,2.5,Bad Service and Bad Hygiene,B
+u100,shop107,4.4,5,Good Hygiene,B
+u5,shop114,1.1,4.1,Good Service,B
+u42,shop76,3.5,2.7,Bad Service and Bad Hygiene,B
+u70,shop112,5,1.1,Good Hygiene,A
+u87,shop88,2.2,4.4,Good Service,B
+u84,shop47,2.4,4.8,Good Service,A
+u19,shop23,2.8,3.4,Bad Service and Bad Hygiene,B
+u55,shop116,3.6,2,Good Hygiene,A
+u84,shop113,5,4.7,Good Hygiene,B
+u51,shop65,1.1,4.7,Good Service,B
+u25,shop94,4.6,3.1,Good Hygiene,A
+u34,shop132,1.3,2.7,Bad Service and Bad Hygiene,B
+u65,shop15,2.4,5,Good Service,A
+u57,shop21,1.5,4.2,Good Service,B
+u77,shop143,2,4.3,Good Service,A
+u48,shop31,4.4,4.5,Good Hygiene,B
+u72,shop5,3.8,2.2,Good Hygiene,A
+u2,shop42,4.9,2.2,Good Hygiene,A
+u5,shop115,2.5,4.4,Good Service,A
+u47,shop19,3.8,4.2,Good Hygiene,B
+u71,shop95,1.2,2.8,Bad Service and Bad Hygiene,A
+u28,shop68,4.2,3.1,Good Hygiene,B
+u99,shop140,2.8,1.1,Bad Service and Bad Hygiene,A
+u91,shop21,3.8,2.4,Good Hygiene,B
+u50,shop82,4.2,4.7,Good Hygiene,B
+u53,shop5,3.7,2.2,Good Hygiene,A
+u28,shop134,3.6,4.5,Good Hygiene,B
+u19,shop75,3.2,3.5,Bad Service and Bad Hygiene,A
+u23,shop4,4.6,4.4,Good Hygiene,B
+u67,shop128,1.1,3.6,Good Service,A
+u45,shop50,1.4,4.6,Good Service,A
+u82,shop48,1.3,1.5,Bad Service and Bad Hygiene,B
+u96,shop52,1.5,1.1,Bad Service and Bad Hygiene,B
+u72,shop81,3.1,4.5,Good Service,A
+u94,shop17,4.7,3.6,Good Hygiene,B
+u88,shop115,4.2,1.5,Good Hygiene,B
+u71,shop29,2.4,3.5,Bad Service and Bad Hygiene,A
+u96,shop68,2.4,2.4,Bad Service and Bad Hygiene,A
+u4,shop110,3.8,1.3,Good Hygiene,B
+u27,shop145,3.4,2.6,Bad Service and Bad Hygiene,A
+u49,shop31,4.3,3.6,Good Hygiene,A
+u50,shop142,3,1.3,Bad Service and Bad Hygiene,A
+u89,shop5,3.6,4.5,Good Hygiene,B
+u79,shop20,3.6,2.9,Good Hygiene,A
+u62,shop51,2.6,2.4,Bad Service and Bad Hygiene,B
+u93,shop146,3.7,2,Good Hygiene,B
+u56,shop118,4.7,2.2,Good Hygiene,A
+u98,shop3,2.9,4.5,Good Service,A
+u96,shop92,3,4.3,Good Service,B
+u86,shop97,2.6,4,Good Service,B
+u92,shop11,3.8,1.3,Good Hygiene,B
+u95,shop12,3.9,2.2,Good Hygiene,B
+u69,shop118,4.9,1.4,Good Hygiene,B
+u33,shop126,3.8,5,Good Hygiene,B
+u87,shop87,4.4,2.8,Good Hygiene,B
+u1,shop106,4,2.8,Good Hygiene,B
+u96,shop27,3.4,5,Good Service,B
+u26,shop7,1.1,4.2,Good Service,B
+u14,shop73,5,2,Good Hygiene,B
+u50,shop101,3.6,1.5,Good Hygiene,B
+u16,shop105,4.6,2.2,Good Hygiene,B
+u52,shop92,4.4,1.3,Good Hygiene,A
+u15,shop84,4.6,4.6,Good Hygiene,B
+u63,shop79,1.4,4.9,Good Service,B
+u70,shop42,3.4,4.8,Good Service,A
+u3,shop67,3.6,2.8,Good Hygiene,A
+u29,shop8,4.8,4.2,Good Hygiene,A
+u75,shop30,4.6,2.8,Good Hygiene,B
+u7,shop10,5,2.4,Good Hygiene,A
+u96,shop55,3.2,4.9,Good Service,A
+u34,shop15,4.8,2.7,Good Hygiene,A
+u15,shop16,1.5,5,Good Service,A
+u40,shop99,3.5,4.3,Good Service,B
+u33,shop91,2.2,1.3,Bad Service and Bad Hygiene,A
+u54,shop88,2.8,1.5,Bad Service and Bad Hygiene,A
+u74,shop89,2.8,4.6,Good Service,B
+u18,shop80,4.9,3.1,Good Hygiene,A
+u78,shop89,3.5,4.9,Good Service,A
+u88,shop29,2.2,1.2,Bad Service and Bad Hygiene,B
+u14,shop13,2.2,4.5,Good Service,A
+u17,shop17,3.2,2.2,Bad Service and Bad Hygiene,B
+u77,shop123,3.2,2.6,Bad Service and Bad Hygiene,B
+u57,shop137,3,2.2,Bad Service and Bad Hygiene,B
+u50,shop54,3.9,2.4,Good Hygiene,A
+u76,shop43,3.5,3.9,Good Service,A
+u60,shop93,1.5,2.5,Bad Service and Bad Hygiene,B
+u23,shop105,2.8,4.8,Good Service,B
+u10,shop58,4.4,2.4,Good Hygiene,B
+u35,shop1,3.1,3.9,Good Service,A
+u64,shop7,3.7,2,Good Hygiene,B
+u73,shop125,2,1.1,Bad Service and Bad Hygiene,B
+u23,shop116,4.3,2.7,Good Hygiene,A
+u59,shop118,3.6,4.9,Good Hygiene,A
+u35,shop141,4.3,4.5,Good Hygiene,A
+u18,shop29,3,3.8,Good Service,A
+u60,shop51,2.2,2.5,Bad Service and Bad Hygiene,A
+u48,shop44,2.6,4.7,Good Service,A
+u43,shop57,2,4,Good Service,A
+u89,shop48,3.7,1.1,Good Hygiene,A
+u24,shop102,2.5,5,Good Service,B
+u88,shop115,2.5,2.9,Bad Service and Bad Hygiene,A
+u57,shop88,3.5,3.1,Bad Service and Bad Hygiene,B
+u73,shop122,4.9,2.5,Good Hygiene,A
+u71,shop72,2.2,3.6,Good Service,B
+u18,shop48,1.3,2.4,Bad Service and Bad Hygiene,B
+u91,shop73,4,2,Good Hygiene,B
+u58,shop94,1.1,4.8,Good Service,A
+u43,shop5,3.7,2.7,Good Hygiene,B
+u21,shop122,2.5,1.5,Bad Service and Bad Hygiene,A
+u14,shop36,3.4,4.3,Good Service,A
+u54,shop148,4.7,3.6,Good Hygiene,A
+u32,shop122,3,3.8,Good Service,B
+u91,shop64,3,5,Good Service,A
+u11,shop67,4.5,3.7,Good Hygiene,B
+u48,shop17,1.5,4.8,Good Service,B
+u88,shop35,4.3,2.2,Good Hygiene,A
+u39,shop38,2,1.1,Bad Service and Bad Hygiene,B
+u55,shop102,2.9,1.2,Bad Service and Bad Hygiene,B
+u16,shop145,4.8,1.1,Good Hygiene,B
+u1,shop58,4.5,1.2,Good Hygiene,B
+u62,shop2,4.1,2.7,Good Hygiene,A
+u48,shop74,3.5,3.9,Good Service,A
+u19,shop13,1.4,2.5,Bad Service and Bad Hygiene,A
+u42,shop56,4.4,2.7,Good Hygiene,A
+u15,shop4,3.1,3.9,Good Service,B
+u35,shop109,4.7,4.1,Good Hygiene,B
+u17,shop75,1.2,2.5,Bad Service and Bad Hygiene,A
+u27,shop124,2.4,3.2,Bad Service and Bad Hygiene,B
+u32,shop33,3.5,4.6,Good Service,A
+u72,shop53,3.5,1.5,Bad Service and Bad Hygiene,A
+u72,shop41,2,4.8,Good Service,A
+u73,shop31,2.8,3.8,Good Service,A
+u53,shop135,2.9,3.1,Bad Service and Bad Hygiene,A
+u79,shop101,4.4,2,Good Hygiene,A
+u89,shop47,3.7,4.6,Good Hygiene,B
+u17,shop19,3.4,2.5,Bad Service and Bad Hygiene,B
+u32,shop110,1.3,3.5,Bad Service and Bad Hygiene,B
+u32,shop146,4,1.2,Good Hygiene,B
+u35,shop26,1.1,2.8,Bad Service and Bad Hygiene,B
+u67,shop135,3.2,1.2,Bad Service and Bad Hygiene,B
+u19,shop43,4.7,2.9,Good Hygiene,A
+u7,shop84,2.8,5,Good Service,A
+u12,shop30,3.1,4.9,Good Service,B
+u17,shop45,2.7,4.1,Good Service,B
+u60,shop25,3.1,2.4,Bad Service and Bad Hygiene,B
+u89,shop66,4.9,4.1,Good Hygiene,B
+u97,shop6,1.4,3.9,Good Service,B
+u48,shop26,4.4,4.6,Good Hygiene,A
+u48,shop19,4.5,3,Good Hygiene,A
+u28,shop132,4.4,1.1,Good Hygiene,B
+u48,shop32,2.6,3.4,Bad Service and Bad Hygiene,A
+u55,shop96,3.4,1.3,Bad Service and Bad Hygiene,B
+u48,shop100,1.1,5,Good Service,A
+u1,shop44,2.7,2.9,Bad Service and Bad Hygiene,B
+u11,shop117,3.2,3.2,Bad Service and Bad Hygiene,B
+u95,shop20,4.2,4.7,Good Hygiene,A
+u99,shop58,4.8,2.4,Good Hygiene,B
+u68,shop143,3.6,4.8,Good Hygiene,B
+u12,shop66,5,4.6,Good Hygiene,B
+u99,shop107,1.3,4.8,Good Service,A
+u72,shop18,2,3,Bad Service and Bad Hygiene,A
+u67,shop22,4.2,4.4,Good Hygiene,A
+u86,shop47,2.2,3.6,Good Service,B
+u66,shop126,4.1,4.4,Good Hygiene,A
+u21,shop121,2.2,3.5,Bad Service and Bad Hygiene,A
+u3,shop99,2.2,2.8,Bad Service and Bad Hygiene,B
+u7,shop23,4.8,1.3,Good Hygiene,A
+u13,shop12,2,4.8,Good Service,A
+u29,shop48,4.4,2,Good Hygiene,A
+u51,shop136,2.5,3.6,Good Service,B
+u96,shop35,3.6,4.1,Good Hygiene,B
+u51,shop40,4.5,3.2,Good Hygiene,B
+u65,shop117,1.5,1.1,Bad Service and Bad Hygiene,B
+u24,shop110,5,3.8,Good Hygiene,A
+u80,shop70,3.5,1.1,Bad Service and Bad Hygiene,B
+u46,shop138,3.8,4.6,Good Hygiene,B
+u10,shop105,2.6,3.9,Good Service,A
+u11,shop30,3.6,1.4,Good Hygiene,A
+u40,shop132,4.2,1.2,Good Hygiene,A
+u41,shop82,4.1,4,Good Hygiene,B
+u66,shop102,1.4,2.7,Bad Service and Bad Hygiene,A
+u100,shop42,3.5,4.4,Good Service,B
+u7,shop107,4.6,2.8,Good Hygiene,B
+u87,shop34,2.4,4.9,Good Service,A
+u55,shop53,3.2,3.4,Bad Service and Bad Hygiene,A
+u81,shop135,3.4,4.6,Good Service,A
+u49,shop117,4.4,1.2,Good Hygiene,B
+u88,shop1,1.2,4.6,Good Service,A
+u45,shop43,4.7,1.2,Good Hygiene,B
+u32,shop101,3.9,3.7,Good Hygiene,A
+u86,shop97,1.3,4.4,Good Service,B
+u94,shop108,4,4.3,Good Hygiene,A
+u96,shop140,3.9,3.2,Good Hygiene,B
+u26,shop93,4.1,4.8,Good Hygiene,A
+u68,shop107,4.7,1.5,Good Hygiene,A
+u91,shop107,2.8,2.2,Bad Service and Bad Hygiene,A
+u49,shop94,1.4,4.8,Good Service,B
+u52,shop71,3.4,4.1,Good Service,B
+u28,shop142,1.2,4.4,Good Service,B
+u23,shop89,4.9,2.6,Good Hygiene,A
+u89,shop54,1.1,4.6,Good Service,B
+u24,shop29,1.2,1.2,Bad Service and Bad Hygiene,A
+u5,shop142,1.1,1.3,Bad Service and Bad Hygiene,A
+u8,shop117,3.7,2.8,Good Hygiene,B
+u58,shop127,2.9,2.4,Bad Service and Bad Hygiene,B
+u18,shop133,1.4,4.5,Good Service,A
+u80,shop53,1.2,2.9,Bad Service and Bad Hygiene,B
+u69,shop131,1.3,4.4,Good Service,B
+u24,shop67,3.1,1.4,Bad Service and Bad Hygiene,A
+u45,shop10,4.9,2,Good Hygiene,B
+u73,shop113,4.9,3.2,Good Hygiene,A
+u68,shop140,2.9,2.7,Bad Service and Bad Hygiene,A
+u55,shop39,2.4,3.7,Good Service,B
+u35,shop7,1.5,4.9,Good Service,A
+u64,shop74,3.4,2.9,Bad Service and Bad Hygiene,B
+u20,shop75,2.5,3,Bad Service and Bad Hygiene,A
+u29,shop45,1.4,3.2,Bad Service and Bad Hygiene,A
+u72,shop52,2.7,3.4,Bad Service and Bad Hygiene,B
+u45,shop96,4.5,5,Good Hygiene,B
+u53,shop61,1.2,3.1,Bad Service and Bad Hygiene,A
+u20,shop8,4,3.5,Good Hygiene,A
+u77,shop105,4.5,3.4,Good Hygiene,A
+u15,shop9,5,5,Good Hygiene,A
+u29,shop146,2.6,4.6,Good Service,B
+u46,shop6,2.6,2.8,Bad Service and Bad Hygiene,A
+u94,shop51,2.7,2.7,Bad Service and Bad Hygiene,A
+u13,shop23,4.3,4.5,Good Hygiene,B
+u5,shop6,3.6,1.2,Good Hygiene,A
+u69,shop123,4.4,3.4,Good Hygiene,A
+u25,shop142,1.3,3.2,Bad Service and Bad Hygiene,A
+u78,shop21,3.5,4.5,Good Service,A
+u11,shop72,4.8,1.2,Good Hygiene,B
+u66,shop15,1.4,1.1,Bad Service and Bad Hygiene,A
+u24,shop80,3.5,3.2,Bad Service and Bad Hygiene,B
+u62,shop14,2.4,4.8,Good Service,B
+u25,shop143,5,4.4,Good Hygiene,A
+u95,shop101,1.2,4.2,Good Service,A
+u59,shop98,4.4,4.6,Good Hygiene,A
+u49,shop111,4.5,1.3,Good Hygiene,A
+u68,shop133,1.3,4.2,Good Service,B
+u31,shop16,3,2.9,Bad Service and Bad Hygiene,A
+u94,shop4,3.1,1.4,Bad Service and Bad Hygiene,A
+u88,shop74,4.4,4.5,Good Hygiene,B
+u8,shop109,2,2.7,Bad Service and Bad Hygiene,A
+u53,shop71,3,2.2,Bad Service and Bad Hygiene,B
+u53,shop92,2.9,4.8,Good Service,B
+u58,shop69,2.7,1.1,Bad Service and Bad Hygiene,B
+u96,shop39,4.4,1.5,Good Hygiene,B
+u90,shop7,3.8,4.8,Good Hygiene,B
+u100,shop114,2,2.5,Bad Service and Bad Hygiene,B
+u83,shop84,4.1,1.2,Good Hygiene,A
+u51,shop12,2.7,2.5,Bad Service and Bad Hygiene,A
+u62,shop75,4.9,4.2,Good Hygiene,B
+u22,shop76,1.1,3.9,Good Service,A
+u27,shop144,1.2,2.6,Bad Service and Bad Hygiene,A
+u69,shop87,1.1,2.4,Bad Service and Bad Hygiene,A
+u19,shop56,1.3,4.7,Good Service,B
+u20,shop97,2,2.9,Bad Service and Bad Hygiene,B
+u15,shop74,3.4,3.5,Bad Service and Bad Hygiene,B
+u62,shop93,3,4.8,Good Service,B
+u11,shop46,2.8,4.8,Good Service,A
+u15,shop94,4,2,Good Hygiene,B
+u55,shop81,2.5,1.5,Bad Service and Bad Hygiene,B
+u18,shop146,4.5,4.5,Good Hygiene,B
+u84,shop120,2.5,4.6,Good Service,B
+u5,shop33,1.2,3.5,Bad Service and Bad Hygiene,B
+u56,shop20,4,4.4,Good Hygiene,A
+u5,shop133,2.6,3.5,Bad Service and Bad Hygiene,B
+u65,shop34,4.1,4,Good Hygiene,B
+u31,shop55,1.5,3.6,Good Service,B
+u78,shop69,2.4,3.6,Good Service,A
+u92,shop148,4.1,4.7,Good Hygiene,A
+u70,shop136,4.6,3.5,Good Hygiene,B
+u91,shop70,1.4,3.8,Good Service,B
+u99,shop27,2.4,2.9,Bad Service and Bad Hygiene,A
+u46,shop119,4.1,2,Good Hygiene,B
+u75,shop75,4.4,3,Good Hygiene,A
+u73,shop103,1.1,2,Bad Service and Bad Hygiene,B
+u7,shop140,3.8,4.3,Good Hygiene,A
+u72,shop146,2,3.7,Good Service,A
+u83,shop54,4.6,2.8,Good Hygiene,B
+u72,shop34,1.2,1.2,Bad Service and Bad Hygiene,B
+u83,shop77,2.6,2.4,Bad Service and Bad Hygiene,A
+u88,shop48,1.2,3.6,Good Service,A
+u78,shop117,3.5,2.6,Bad Service and Bad Hygiene,A
+u70,shop14,5,4,Good Hygiene,B
+u60,shop129,3.7,2.9,Good Hygiene,B
+u17,shop10,3.9,1.1,Good Hygiene,A
+u72,shop51,3.7,3.6,Good Hygiene,B
+u70,shop149,1.4,4.1,Good Service,A
+u4,shop51,3.1,2.6,Bad Service and Bad Hygiene,B
+u61,shop91,2.2,4.5,Good Service,A
+u28,shop114,2.6,4.3,Good Service,A
+u24,shop60,5,4.3,Good Hygiene,B
+u45,shop43,2.6,3,Bad Service and Bad Hygiene,B
+u32,shop56,2.4,2.7,Bad Service and Bad Hygiene,A
+u79,shop75,3.6,3.4,Good Hygiene,A
+u78,shop31,3.2,4.9,Good Service,A
+u55,shop74,2.8,4.2,Good Service,B
+u98,shop140,1.3,3.2,Bad Service and Bad Hygiene,B
+u5,shop26,2.5,3.7,Good Service,A
+u75,shop58,3.6,4.7,Good Hygiene,B
+u51,shop43,3.4,2.2,Bad Service and Bad Hygiene,B
+u34,shop63,4.8,2.2,Good Hygiene,A
+u62,shop79,3.2,3.8,Good Service,A
+u97,shop32,2.6,1.3,Bad Service and Bad Hygiene,A
+u56,shop78,4.3,4.9,Good Hygiene,B
+u79,shop3,3.9,3,Good Hygiene,B
+u40,shop14,2,4.7,Good Service,B
+u19,shop47,3.4,2,Bad Service and Bad Hygiene,B
+u77,shop62,2.2,1.5,Bad Service and Bad Hygiene,B
+u41,shop52,2.7,3.5,Bad Service and Bad Hygiene,A
+u78,shop38,2.5,4.6,Good Service,B
+u57,shop61,1.4,2.6,Bad Service and Bad Hygiene,A
+u14,shop129,4.2,3.5,Good Hygiene,B
+u23,shop73,1.4,2.7,Bad Service and Bad Hygiene,A
+u57,shop57,4.1,4.8,Good Hygiene,A
+u4,shop80,5,2.9,Good Hygiene,B
+u14,shop67,2.9,3.8,Good Service,A
+u9,shop98,1.1,4.7,Good Service,A
+u85,shop95,3.7,3.4,Good Hygiene,A
+u16,shop60,2,2.5,Bad Service and Bad Hygiene,A
+u35,shop75,3.8,3.4,Good Hygiene,B
+u3,shop120,3.9,3.2,Good Hygiene,B
+u3,shop17,3.8,2.6,Good Hygiene,A
+u68,shop4,4.5,3.1,Good Hygiene,A
+u7,shop89,2.4,4.5,Good Service,B
+u72,shop65,2.7,3.1,Bad Service and Bad Hygiene,B
+u28,shop26,2.5,2.8,Bad Service and Bad Hygiene,A
+u24,shop52,2.2,1.3,Bad Service and Bad Hygiene,B
+u98,shop145,1.3,1.2,Bad Service and Bad Hygiene,A
+u85,shop119,1.3,4.1,Good Service,A
+u10,shop97,4.9,4.8,Good Hygiene,B
+u42,shop92,2,4.5,Good Service,A
+u91,shop80,1.2,4.6,Good Service,A
+u6,shop84,1.3,2.6,Bad Service and Bad Hygiene,A
+u91,shop48,2.6,2.7,Bad Service and Bad Hygiene,B
+u86,shop113,4.6,4.8,Good Hygiene,A
+u18,shop39,2.2,3.4,Bad Service and Bad Hygiene,A
+u18,shop37,3.8,4.4,Good Hygiene,B
+u86,shop150,4,1.5,Good Hygiene,A
+u59,shop136,2.7,2.7,Bad Service and Bad Hygiene,B
+u63,shop63,3.8,4.7,Good Hygiene,A
+u76,shop75,2,4.1,Good Service,B
+u74,shop65,4.6,2.4,Good Hygiene,B
+u14,shop145,1.2,2.7,Bad Service and Bad Hygiene,B
+u88,shop74,1.3,2.2,Bad Service and Bad Hygiene,B
+u12,shop38,2.2,1.1,Bad Service and Bad Hygiene,A
+u38,shop4,4.8,3.1,Good Hygiene,A
+u12,shop99,3.5,4.4,Good Service,B
+u93,shop31,4.6,4.3,Good Hygiene,B
+u53,shop118,4.8,2.7,Good Hygiene,A
+u78,shop37,5,1.4,Good Hygiene,B
+u38,shop65,2.8,3.8,Good Service,B
+u91,shop109,1.5,3.9,Good Service,B
+u24,shop130,4.5,3.1,Good Hygiene,B
+u9,shop120,2.5,4,Good Service,B
+u28,shop86,1.5,4.5,Good Service,B
+u52,shop25,3.5,3.6,Good Service,B
+u13,shop105,3.4,4.6,Good Service,A
+u89,shop109,5,4.5,Good Hygiene,B
+u92,shop148,3.7,1.2,Good Hygiene,A
+u4,shop90,1.4,1.3,Bad Service and Bad Hygiene,B
+u85,shop28,2.7,4.2,Good Service,B
+u32,shop89,2.6,1.3,Bad Service and Bad Hygiene,B
+u90,shop34,4.5,4.9,Good Hygiene,A
+u59,shop82,3.9,2,Good Hygiene,A
+u44,shop102,4.5,3.7,Good Hygiene,B
+u44,shop55,2.4,1.4,Bad Service and Bad Hygiene,A
+u59,shop108,4,4.2,Good Hygiene,B
+u94,shop145,4.4,3.4,Good Hygiene,A
+u89,shop41,2.6,1.4,Bad Service and Bad Hygiene,A
+u45,shop130,4.1,1.5,Good Hygiene,B
+u34,shop29,2.6,3.5,Bad Service and Bad Hygiene,A
+u31,shop88,3.4,5,Good Service,A
+u78,shop101,3.5,2.9,Bad Service and Bad Hygiene,A
+u67,shop103,3.7,4.2,Good Hygiene,A
+u79,shop120,3,2.2,Bad Service and Bad Hygiene,B
+u33,shop90,4.9,3.5,Good Hygiene,A
+u78,shop58,4.6,2.6,Good Hygiene,B
+u100,shop147,2,3.4,Bad Service and Bad Hygiene,A
+u83,shop117,2.7,4,Good Service,B
+u36,shop65,3.6,2.7,Good Hygiene,B
+u94,shop116,2.4,2,Bad Service and Bad Hygiene,A
+u16,shop20,1.2,4.9,Good Service,A
+u69,shop8,2.2,3.5,Bad Service and Bad Hygiene,B
+u86,shop2,3.4,3.5,Bad Service and Bad Hygiene,B
+u84,shop6,2.5,4,Good Service,B
+u4,shop47,1.5,4,Good Service,B
+u24,shop28,2.7,2.8,Bad Service and Bad Hygiene,A
+u44,shop68,3.7,4,Good Hygiene,A
+u10,shop51,3.1,4.8,Good Service,A
+u6,shop14,4.1,3.6,Good Hygiene,B
+u92,shop46,2.2,2.5,Bad Service and Bad Hygiene,B
+u70,shop80,4.6,1.2,Good Hygiene,A
+u17,shop149,4.5,2.9,Good Hygiene,A
+u73,shop91,5,2.8,Good Hygiene,B
+u2,shop36,1.1,5,Good Service,A
+u74,shop132,4.1,4.3,Good Hygiene,A
+u61,shop91,1.4,3.6,Good Service,B
+u23,shop2,3.5,2.7,Bad Service and Bad Hygiene,A
+u70,shop103,3.1,1.4,Bad Service and Bad Hygiene,B
+u32,shop123,3.1,3.1,Bad Service and Bad Hygiene,B
+u51,shop125,3.1,4.8,Good Service,A
+u78,shop79,3.6,3.5,Good Hygiene,A
+u2,shop49,1.4,4.7,Good Service,A
+u20,shop53,4.7,4.6,Good Hygiene,A
+u38,shop68,3.7,2.2,Good Hygiene,B
+u17,shop81,1.2,2.4,Bad Service and Bad Hygiene,A
+u78,shop39,1.4,4.2,Good Service,B
+u94,shop15,3.6,3.9,Good Hygiene,A
+u26,shop75,4.7,3.4,Good Hygiene,B
+u76,shop13,1.1,4,Good Service,A
+u5,shop10,3.5,4.5,Good Service,A
+u77,shop102,2,1.3,Bad Service and Bad Hygiene,B
+u68,shop94,3.4,1.5,Bad Service and Bad Hygiene,B
+u64,shop126,2.5,4.8,Good Service,A
+u32,shop19,3.9,3.8,Good Hygiene,B
+u79,shop86,4.8,4.5,Good Hygiene,A
+u15,shop9,2,2.2,Bad Service and Bad Hygiene,B
+u73,shop14,3.2,4.6,Good Service,B
+u33,shop120,2.5,3.9,Good Service,B
+u43,shop84,4.2,2.2,Good Hygiene,A
+u81,shop16,4.8,4.1,Good Hygiene,A
+u3,shop78,3.2,3.4,Bad Service and Bad Hygiene,B
+u53,shop16,3,4,Good Service,A
+u6,shop113,4.9,1.1,Good Hygiene,A
+u3,shop47,4.9,4.3,Good Hygiene,B
+u29,shop100,4.9,4.4,Good Hygiene,B
+u91,shop133,3,4.6,Good Service,A
+u87,shop118,2.2,4.3,Good Service,A
+u45,shop53,3.4,3.5,Bad Service and Bad Hygiene,B
+u89,shop146,2.2,4.5,Good Service,A
+u26,shop44,2.4,3.7,Good Service,A
+u78,shop56,2.7,3.7,Good Service,B
+u52,shop81,2.6,4,Good Service,A
+u72,shop143,5,3,Good Hygiene,A
+u79,shop68,3.9,4.4,Good Hygiene,A
+u30,shop58,2.5,4.7,Good Service,A
+u75,shop96,1.4,3.6,Good Service,B
+u74,shop44,2.8,1.1,Bad Service and Bad Hygiene,B
+u94,shop127,4.3,3.8,Good Hygiene,B
+u65,shop141,1.3,1.3,Bad Service and Bad Hygiene,B
+u91,shop62,1.2,1.2,Bad Service and Bad Hygiene,B
+u55,shop133,2.4,4.8,Good Service,B
+u67,shop99,4.3,2.7,Good Hygiene,B
+u51,shop146,3,4.2,Good Service,A
+u67,shop4,4.1,4.9,Good Hygiene,B
+u42,shop77,2.5,3.1,Bad Service and Bad Hygiene,B
+u35,shop45,3.2,4.7,Good Service,B
+u65,shop53,3.2,3.4,Bad Service and Bad Hygiene,A
+u67,shop19,2.4,1.4,Bad Service and Bad Hygiene,A
+u50,shop68,1.2,3.7,Good Service,B
+u74,shop131,4.4,4.3,Good Hygiene,B
+u60,shop67,1.4,2.7,Bad Service and Bad Hygiene,A
+u38,shop132,4.8,3.4,Good Hygiene,B
+u3,shop132,4.5,3.5,Good Hygiene,A
+u73,shop138,1.4,3.9,Good Service,B
+u97,shop124,3.6,4.7,Good Hygiene,B
+u77,shop10,2.7,3.6,Good Service,A
+u51,shop73,2,4.4,Good Service,B
+u31,shop146,2.7,2.5,Bad Service and Bad Hygiene,B
+u90,shop88,4.2,2.6,Good Hygiene,B
+u6,shop125,1.4,2.8,Bad Service and Bad Hygiene,B
+u88,shop101,4.3,4.9,Good Hygiene,A
+u60,shop104,3.1,5,Good Service,A
+u85,shop65,5,4.9,Good Hygiene,A
+u50,shop112,3.6,5,Good Hygiene,A
+u38,shop44,4,1.4,Good Hygiene,B
+u39,shop48,1.5,4.2,Good Service,A
+u8,shop93,3.2,4.3,Good Service,B
+u41,shop115,2.4,1.3,Bad Service and Bad Hygiene,A
+u5,shop20,1.3,1.3,Bad Service and Bad Hygiene,A
+u51,shop55,2,2.2,Bad Service and Bad Hygiene,B
+u81,shop30,4.3,1.3,Good Hygiene,A
+u92,shop136,2,3.4,Bad Service and Bad Hygiene,A
+u37,shop138,4.9,4.2,Good Hygiene,B
+u6,shop110,5,3.1,Good Hygiene,B
+u29,shop47,3.4,4.7,Good Service,A
+u68,shop132,3,4.8,Good Service,A
+u53,shop18,4.1,5,Good Hygiene,B
+u53,shop15,3.6,1.4,Good Hygiene,A
+u83,shop23,5,4.2,Good Hygiene,B
+u57,shop102,3.4,3.5,Bad Service and Bad Hygiene,B
+u18,shop69,3.1,4.5,Good Service,A
+u49,shop113,1.5,1.4,Bad Service and Bad Hygiene,B
+u31,shop122,3.2,4.5,Good Service,B
+u15,shop113,2.6,3.1,Bad Service and Bad Hygiene,B
+u78,shop24,1.3,4.5,Good Service,B
+u26,shop56,2,2.6,Bad Service and Bad Hygiene,B
+u98,shop18,1.2,4.1,Good Service,A
+u22,shop86,3.1,4.4,Good Service,A
+u92,shop1,1.2,3.5,Bad Service and Bad Hygiene,B
+u72,shop15,3.9,4.3,Good Hygiene,A
+u64,shop25,3,3.8,Good Service,A
+u26,shop8,4.5,4.9,Good Hygiene,A
+u74,shop8,3.1,4.6,Good Service,A
+u79,shop68,2,2.6,Bad Service and Bad Hygiene,B
+u82,shop7,4.7,2.5,Good Hygiene,A
+u20,shop118,3.1,4.7,Good Service,A
+u32,shop59,2.4,4.7,Good Service,B
+u56,shop129,2.5,2.8,Bad Service and Bad Hygiene,B
+u39,shop107,3.9,4.6,Good Hygiene,B
+u81,shop56,1.2,4.4,Good Service,A
+u61,shop83,4.7,2.5,Good Hygiene,A
+u86,shop124,1.2,3.8,Good Service,A
+u33,shop70,2.6,1.1,Bad Service and Bad Hygiene,B
+u85,shop76,2.7,4.1,Good Service,B
+u68,shop31,2.4,4.1,Good Service,B
+u84,shop87,4.7,3.7,Good Hygiene,B
+u93,shop58,4.8,2,Good Hygiene,B
+u39,shop109,4,3.7,Good Hygiene,B
+u85,shop97,2.8,1.4,Bad Service and Bad Hygiene,A
+u24,shop24,1.2,4.2,Good Service,B
+u13,shop140,3.5,4.4,Good Service,B
+u81,shop135,3.8,2,Good Hygiene,B
+u25,shop123,2.4,4.6,Good Service,B
+u8,shop2,4.5,3.8,Good Hygiene,A
+u39,shop37,1.3,1.4,Bad Service and Bad Hygiene,A
+u100,shop150,2.7,3.8,Good Service,A
+u28,shop57,2.5,2,Bad Service and Bad Hygiene,B
+u33,shop91,4.9,2,Good Hygiene,A
+u7,shop50,3.6,4.2,Good Hygiene,A
+u29,shop76,3.9,4.4,Good Hygiene,B
+u26,shop84,4.5,2.4,Good Hygiene,B
+u37,shop118,4.2,3,Good Hygiene,A
+u99,shop89,4.5,1.3,Good Hygiene,A
+u75,shop141,1.4,3.6,Good Service,B
+u15,shop40,4.7,2.4,Good Hygiene,B
+u99,shop59,2.2,4.7,Good Service,B
+u99,shop1,1.4,4.4,Good Service,A
+u50,shop67,4.6,4.2,Good Hygiene,A
+u59,shop82,2.6,3.2,Bad Service and Bad Hygiene,A
+u56,shop58,4.1,1.2,Good Hygiene,A
+u9,shop48,4.5,2,Good Hygiene,A
+u55,shop149,5,1.3,Good Hygiene,B
+u82,shop150,3.5,2.4,Bad Service and Bad Hygiene,A
+u51,shop80,4.2,1.1,Good Hygiene,B
+u44,shop130,3.2,4.9,Good Service,B
+u89,shop148,1.1,2.6,Bad Service and Bad Hygiene,A
+u99,shop71,3.1,3.9,Good Service,A
+u28,shop142,2.4,1.5,Bad Service and Bad Hygiene,B
+u22,shop59,4.6,4.8,Good Hygiene,B
+u61,shop142,3.6,2.5,Good Hygiene,A
+u42,shop146,1.4,3.5,Bad Service and Bad Hygiene,B
+u51,shop97,2,4.1,Good Service,B
+u25,shop149,2.4,2.7,Bad Service and Bad Hygiene,B
+u28,shop66,2,4.3,Good Service,A
+u14,shop74,2,3.6,Good Service,B
+u30,shop150,3,3.2,Bad Service and Bad Hygiene,B
+u90,shop34,3,4.8,Good Service,B
+u74,shop115,4.8,4,Good Hygiene,A
+u44,shop90,3.8,3.8,Good Hygiene,A
+u26,shop3,4.9,3.9,Good Hygiene,A
+u58,shop144,1.1,4.8,Good Service,B
+u87,shop135,2,3.7,Good Service,B
+u87,shop150,1.4,3.4,Bad Service and Bad Hygiene,B
+u91,shop139,4.3,3.1,Good Hygiene,B
+u19,shop26,1.2,3.8,Good Service,A
+u9,shop105,3.5,2.7,Bad Service and Bad Hygiene,A
+u77,shop135,3.6,1.2,Good Hygiene,B
+u69,shop84,4,4,Good Hygiene,B
+u5,shop30,4.1,2.6,Good Hygiene,A
+u19,shop118,1.4,2,Bad Service and Bad Hygiene,B
+u89,shop60,3.8,2.5,Good Hygiene,B
+u87,shop43,2.5,4.8,Good Service,B
+u4,shop67,5,4,Good Hygiene,B
+u20,shop72,3.9,2.5,Good Hygiene,B
+u48,shop22,3.9,4.8,Good Hygiene,A
+u39,shop11,1.4,1.4,Bad Service and Bad Hygiene,A
+u14,shop69,2.7,2.4,Bad Service and Bad Hygiene,B
+u10,shop72,2.9,2.2,Bad Service and Bad Hygiene,A
+u47,shop133,3,2.9,Bad Service and Bad Hygiene,B
+u66,shop106,4.1,3,Good Hygiene,B
+u37,shop147,3.7,2,Good Hygiene,A
+u23,shop29,4.3,4.4,Good Hygiene,A
+u76,shop145,3.5,4.4,Good Service,A
+u8,shop93,4.8,3.9,Good Hygiene,B
+u62,shop26,3.8,4.4,Good Hygiene,A
+u61,shop113,4.6,2.7,Good Hygiene,A
+u83,shop100,4,1.3,Good Hygiene,B
+u58,shop99,4.2,3.6,Good Hygiene,B
+u67,shop17,3.4,4.4,Good Service,B
+u27,shop142,4.7,4.8,Good Hygiene,A
+u81,shop62,4.8,2.6,Good Hygiene,A
+u25,shop13,4,4.2,Good Hygiene,B
+u95,shop20,4.5,2.8,Good Hygiene,A
+u94,shop16,2.8,4.3,Good Service,A
+u39,shop18,5,4.8,Good Hygiene,A
+u29,shop20,4.1,3.9,Good Hygiene,A
+u68,shop126,5,3.5,Good Hygiene,B
+u91,shop6,2.2,3.6,Good Service,A
+u6,shop105,4.1,3.1,Good Hygiene,B
+u29,shop108,4.1,2.7,Good Hygiene,A
+u50,shop140,4.7,1.5,Good Hygiene,A
+u6,shop49,3.2,1.4,Bad Service and Bad Hygiene,A
+u13,shop115,4.5,3.4,Good Hygiene,A
+u80,shop119,1.4,2.2,Bad Service and Bad Hygiene,B
+u99,shop33,3.5,4,Good Service,B
+u64,shop4,2.7,3.4,Bad Service and Bad Hygiene,B
+u52,shop41,3.2,2.5,Bad Service and Bad Hygiene,B
+u48,shop68,3.6,3.4,Good Hygiene,B
+u63,shop119,2.5,2.6,Bad Service and Bad Hygiene,B
+u70,shop17,4.1,4.5,Good Hygiene,A
+u76,shop23,1.1,2,Bad Service and Bad Hygiene,B
+u2,shop5,3,4.9,Good Service,A
+u33,shop56,3.8,4.1,Good Hygiene,B
+u74,shop22,2.9,2.2,Bad Service and Bad Hygiene,A
+u14,shop19,2.5,4.1,Good Service,B
+u89,shop61,3.8,5,Good Hygiene,B
+u17,shop37,4.5,1.2,Good Hygiene,B
+u43,shop39,3.4,2.7,Bad Service and Bad Hygiene,A
+u99,shop58,1.4,3.5,Bad Service and Bad Hygiene,A
+u11,shop97,2.2,3.4,Bad Service and Bad Hygiene,A
+u71,shop26,5,5,Good Hygiene,B
+u43,shop140,4.1,2.2,Good Hygiene,B
+u22,shop75,4.5,2.4,Good Hygiene,A
+u26,shop34,4.3,4,Good Hygiene,B
+u69,shop140,4.6,5,Good Hygiene,A
+u83,shop119,1.2,2.2,Bad Service and Bad Hygiene,B
+u97,shop128,4.4,4.5,Good Hygiene,A
+u53,shop65,1.1,3,Bad Service and Bad Hygiene,B
+u33,shop53,1.1,1.4,Bad Service and Bad Hygiene,B
+u87,shop134,2.2,3.5,Bad Service and Bad Hygiene,A
+u26,shop58,2.7,5,Good Service,B
+u85,shop61,1.2,3.9,Good Service,A
+u71,shop108,4.6,4.7,Good Hygiene,A
+u79,shop50,4.9,4.5,Good Hygiene,A
+u38,shop8,1.5,2.4,Bad Service and Bad Hygiene,A
+u91,shop83,4.1,1.3,Good Hygiene,B
+u73,shop61,3.4,3.8,Good Service,B
+u20,shop100,2.5,2.6,Bad Service and Bad Hygiene,A
+u82,shop99,2.8,4.5,Good Service,B
+u48,shop57,1.2,2.8,Bad Service and Bad Hygiene,A
+u33,shop133,3.6,1.3,Good Hygiene,A
+u73,shop117,3.6,3.8,Good Hygiene,A
+u99,shop35,4.6,4.3,Good Hygiene,A
+u48,shop24,2.4,2.5,Bad Service and Bad Hygiene,B
+u60,shop64,3.4,3.5,Bad Service and Bad Hygiene,A
+u59,shop133,3.7,4.9,Good Hygiene,B
+u10,shop148,3.2,3,Bad Service and Bad Hygiene,A
+u3,shop16,1.1,2.4,Bad Service and Bad Hygiene,B
+u86,shop144,4.3,2.8,Good Hygiene,B
+u18,shop42,3.8,3.1,Good Hygiene,B
+u1,shop36,4.9,4.8,Good Hygiene,B
+u80,shop80,4.7,1.3,Good Hygiene,A
+u95,shop69,4,3.1,Good Hygiene,B
+u44,shop7,4.4,4.7,Good Hygiene,B
+u75,shop23,4.4,4,Good Hygiene,A
+u51,shop33,1.3,1.3,Bad Service and Bad Hygiene,A
+u6,shop1,5,5,Good Hygiene,A
+u99,shop79,2.5,3.6,Good Service,A
+u99,shop93,2.8,3,Bad Service and Bad Hygiene,B
+u40,shop50,1.3,4.2,Good Service,B
+u47,shop130,3.9,4.4,Good Hygiene,A
+u33,shop85,2.8,4.1,Good Service,B
+u99,shop9,4.5,4.7,Good Hygiene,A
+u54,shop4,3.1,3.1,Bad Service and Bad Hygiene,A
+u17,shop120,3.6,3,Good Hygiene,B
+u85,shop29,4.1,4.7,Good Hygiene,A
+u34,shop94,3.2,3.2,Bad Service and Bad Hygiene,A
+u44,shop141,4.9,4.8,Good Hygiene,A
+u81,shop120,2.2,3.8,Good Service,B
+u41,shop42,4.3,4.1,Good Hygiene,B
+u42,shop14,3.4,3.1,Bad Service and Bad Hygiene,B
+u99,shop32,1.5,1.2,Bad Service and Bad Hygiene,A
+u81,shop96,4.3,1.3,Good Hygiene,B
+u31,shop42,1.5,2.4,Bad Service and Bad Hygiene,A
+u52,shop54,3.9,3.6,Good Hygiene,B
+u100,shop31,2.8,1.3,Bad Service and Bad Hygiene,A
+u89,shop88,3.1,3.6,Good Service,B
+u29,shop113,4,4.1,Good Hygiene,A
+u2,shop129,4.2,3.7,Good Hygiene,A
+u47,shop133,3.7,3.1,Good Hygiene,B
+u58,shop18,3,4,Good Service,B
+u87,shop7,1.1,2,Bad Service and Bad Hygiene,A
+u30,shop130,1.5,4.4,Good Service,A
+u80,shop62,4,3.7,Good Hygiene,B
+u55,shop2,4.8,2.9,Good Hygiene,B
+u3,shop12,3.7,2.8,Good Hygiene,B
+u67,shop70,2.2,1.3,Bad Service and Bad Hygiene,B
+u8,shop139,3,3.6,Good Service,B
+u54,shop115,2.7,5,Good Service,A
+u61,shop83,5,1.5,Good Hygiene,A
+u68,shop28,3.7,2.2,Good Hygiene,B
+u72,shop104,3.7,3,Good Hygiene,B
+u32,shop93,3,4.2,Good Service,A
+u8,shop90,2.7,1.2,Bad Service and Bad Hygiene,B
+u56,shop135,1.3,1.5,Bad Service and Bad Hygiene,B
+u4,shop110,3.6,3.1,Good Hygiene,B
+u41,shop35,3.8,5,Good Hygiene,B
+u11,shop74,3.6,3.9,Good Hygiene,B
+u7,shop10,3.2,4,Good Service,A
+u84,shop131,2.8,4,Good Service,A
+u61,shop35,1.2,2.7,Bad Service and Bad Hygiene,A
+u73,shop69,4.2,1.3,Good Hygiene,B
+u61,shop129,4.1,1.1,Good Hygiene,B
+u44,shop61,4.4,1.3,Good Hygiene,B
+u18,shop89,1.1,3.2,Bad Service and Bad Hygiene,A
+u83,shop77,2.5,4.6,Good Service,A
+u57,shop29,2.2,4.8,Good Service,B
+u59,shop3,4.2,2.2,Good Hygiene,B
+u55,shop133,2.7,2.8,Bad Service and Bad Hygiene,B
+u1,shop17,4,4.1,Good Hygiene,A
+u13,shop106,2.6,2.7,Bad Service and Bad Hygiene,A
+u48,shop85,1.4,4.3,Good Service,A
+u12,shop34,4.4,2.6,Good Hygiene,B
+u63,shop9,3.5,4.7,Good Service,B
+u74,shop132,3.6,3.2,Good Hygiene,A
+u92,shop113,2.6,3.1,Bad Service and Bad Hygiene,A
+u85,shop57,3.9,2.6,Good Hygiene,B
+u79,shop93,4.9,4.1,Good Hygiene,A
+u95,shop67,4.2,3.4,Good Hygiene,B
+u63,shop149,2.4,4.1,Good Service,A
+u48,shop138,4.4,4.6,Good Hygiene,B
+u16,shop5,2,4.5,Good Service,A
+u9,shop27,4.1,4.4,Good Hygiene,B
+u43,shop125,4.8,3.7,Good Hygiene,B
+u34,shop119,2.6,2.4,Bad Service and Bad Hygiene,A
+u14,shop26,3.6,4.5,Good Hygiene,B
+u98,shop8,4.5,4.8,Good Hygiene,B
+u75,shop19,4.4,1.2,Good Hygiene,A
+u55,shop42,1.4,4,Good Service,B
+u84,shop100,4.1,4.1,Good Hygiene,B
+u61,shop44,1.4,3.9,Good Service,B
+u46,shop84,4.7,3.4,Good Hygiene,A
+u91,shop148,1.2,4.6,Good Service,A
+u57,shop45,2.9,3.5,Bad Service and Bad Hygiene,B
+u30,shop76,4.1,1.3,Good Hygiene,B
+u75,shop121,3.6,4.9,Good Hygiene,B
+u57,shop72,4.7,2.5,Good Hygiene,A
+u13,shop128,3.1,4.2,Good Service,B
+u32,shop81,3.1,2.6,Bad Service and Bad Hygiene,B
+u43,shop126,2.9,3.7,Good Service,B
+u90,shop65,2,5,Good Service,B
+u72,shop101,2.2,2.7,Bad Service and Bad Hygiene,A
+u73,shop20,4.3,2.9,Good Hygiene,B
+u73,shop36,3.9,5,Good Hygiene,B
+u8,shop36,5,3.7,Good Hygiene,B
+u4,shop67,3.6,2.5,Good Hygiene,A
+u65,shop29,3.5,1.2,Bad Service and Bad Hygiene,B
+u22,shop68,1.4,4.5,Good Service,B
+u53,shop35,4.1,4,Good Hygiene,B
+u15,shop107,1.4,3.8,Good Service,B
+u91,shop79,4.8,1.3,Good Hygiene,B
+u89,shop54,3.4,1.1,Bad Service and Bad Hygiene,B
+u12,shop64,1.5,1.2,Bad Service and Bad Hygiene,B
+u29,shop72,1.4,4.7,Good Service,B
+u19,shop119,3.7,4.5,Good Hygiene,B
+u70,shop11,4.9,2.9,Good Hygiene,A
+u6,shop96,2.7,4.9,Good Service,A
+u18,shop136,4.1,2,Good Hygiene,A
+u98,shop147,1.3,1.2,Bad Service and Bad Hygiene,A
+u88,shop26,1.2,3.6,Good Service,A
+u63,shop74,2.8,3.2,Bad Service and Bad Hygiene,B
+u31,shop111,2.9,3.4,Bad Service and Bad Hygiene,A
+u23,shop26,3.9,2.5,Good Hygiene,B
+u60,shop108,1.5,4.8,Good Service,B
+u33,shop57,1.2,2,Bad Service and Bad Hygiene,B
+u66,shop36,2.2,2.2,Bad Service and Bad Hygiene,A
+u21,shop52,3.6,2,Good Hygiene,A
+u12,shop146,1.5,5,Good Service,A
+u12,shop13,1.1,2.5,Bad Service and Bad Hygiene,B
+u18,shop122,1.3,1.5,Bad Service and Bad Hygiene,A
+u1,shop77,4,4.8,Good Hygiene,B
+u53,shop129,3.2,2.7,Bad Service and Bad Hygiene,A
+u27,shop7,4.2,2,Good Hygiene,A
+u22,shop120,1.3,3.9,Good Service,B
+u27,shop67,2.2,2.8,Bad Service and Bad Hygiene,A
+u86,shop69,2,2.6,Bad Service and Bad Hygiene,B
+u9,shop101,4.2,3.4,Good Hygiene,B
+u53,shop5,4.1,2.4,Good Hygiene,B
+u47,shop112,4.1,1.4,Good Hygiene,B
+u15,shop140,3,3.7,Good Service,A
+u13,shop53,4.6,4.7,Good Hygiene,A
+u72,shop50,1.2,3.4,Bad Service and Bad Hygiene,A
+u9,shop57,3,5,Good Service,A
+u13,shop125,3.9,2.6,Good Hygiene,A
+u89,shop119,3.2,1.1,Bad Service and Bad Hygiene,B
+u15,shop107,2.4,3.1,Bad Service and Bad Hygiene,B
+u85,shop63,4.2,3.5,Good Hygiene,A
+u100,shop22,3.6,3.2,Good Hygiene,B
+u3,shop6,3.1,3.6,Good Service,A
+u66,shop139,2.4,4.9,Good Service,B
+u63,shop21,4.5,4.2,Good Hygiene,A
+u94,shop98,3.6,4.1,Good Hygiene,A
+u43,shop114,3.1,2,Bad Service and Bad Hygiene,A
+u80,shop31,4.6,3.5,Good Hygiene,B
+u21,shop98,2.5,1.5,Bad Service and Bad Hygiene,B
+u63,shop69,4.5,5,Good Hygiene,A
+u38,shop41,4.5,2.5,Good Hygiene,A
+u32,shop89,3.4,4.7,Good Service,A
+u94,shop102,4.1,3.7,Good Hygiene,B
+u89,shop78,1.2,3.2,Bad Service and Bad Hygiene,A
+u85,shop13,1.1,3.7,Good Service,A
+u77,shop117,4.2,1.1,Good Hygiene,B
+u68,shop34,3.8,2,Good Hygiene,B
+u27,shop42,1.4,4.2,Good Service,B
+u44,shop4,4.9,3.2,Good Hygiene,B
+u10,shop75,1.1,3,Bad Service and Bad Hygiene,A
+u6,shop12,1.4,4.9,Good Service,B
+u41,shop127,4.4,2.7,Good Hygiene,A
+u55,shop30,3.7,4.2,Good Hygiene,B
+u11,shop98,2.7,3.4,Bad Service and Bad Hygiene,B
+u56,shop99,3,2.8,Bad Service and Bad Hygiene,B
+u23,shop107,1.5,4.2,Good Service,B
+u12,shop37,1.2,3.1,Bad Service and Bad Hygiene,B
+u71,shop43,1.1,2.2,Bad Service and Bad Hygiene,A
+u8,shop2,2.5,4.7,Good Service,B
+u33,shop107,3.4,3.2,Bad Service and Bad Hygiene,A
+u66,shop118,4.4,2.7,Good Hygiene,B
+u98,shop49,1.5,4.3,Good Service,B
+u64,shop132,4.6,4.4,Good Hygiene,B
+u5,shop87,4.2,1.3,Good Hygiene,A
+u46,shop139,2.2,4,Good Service,A
+u14,shop100,3.1,3.2,Bad Service and Bad Hygiene,B
+u57,shop14,3.8,1.2,Good Hygiene,B
+u1,shop42,4.1,4.8,Good Hygiene,B
+u10,shop130,3.5,2.6,Bad Service and Bad Hygiene,B
+u6,shop45,4.1,3.7,Good Hygiene,B
+u45,shop128,1.1,2.6,Bad Service and Bad Hygiene,A
+u8,shop68,1.3,2.8,Bad Service and Bad Hygiene,B
+u14,shop54,3.7,2,Good Hygiene,B
+u1,shop32,3.1,1.4,Bad Service and Bad Hygiene,A
+u34,shop40,3.7,3.4,Good Hygiene,A
+u88,shop80,5,3.4,Good Hygiene,A
+u47,shop76,5,3.1,Good Hygiene,A
+u51,shop50,2.4,5,Good Service,B
+u72,shop38,4.9,4.8,Good Hygiene,A
+u85,shop38,3.2,2.6,Bad Service and Bad Hygiene,B
+u7,shop92,4,4.9,Good Hygiene,A
+u42,shop6,3.1,3.7,Good Service,A
+u57,shop103,2.8,4.4,Good Service,B
+u61,shop137,3.9,4.4,Good Hygiene,A
+u90,shop74,1.1,1.4,Bad Service and Bad Hygiene,B
+u22,shop59,3.8,3,Good Hygiene,B
+u83,shop56,4.8,1.4,Good Hygiene,A
+u42,shop37,1.3,2,Bad Service and Bad Hygiene,A
+u89,shop135,3.5,4.6,Good Service,A
+u7,shop110,2.8,2.4,Bad Service and Bad Hygiene,A
+u96,shop141,5,4.2,Good Hygiene,A
+u89,shop134,2.8,4.9,Good Service,A
+u38,shop32,4.7,1.1,Good Hygiene,A
+u72,shop91,4.5,4.6,Good Hygiene,A
+u100,shop90,4.9,2.6,Good Hygiene,B
+u50,shop33,2.7,3.9,Good Service,B
+u4,shop65,1.4,2.6,Bad Service and Bad Hygiene,B
+u14,shop26,2.6,2.5,Bad Service and Bad Hygiene,B
+u79,shop96,2.4,3,Bad Service and Bad Hygiene,B
+u90,shop8,2.2,2.8,Bad Service and Bad Hygiene,B
+u1,shop45,1.5,4.2,Good Service,B
+u84,shop77,5,3.4,Good Hygiene,B
+u43,shop61,3,4,Good Service,A
+u23,shop103,3.7,1.3,Good Hygiene,A
+u20,shop20,4.6,3.5,Good Hygiene,A
+u98,shop93,5,2.4,Good Hygiene,B
+u97,shop75,2.6,2.9,Bad Service and Bad Hygiene,A
+u21,shop72,3.9,4.7,Good Hygiene,A
+u85,shop23,1.5,2.5,Bad Service and Bad Hygiene,B
+u35,shop60,3.9,4.5,Good Hygiene,B
+u70,shop69,4.6,2.6,Good Hygiene,B
+u16,shop9,3.5,3,Bad Service and Bad Hygiene,B
+u41,shop25,4.2,4.7,Good Hygiene,B
+u48,shop61,4,2,Good Hygiene,A
+u56,shop31,4.3,2.2,Good Hygiene,B
+u24,shop125,3,1.5,Bad Service and Bad Hygiene,B
+u92,shop40,4.4,2.4,Good Hygiene,A
+u90,shop29,2.8,4.7,Good Service,B
+u4,shop39,4.8,4.7,Good Hygiene,A
+u26,shop69,2.4,1.1,Bad Service and Bad Hygiene,A
+u55,shop33,3.8,2.9,Good Hygiene,A
+u99,shop95,3.4,4.7,Good Service,B
+u8,shop47,2.8,2.4,Bad Service and Bad Hygiene,A
+u38,shop105,1.5,3.9,Good Service,B
+u78,shop14,3.4,3,Bad Service and Bad Hygiene,B
+u63,shop141,4,2.5,Good Hygiene,A
+u59,shop52,1.2,4.7,Good Service,A
+u35,shop145,4.8,3.1,Good Hygiene,A
+u50,shop114,3.8,2,Good Hygiene,B
+u51,shop79,3.1,2.5,Bad Service and Bad Hygiene,B
+u89,shop2,4.3,3.7,Good Hygiene,B
+u33,shop111,1.3,3,Bad Service and Bad Hygiene,B
+u46,shop30,3.8,4.6,Good Hygiene,A
+u12,shop44,3.6,3.5,Good Hygiene,A
+u71,shop112,3.6,4.5,Good Hygiene,B
+u81,shop132,1.5,4.9,Good Service,B
+u73,shop61,3.4,4.5,Good Service,B
+u68,shop59,1.1,1.5,Bad Service and Bad Hygiene,A
+u87,shop133,1.4,1.4,Bad Service and Bad Hygiene,B
+u85,shop7,5,2.9,Good Hygiene,B
+u39,shop7,2.9,4.4,Good Service,A
+u85,shop124,2.4,2,Bad Service and Bad Hygiene,B
+u95,shop34,3.4,4.1,Good Service,A
+u15,shop51,3.8,2.6,Good Hygiene,A
+u87,shop144,2.7,3.4,Bad Service and Bad Hygiene,A
+u59,shop19,2.8,3.7,Good Service,A
+u21,shop66,2.7,1.1,Bad Service and Bad Hygiene,B
+u77,shop4,1.2,3.2,Bad Service and Bad Hygiene,B
+u30,shop98,5,2.6,Good Hygiene,A
+u76,shop110,3.4,3.7,Good Service,A
+u100,shop76,4.9,4.5,Good Hygiene,A
+u53,shop117,2.7,3.1,Bad Service and Bad Hygiene,B
+u13,shop147,2.4,3.2,Bad Service and Bad Hygiene,B
+u63,shop1,2.7,4.4,Good Service,A
+u57,shop48,4.7,3.1,Good Hygiene,B
+u67,shop94,1.3,3.4,Bad Service and Bad Hygiene,B
+u39,shop72,3.4,4.4,Good Service,A
+u78,shop81,3.5,1.3,Bad Service and Bad Hygiene,B
+u18,shop57,4.2,2.6,Good Hygiene,A
+u86,shop145,2,3.4,Bad Service and Bad Hygiene,A
+u81,shop147,3.6,2.6,Good Hygiene,B
+u63,shop61,3.8,3.1,Good Hygiene,B
+u24,shop39,1.3,4.6,Good Service,A
+u9,shop51,4.9,1.1,Good Hygiene,A
+u89,shop54,4.6,4.1,Good Hygiene,B
+u86,shop32,3.2,2.4,Bad Service and Bad Hygiene,A
+u39,shop96,4.9,2.4,Good Hygiene,B
+u100,shop20,1.4,4,Good Service,B
+u7,shop123,2.5,2.4,Bad Service and Bad Hygiene,A
+u29,shop141,1.5,3.5,Bad Service and Bad Hygiene,B
+u51,shop62,2.9,3.9,Good Service,B
+u89,shop101,4.6,3.8,Good Hygiene,B
+u82,shop38,2.8,4.2,Good Service,A
+u19,shop17,4.9,3.8,Good Hygiene,A
+u91,shop23,2.5,3.5,Bad Service and Bad Hygiene,B
+u57,shop76,2.6,3.5,Bad Service and Bad Hygiene,B
+u96,shop110,5,1.4,Good Hygiene,A
+u83,shop55,4.5,1.3,Good Hygiene,B
+u29,shop91,4.6,3.4,Good Hygiene,B
+u57,shop66,2.9,4.2,Good Service,B
+u100,shop107,3.9,1.2,Good Hygiene,A
+u54,shop102,1.2,2.8,Bad Service and Bad Hygiene,B
+u19,shop133,4.4,2.2,Good Hygiene,B
+u22,shop60,4.4,4.1,Good Hygiene,A
+u92,shop128,2.4,3.9,Good Service,A
+u83,shop31,4.1,1.2,Good Hygiene,A
+u91,shop88,4.6,1.1,Good Hygiene,B
+u4,shop137,4.4,4.8,Good Hygiene,B
+u24,shop50,4.2,3.9,Good Hygiene,B
+u97,shop109,2,2.2,Bad Service and Bad Hygiene,B
+u90,shop61,3.2,1.5,Bad Service and Bad Hygiene,A
+u21,shop76,3.1,3.7,Good Service,A
+u97,shop98,2.7,4.8,Good Service,B
+u6,shop121,4.3,4.1,Good Hygiene,B
+u18,shop53,1.4,1.4,Bad Service and Bad Hygiene,B
+u12,shop23,2.6,3,Bad Service and Bad Hygiene,A
+u66,shop143,2.5,2.7,Bad Service and Bad Hygiene,B
+u30,shop118,2.7,2.6,Bad Service and Bad Hygiene,A
+u96,shop58,3.7,4.9,Good Hygiene,A
+u77,shop95,2.7,2.4,Bad Service and Bad Hygiene,A
+u93,shop114,4.3,2,Good Hygiene,A
+u17,shop46,3.4,5,Good Service,B
+u22,shop110,2.9,4.8,Good Service,A
+u68,shop123,5,3.7,Good Hygiene,A
+u76,shop93,1.1,1.5,Bad Service and Bad Hygiene,A
+u66,shop49,3.4,4,Good Service,A
+u42,shop134,4.9,2.2,Good Hygiene,B
+u12,shop10,4.8,1.5,Good Hygiene,A
+u40,shop88,4.4,4.2,Good Hygiene,B
+u39,shop122,5,4.9,Good Hygiene,A
+u9,shop134,3,3,Bad Service and Bad Hygiene,B
+u56,shop72,4.6,4.8,Good Hygiene,B
+u52,shop10,4,2.9,Good Hygiene,B
+u44,shop27,4.3,3.2,Good Hygiene,A
+u6,shop149,3.1,4.5,Good Service,A
+u25,shop147,4.5,2.4,Good Hygiene,A
+u77,shop8,4.4,3.5,Good Hygiene,A
+u91,shop60,4.2,2.8,Good Hygiene,B
+u24,shop120,3.9,5,Good Hygiene,A
+u100,shop55,2,4.8,Good Service,B
+u44,shop100,2,3.6,Good Service,A
+u89,shop146,4.3,3.9,Good Hygiene,B
+u84,shop5,3.9,2.6,Good Hygiene,B
+u97,shop98,3.8,4.1,Good Hygiene,A
+u99,shop134,3.5,5,Good Service,A
+u38,shop130,3.7,3.2,Good Hygiene,A
+u44,shop109,3.4,4.8,Good Service,B
+u42,shop31,3.5,5,Good Service,A
+u18,shop20,2,2.9,Bad Service and Bad Hygiene,A
+u64,shop90,3.2,4.4,Good Service,A
+u10,shop142,1.1,4.4,Good Service,A
+u79,shop111,3,1.3,Bad Service and Bad Hygiene,B
+u17,shop93,3,2.4,Bad Service and Bad Hygiene,B
+u66,shop23,4.8,3.7,Good Hygiene,B
+u18,shop121,2.7,4.2,Good Service,A
+u8,shop99,2.7,5,Good Service,B
+u22,shop100,2,3.5,Bad Service and Bad Hygiene,B
+u34,shop48,3.9,1.4,Good Hygiene,A
+u94,shop10,4.2,1.2,Good Hygiene,A
+u2,shop139,4.7,2.5,Good Hygiene,B
+u29,shop33,4.9,4.4,Good Hygiene,B
+u52,shop40,4.6,3.2,Good Hygiene,A
+u100,shop55,2.2,2.5,Bad Service and Bad Hygiene,B
+u59,shop13,1.4,3.7,Good Service,A
+u45,shop12,1.5,4.6,Good Service,A
+u30,shop24,3.8,4.2,Good Hygiene,A
+u54,shop55,1.4,1.1,Bad Service and Bad Hygiene,B
+u70,shop78,1.5,2.7,Bad Service and Bad Hygiene,B
+u46,shop113,2.2,3.2,Bad Service and Bad Hygiene,B
+u57,shop27,3.2,4.5,Good Service,B
+u12,shop70,2,4.7,Good Service,B
+u41,shop3,2.7,1.4,Bad Service and Bad Hygiene,A
+u44,shop25,2.6,2.9,Bad Service and Bad Hygiene,B
+u99,shop42,4.3,3.2,Good Hygiene,B
+u6,shop60,3.6,2.4,Good Hygiene,B
+u82,shop123,4,1.2,Good Hygiene,B
+u42,shop83,3.1,2.7,Bad Service and Bad Hygiene,A
+u13,shop122,4.6,5,Good Hygiene,B
+u33,shop125,3.8,4.1,Good Hygiene,B
+u42,shop38,1.3,3.1,Bad Service and Bad Hygiene,B
+u55,shop18,4.1,4.2,Good Hygiene,A
+u14,shop15,3.4,1.1,Bad Service and Bad Hygiene,A
+u28,shop39,3.7,4.7,Good Hygiene,B
+u87,shop102,4.7,2.4,Good Hygiene,B
+u70,shop140,3.6,4.3,Good Hygiene,B
+u85,shop24,2.9,3.9,Good Service,A
+u88,shop128,3.8,4.7,Good Hygiene,A
+u88,shop64,4.7,2.2,Good Hygiene,A
+u73,shop19,4.2,4,Good Hygiene,B
+u43,shop74,2.6,2.8,Bad Service and Bad Hygiene,B
+u60,shop2,1.3,3.8,Good Service,A
+u63,shop71,3.1,2.4,Bad Service and Bad Hygiene,B
+u58,shop74,2.9,3.2,Bad Service and Bad Hygiene,B
+u40,shop131,4.4,4.5,Good Hygiene,A
+u19,shop104,4.9,4.1,Good Hygiene,B
+u25,shop8,2.8,1.2,Bad Service and Bad Hygiene,A
+u98,shop54,4.8,2.2,Good Hygiene,A
+u87,shop144,2,3.7,Good Service,A
+u36,shop13,2.4,1.3,Bad Service and Bad Hygiene,B
+u51,shop44,3.5,3.9,Good Service,A
+u85,shop32,3.1,4.4,Good Service,B
+u31,shop88,4.1,4.7,Good Hygiene,B
+u4,shop149,1.5,4.4,Good Service,A
+u15,shop71,2.7,1.2,Bad Service and Bad Hygiene,A
+u19,shop105,2.4,3,Bad Service and Bad Hygiene,A
+u79,shop94,2.5,1.4,Bad Service and Bad Hygiene,B
+u76,shop109,2.9,3.7,Good Service,B
+u6,shop34,2.7,4.5,Good Service,A
+u15,shop39,1.1,4.2,Good Service,A
+u68,shop29,1.2,3.4,Bad Service and Bad Hygiene,B
+u30,shop127,3,3.7,Good Service,B
+u84,shop91,1.1,1.5,Bad Service and Bad Hygiene,A
+u59,shop71,4.7,2.4,Good Hygiene,B
+u17,shop134,2.9,5,Good Service,B
+u42,shop23,4.1,2.5,Good Hygiene,A
+u43,shop21,3,4.2,Good Service,A
+u7,shop64,2.6,1.2,Bad Service and Bad Hygiene,B
+u59,shop69,4.2,3.1,Good Hygiene,A
+u4,shop61,4.7,2.9,Good Hygiene,B
+u98,shop115,4.9,2.8,Good Hygiene,B
+u14,shop131,1.4,2.6,Bad Service and Bad Hygiene,B
+u38,shop34,4,1.2,Good Hygiene,B
+u17,shop106,1.5,3.5,Bad Service and Bad Hygiene,A
+u17,shop108,4.9,2.2,Good Hygiene,B
+u27,shop118,3.8,2.5,Good Hygiene,A
+u4,shop91,1.2,2.5,Bad Service and Bad Hygiene,B
+u69,shop129,2.4,4.7,Good Service,B
+u85,shop38,3.4,1.4,Bad Service and Bad Hygiene,B
+u29,shop131,4.1,4.9,Good Hygiene,A
+u65,shop140,1.3,1.5,Bad Service and Bad Hygiene,A
+u90,shop64,4,4.3,Good Hygiene,A
+u88,shop92,3.4,1.5,Bad Service and Bad Hygiene,B
+u50,shop106,3,2,Bad Service and Bad Hygiene,B
+u27,shop81,2,3.9,Good Service,B
+u35,shop7,2.7,1.5,Bad Service and Bad Hygiene,B
+u86,shop48,2.2,4.6,Good Service,B
+u20,shop80,4.1,5,Good Hygiene,B
+u87,shop95,1.4,3.5,Bad Service and Bad Hygiene,B
+u21,shop37,2.5,1.4,Bad Service and Bad Hygiene,B
+u81,shop114,3.8,5,Good Hygiene,A
+u61,shop46,1.2,3.9,Good Service,A
+u85,shop133,2,3.7,Good Service,A
+u82,shop37,3.8,1.2,Good Hygiene,A
+u64,shop93,4.4,5,Good Hygiene,B
+u35,shop19,1.3,3,Bad Service and Bad Hygiene,A
+u81,shop10,2.5,4.3,Good Service,A
+u92,shop104,3,5,Good Service,B
+u48,shop13,1.5,4.2,Good Service,A
+u57,shop14,3,4.6,Good Service,A
+u3,shop108,2.4,3.9,Good Service,A
+u27,shop147,2.8,2.2,Bad Service and Bad Hygiene,B
+u30,shop24,4.5,2.7,Good Hygiene,A
+u77,shop38,4.8,4.1,Good Hygiene,A
+u61,shop93,4.9,3.4,Good Hygiene,A
+u68,shop32,4.7,2,Good Hygiene,B
+u96,shop19,4.4,4.2,Good Hygiene,B
+u99,shop23,3.6,4.2,Good Hygiene,A
+u14,shop99,4.5,3.9,Good Hygiene,B
+u41,shop34,4.3,4.5,Good Hygiene,A
+u38,shop18,2.5,4.2,Good Service,A
+u85,shop23,2.6,1.3,Bad Service and Bad Hygiene,B
+u31,shop125,3.6,4.3,Good Hygiene,A
+u26,shop9,2.5,3.9,Good Service,A
+u87,shop48,2.5,3.7,Good Service,A
+u88,shop135,2.9,3.7,Good Service,A
+u14,shop58,1.2,4.1,Good Service,B
+u27,shop21,3.8,2.5,Good Hygiene,A
+u83,shop4,4.8,2,Good Hygiene,B
+u26,shop24,4,4.5,Good Hygiene,A
+u15,shop4,2.2,4.1,Good Service,A
+u54,shop70,2,2.2,Bad Service and Bad Hygiene,A
+u99,shop30,2.5,3.9,Good Service,B
+u33,shop102,2.6,2.6,Bad Service and Bad Hygiene,A
+u22,shop7,2.5,3.6,Good Service,A
+u37,shop30,3.9,4,Good Hygiene,B
+u32,shop84,4.2,2.8,Good Hygiene,B
+u25,shop6,4,2.7,Good Hygiene,A
+u93,shop134,1.2,3.2,Bad Service and Bad Hygiene,A
+u70,shop100,4.9,1.3,Good Hygiene,A
+u1,shop53,2.9,2.9,Bad Service and Bad Hygiene,B
+u98,shop113,2.7,3.6,Good Service,B
+u93,shop92,4.9,1.1,Good Hygiene,B
+u3,shop6,2.7,3.7,Good Service,A
+u6,shop133,1.2,2,Bad Service and Bad Hygiene,A
+u33,shop115,2.6,3.1,Bad Service and Bad Hygiene,A
+u1,shop41,1.1,2.8,Bad Service and Bad Hygiene,A
+u74,shop130,3.8,2.4,Good Hygiene,B
+u39,shop136,1.1,1.1,Bad Service and Bad Hygiene,B
+u33,shop123,3.5,4.4,Good Service,B
+u11,shop116,4.4,4.6,Good Hygiene,A
+u99,shop19,4.9,2.6,Good Hygiene,B
+u41,shop88,2.5,3.2,Bad Service and Bad Hygiene,B
+u95,shop17,3.5,3.2,Bad Service and Bad Hygiene,B
+u32,shop46,5,2.6,Good Hygiene,A
+u42,shop53,3.9,2.9,Good Hygiene,B
+u94,shop81,3.6,3.1,Good Hygiene,B
+u25,shop13,2.6,4.8,Good Service,B
+u45,shop50,4.2,4.9,Good Hygiene,A
+u78,shop131,1.4,4.1,Good Service,A
+u10,shop139,1.3,2.7,Bad Service and Bad Hygiene,B
+u36,shop121,2,2.4,Bad Service and Bad Hygiene,A
+u57,shop98,4.5,1.3,Good Hygiene,B
+u96,shop76,1.5,2.8,Bad Service and Bad Hygiene,A
+u68,shop148,3.4,2,Bad Service and Bad Hygiene,A
+u68,shop106,2.2,3,Bad Service and Bad Hygiene,B
+u85,shop110,2.7,3.2,Bad Service and Bad Hygiene,B
+u86,shop19,5,2.9,Good Hygiene,A
+u11,shop98,2.5,3.7,Good Service,B
+u93,shop87,1.4,2.9,Bad Service and Bad Hygiene,A
+u22,shop46,4.5,3.4,Good Hygiene,B
+u21,shop31,4.1,2.5,Good Hygiene,A
+u12,shop84,3.1,4.1,Good Service,B
+u63,shop110,3.9,1.1,Good Hygiene,A
+u27,shop55,4.1,2.9,Good Hygiene,B
+u82,shop27,4.3,2,Good Hygiene,A
+u77,shop2,2.5,1.5,Bad Service and Bad Hygiene,A
+u53,shop142,2.2,1.3,Bad Service and Bad Hygiene,B
+u82,shop132,4.5,3.6,Good Hygiene,B
+u12,shop105,4,3.5,Good Hygiene,B
+u38,shop140,2.2,1.2,Bad Service and Bad Hygiene,B
+u60,shop80,4.2,3.5,Good Hygiene,A
+u34,shop101,3.1,3.4,Bad Service and Bad Hygiene,A
+u48,shop130,4.3,2.6,Good Hygiene,B
+u74,shop123,4.6,4.7,Good Hygiene,A
+u32,shop31,4.7,3,Good Hygiene,A
+u42,shop4,4.3,3.2,Good Hygiene,A
+u29,shop126,2.8,2.8,Bad Service and Bad Hygiene,B
+u60,shop19,4,5,Good Hygiene,B
+u15,shop92,4.2,2.4,Good Hygiene,A
+u59,shop63,3.2,1.4,Bad Service and Bad Hygiene,B
+u15,shop42,3.1,2.8,Bad Service and Bad Hygiene,B
+u1,shop21,2.4,2.4,Bad Service and Bad Hygiene,A
+u30,shop47,2.7,3.7,Good Service,B
+u83,shop57,1.3,4.4,Good Service,B
+u86,shop57,3.9,3.5,Good Hygiene,B
+u47,shop121,5,3.6,Good Hygiene,B
+u6,shop83,4,4.9,Good Hygiene,B
+u14,shop6,1.3,3.2,Bad Service and Bad Hygiene,B
+u91,shop95,4.6,4.2,Good Hygiene,B
+u9,shop108,3.5,3,Bad Service and Bad Hygiene,B
+u87,shop108,4.5,4.4,Good Hygiene,A
+u16,shop24,1.2,1.5,Bad Service and Bad Hygiene,B
+u48,shop33,4.1,2.2,Good Hygiene,B
+u49,shop71,2.8,3.5,Bad Service and Bad Hygiene,A
+u52,shop140,1.3,2.9,Bad Service and Bad Hygiene,A
+u11,shop129,1.2,2.8,Bad Service and Bad Hygiene,B
+u32,shop145,4.2,4.9,Good Hygiene,B
+u84,shop136,1.5,4.6,Good Service,B
+u49,shop18,1.2,3.8,Good Service,A
+u17,shop132,1.3,4.1,Good Service,B
+u92,shop29,2.4,3.7,Good Service,A
+u37,shop45,3.5,4,Good Service,B
+u66,shop131,1.1,2.5,Bad Service and Bad Hygiene,A
+u38,shop112,1.2,5,Good Service,A
+u37,shop117,2.9,2.9,Bad Service and Bad Hygiene,B
+u52,shop24,3.8,4.2,Good Hygiene,B
+u63,shop60,4.7,4.2,Good Hygiene,B
+u81,shop51,4.2,4,Good Hygiene,A
+u32,shop75,2.4,4.6,Good Service,A
+u61,shop51,1.3,4.9,Good Service,B
+u23,shop62,3,4.9,Good Service,B
+u45,shop100,4.8,3.7,Good Hygiene,A
+u30,shop113,2.4,3.2,Bad Service and Bad Hygiene,A
+u76,shop26,1.5,4.5,Good Service,B
+u32,shop132,4.3,3.4,Good Hygiene,A
+u50,shop141,3.4,2.6,Bad Service and Bad Hygiene,B
+u14,shop119,3.4,4,Good Service,B
+u67,shop72,1.5,2.5,Bad Service and Bad Hygiene,A
+u13,shop76,4.9,2.2,Good Hygiene,A
+u41,shop20,4.2,3.7,Good Hygiene,A
+u99,shop18,2.6,2.7,Bad Service and Bad Hygiene,B
+u87,shop127,4.6,2.5,Good Hygiene,A
+u91,shop93,1.2,4.2,Good Service,B
+u22,shop129,2.6,3.6,Good Service,B
+u94,shop26,4.8,3.9,Good Hygiene,B
+u42,shop117,1.3,4.5,Good Service,B
+u46,shop136,4.4,3.5,Good Hygiene,B
+u33,shop17,3.9,3.9,Good Hygiene,B
+u9,shop47,2.6,2.6,Bad Service and Bad Hygiene,A
+u75,shop75,4.1,2.4,Good Hygiene,B
+u44,shop130,3.7,2.5,Good Hygiene,B
+u42,shop135,2,2.9,Bad Service and Bad Hygiene,B
+u20,shop62,4.6,3.5,Good Hygiene,B
+u23,shop18,4.1,3.8,Good Hygiene,B
+u58,shop84,3.9,3.4,Good Hygiene,A
+u13,shop25,4.2,4.4,Good Hygiene,B
+u84,shop95,4.5,3.2,Good Hygiene,A
+u51,shop119,1.2,3.2,Bad Service and Bad Hygiene,B
+u21,shop11,3.1,1.1,Bad Service and Bad Hygiene,B
+u61,shop100,2.4,1.3,Bad Service and Bad Hygiene,A
+u36,shop92,4.8,2.5,Good Hygiene,A
+u45,shop89,3,1.1,Bad Service and Bad Hygiene,B
+u27,shop149,2.7,2.4,Bad Service and Bad Hygiene,B
+u31,shop128,2.9,2.4,Bad Service and Bad Hygiene,A
+u74,shop141,2,4.7,Good Service,B
+u17,shop111,4,2.9,Good Hygiene,B
+u40,shop6,4.8,4.5,Good Hygiene,B
+u36,shop96,4.7,5,Good Hygiene,B
+u16,shop51,3,4.5,Good Service,A
+u85,shop24,4.5,4.2,Good Hygiene,A
+u27,shop17,4.7,1.3,Good Hygiene,A
+u78,shop103,4.6,4,Good Hygiene,B
+u89,shop80,4.9,3.9,Good Hygiene,A
+u29,shop42,2.6,4.6,Good Service,B
+u20,shop41,1.5,1.1,Bad Service and Bad Hygiene,A
+u10,shop131,2.4,1.3,Bad Service and Bad Hygiene,A
+u14,shop10,4.3,4.7,Good Hygiene,B
+u18,shop39,2.4,3.5,Bad Service and Bad Hygiene,B
+u35,shop100,3.6,2.5,Good Hygiene,B
+u95,shop86,3.5,4.9,Good Service,B
+u4,shop109,4.2,4.4,Good Hygiene,B
+u69,shop84,2.5,2.9,Bad Service and Bad Hygiene,B
+u91,shop98,4.7,3.9,Good Hygiene,B
+u34,shop19,3.7,3.7,Good Hygiene,A
+u9,shop73,1.3,4.9,Good Service,A
+u63,shop36,4.5,2.8,Good Hygiene,A
+u19,shop134,3.1,4.5,Good Service,B
+u13,shop18,4.8,1.3,Good Hygiene,A
+u88,shop83,3.8,4.1,Good Hygiene,B
+u43,shop112,5,3.5,Good Hygiene,A
+u20,shop70,3.2,4.3,Good Service,B
+u4,shop14,4.4,4.8,Good Hygiene,B
+u96,shop107,3.2,3.7,Good Service,A
+u23,shop101,3.5,1.2,Bad Service and Bad Hygiene,A
+u66,shop45,4.5,1.2,Good Hygiene,A
+u5,shop95,3.2,4,Good Service,A
+u20,shop39,3.8,4.6,Good Hygiene,B
+u22,shop90,3.1,3.5,Bad Service and Bad Hygiene,B
+u47,shop145,3.6,3,Good Hygiene,B
+u52,shop77,1.3,1.5,Bad Service and Bad Hygiene,A
+u69,shop111,2.6,3.4,Bad Service and Bad Hygiene,B
+u37,shop61,1.4,2.2,Bad Service and Bad Hygiene,A
+u83,shop139,3.2,3,Bad Service and Bad Hygiene,A
+u87,shop65,3.1,1.4,Bad Service and Bad Hygiene,A
+u91,shop129,3.4,1.4,Bad Service and Bad Hygiene,A
+u45,shop21,3.7,4.7,Good Hygiene,B
+u78,shop45,3.4,3.7,Good Service,B
+u56,shop31,3.8,3.8,Good Hygiene,B
+u38,shop141,2.6,4.3,Good Service,A
+u64,shop20,1.4,3.7,Good Service,B
+u54,shop134,4.4,4.1,Good Hygiene,B
+u49,shop54,2.8,2.6,Bad Service and Bad Hygiene,A
+u65,shop15,1.1,2.2,Bad Service and Bad Hygiene,A
+u30,shop28,2.2,3.1,Bad Service and Bad Hygiene,A
+u34,shop109,4.3,1.3,Good Hygiene,B
+u86,shop115,3.5,3.6,Good Service,A
+u98,shop14,3.7,4.1,Good Hygiene,B
+u22,shop46,4.7,4.8,Good Hygiene,A
+u33,shop103,3.8,2.8,Good Hygiene,B
+u76,shop65,2.7,4.4,Good Service,A
+u16,shop76,2.5,4,Good Service,A
+u11,shop28,1.5,5,Good Service,A
+u57,shop132,3.8,3.6,Good Hygiene,A
+u49,shop97,3.1,3.1,Bad Service and Bad Hygiene,B
+u97,shop149,3.9,3,Good Hygiene,B
+u3,shop19,1.2,2.4,Bad Service and Bad Hygiene,B
+u57,shop60,3.9,2.9,Good Hygiene,B
+u86,shop99,2,3.7,Good Service,B
+u42,shop54,2.2,2.8,Bad Service and Bad Hygiene,B
+u53,shop124,2.2,3.4,Bad Service and Bad Hygiene,A
+u96,shop72,3.6,2,Good Hygiene,A
+u88,shop7,1.2,3.6,Good Service,A
+u68,shop24,2.6,4.3,Good Service,B
+u67,shop115,4.8,4.9,Good Hygiene,A
+u45,shop9,5,3.7,Good Hygiene,B
+u47,shop124,3.7,5,Good Hygiene,A
+u26,shop110,2.8,3.2,Bad Service and Bad Hygiene,A
+u63,shop10,2.5,4.1,Good Service,A
+u26,shop110,4.1,3.5,Good Hygiene,A
+u3,shop145,3.1,2.9,Bad Service and Bad Hygiene,B
+u59,shop26,4.3,2.2,Good Hygiene,A
+u74,shop39,2.4,4.8,Good Service,B
+u61,shop3,3.7,3.4,Good Hygiene,A
+u52,shop23,2.8,4.3,Good Service,B
+u65,shop26,4.2,4,Good Hygiene,B
+u18,shop144,3.9,4.4,Good Hygiene,B
+u73,shop140,1.4,3.6,Good Service,B
+u2,shop90,5,2,Good Hygiene,B
+u31,shop30,1.1,4.4,Good Service,B
+u93,shop52,3,4.2,Good Service,A
+u38,shop60,4.2,4.7,Good Hygiene,A
+u29,shop133,1.4,4.8,Good Service,A
+u99,shop90,3.7,4.2,Good Hygiene,A
+u2,shop30,4.1,3.7,Good Hygiene,B
+u12,shop126,3,3.5,Bad Service and Bad Hygiene,B
+u25,shop56,4.6,2.5,Good Hygiene,B
+u88,shop142,2,3.1,Bad Service and Bad Hygiene,A
+u45,shop96,2,3.2,Bad Service and Bad Hygiene,A
+u9,shop19,2,2.7,Bad Service and Bad Hygiene,A
+u79,shop53,2,1.1,Bad Service and Bad Hygiene,B
+u13,shop148,3.9,1.2,Good Hygiene,A
+u13,shop103,1.1,2.4,Bad Service and Bad Hygiene,A
+u30,shop61,4.4,1.2,Good Hygiene,A
+u79,shop99,4.7,4.7,Good Hygiene,B
+u38,shop81,3.6,1.3,Good Hygiene,B
+u93,shop96,4.8,3.5,Good Hygiene,A
+u25,shop21,4.7,2.8,Good Hygiene,B
+u33,shop137,3.8,1.1,Good Hygiene,A
+u96,shop118,2.2,1.2,Bad Service and Bad Hygiene,B
+u21,shop103,4.2,2.2,Good Hygiene,A
+u11,shop57,1.1,3.9,Good Service,A
+u23,shop5,4.2,2.2,Good Hygiene,A
+u38,shop32,4,2.8,Good Hygiene,A
+u80,shop103,3.1,2.2,Bad Service and Bad Hygiene,B
+u3,shop88,4.5,3.9,Good Hygiene,A
+u39,shop138,4.7,1.1,Good Hygiene,B
+u63,shop42,4.1,2.9,Good Hygiene,B
+u43,shop130,3.5,2,Bad Service and Bad Hygiene,B
+u30,shop95,3.9,2,Good Hygiene,B
+u17,shop150,4.8,2,Good Hygiene,A
+u7,shop112,2.2,4.9,Good Service,A
+u83,shop128,2.8,3.2,Bad Service and Bad Hygiene,A
+u1,shop28,4.6,4.6,Good Hygiene,A
+u44,shop130,3.4,1.3,Bad Service and Bad Hygiene,A
+u78,shop73,1.5,5,Good Service,B
+u50,shop116,3.2,1.4,Bad Service and Bad Hygiene,A
+u46,shop113,1.3,4.9,Good Service,B
+u78,shop94,2.5,4.6,Good Service,B
+u21,shop138,3.8,1.3,Good Hygiene,A
+u86,shop148,2.5,4.6,Good Service,B
+u67,shop106,2,3.1,Bad Service and Bad Hygiene,B
+u97,shop142,2.6,3.8,Good Service,B
+u75,shop8,3.6,1.3,Good Hygiene,B
+u76,shop106,3.1,4.5,Good Service,B
+u47,shop7,1.1,4.9,Good Service,A
+u41,shop146,2,2.8,Bad Service and Bad Hygiene,A
+u2,shop22,1.1,4.7,Good Service,A
+u67,shop18,1.4,4.6,Good Service,A
+u39,shop50,1.4,3.9,Good Service,A
+u95,shop17,4.5,2.9,Good Hygiene,A
+u35,shop119,2.7,4.3,Good Service,A
+u49,shop141,1.3,3.5,Bad Service and Bad Hygiene,B
+u85,shop60,3.7,3.8,Good Hygiene,B
+u18,shop132,2.8,1.5,Bad Service and Bad Hygiene,A
+u68,shop7,5,3.1,Good Hygiene,B
+u86,shop59,4.9,3.4,Good Hygiene,B
+u9,shop90,4.4,4.9,Good Hygiene,B
+u83,shop93,3.1,5,Good Service,A
+u5,shop43,1.5,3.9,Good Service,B
+u37,shop55,2.4,4.7,Good Service,A
+u48,shop87,2,3.6,Good Service,A
+u42,shop33,5,4.2,Good Hygiene,A
+u27,shop17,4.9,3.1,Good Hygiene,B
+u13,shop134,3.2,3.2,Bad Service and Bad Hygiene,A
+u22,shop21,2.4,4.7,Good Service,A
+u31,shop82,3.1,2.5,Bad Service and Bad Hygiene,B
+u38,shop77,4.2,4.8,Good Hygiene,B
+u44,shop140,4.7,3,Good Hygiene,A
+u41,shop49,3.6,3.8,Good Hygiene,A
+u26,shop147,1.4,1.4,Bad Service and Bad Hygiene,A
+u42,shop99,2.6,4.9,Good Service,A
+u95,shop11,2.8,2.4,Bad Service and Bad Hygiene,B
+u11,shop87,2,2.6,Bad Service and Bad Hygiene,A
+u95,shop121,2.2,4.5,Good Service,A
+u58,shop63,4.9,1.5,Good Hygiene,B
+u48,shop120,3.7,2.5,Good Hygiene,A
+u96,shop98,5,2.8,Good Hygiene,B
+u52,shop28,2.4,2.2,Bad Service and Bad Hygiene,B
+u97,shop74,4.8,4.4,Good Hygiene,A
+u94,shop65,3.1,1.5,Bad Service and Bad Hygiene,B
+u43,shop56,3.6,3.9,Good Hygiene,A
+u3,shop85,1.2,5,Good Service,A
+u82,shop59,2.9,2.6,Bad Service and Bad Hygiene,A
+u70,shop26,1.3,4.2,Good Service,B
+u5,shop92,1.2,3.5,Bad Service and Bad Hygiene,B
+u63,shop75,2.7,4,Good Service,B
+u47,shop109,4.1,3.5,Good Hygiene,A
+u67,shop134,2.4,3.4,Bad Service and Bad Hygiene,A
+u1,shop67,1.1,4.4,Good Service,B
+u60,shop53,3.1,1.3,Bad Service and Bad Hygiene,B
+u62,shop54,1.4,2.8,Bad Service and Bad Hygiene,A
+u89,shop23,4.7,3.5,Good Hygiene,B
+u41,shop28,2.4,3.4,Bad Service and Bad Hygiene,A
+u46,shop29,2.2,3.8,Good Service,A
+u13,shop12,4.1,2.4,Good Hygiene,B
+u80,shop4,3.5,2.9,Bad Service and Bad Hygiene,A
+u97,shop71,3.9,3.5,Good Hygiene,B
+u39,shop56,4.2,3.9,Good Hygiene,A
+u1,shop96,1.1,1.4,Bad Service and Bad Hygiene,A
+u23,shop59,4.3,2.4,Good Hygiene,A
+u53,shop129,2.5,4.8,Good Service,A
+u87,shop114,4.1,3.1,Good Hygiene,B
+u76,shop26,2.2,3,Bad Service and Bad Hygiene,A
+u79,shop20,2.8,2,Bad Service and Bad Hygiene,B
+u69,shop14,3.5,1.5,Bad Service and Bad Hygiene,A
+u30,shop36,4,1.2,Good Hygiene,B
+u98,shop76,4.5,4.3,Good Hygiene,A
+u90,shop147,3.9,1.3,Good Hygiene,A
+u40,shop104,3.1,2.2,Bad Service and Bad Hygiene,B
+u55,shop133,4.5,2,Good Hygiene,A
+u37,shop136,1.1,4.3,Good Service,B
+u66,shop54,5,1.1,Good Hygiene,B
+u59,shop107,4.1,3,Good Hygiene,B
+u98,shop16,2.6,3.6,Good Service,B
+u65,shop61,4.3,1.4,Good Hygiene,A
+u92,shop3,4.5,2.5,Good Hygiene,A
+u32,shop108,4.3,3.9,Good Hygiene,B
+u13,shop134,2.7,3.5,Bad Service and Bad Hygiene,B
+u7,shop30,4,3.5,Good Hygiene,A
+u32,shop45,3.4,4.4,Good Service,B
+u68,shop21,4.5,1.2,Good Hygiene,B
+u8,shop83,4.6,2.4,Good Hygiene,B
+u35,shop64,3.9,4,Good Hygiene,A
+u87,shop92,4.2,2.4,Good Hygiene,B
+u87,shop24,4.1,4.6,Good Hygiene,B
+u36,shop54,4.6,3.4,Good Hygiene,B
+u81,shop25,2.7,3.4,Bad Service and Bad Hygiene,A
+u91,shop66,3.4,3.9,Good Service,B
+u39,shop149,5,2.5,Good Hygiene,A
+u57,shop7,1.2,4.6,Good Service,B
+u75,shop1,3.6,2,Good Hygiene,A
+u41,shop36,4.5,2.7,Good Hygiene,A
+u19,shop17,1.2,1.5,Bad Service and Bad Hygiene,B
+u52,shop90,2.4,2.2,Bad Service and Bad Hygiene,B
+u13,shop71,1.3,4.8,Good Service,A
+u91,shop28,1.1,4.9,Good Service,A
+u14,shop125,4.6,4.9,Good Hygiene,A
+u94,shop70,4.1,1.2,Good Hygiene,A
+u96,shop47,3.2,5,Good Service,A
+u57,shop5,2.2,2.9,Bad Service and Bad Hygiene,B
+u28,shop17,4.3,3.6,Good Hygiene,B
+u50,shop142,3.6,3.6,Good Hygiene,B
+u100,shop137,1.1,3.4,Bad Service and Bad Hygiene,A
+u50,shop35,3,2.7,Bad Service and Bad Hygiene,B
+u46,shop145,2.4,4.7,Good Service,A
+u4,shop144,3.5,4.9,Good Service,A
+u74,shop36,3.2,3,Bad Service and Bad Hygiene,A
+u48,shop57,4.4,4.7,Good Hygiene,A
+u19,shop49,4,4.8,Good Hygiene,A
+u23,shop63,5,3.9,Good Hygiene,A
+u22,shop74,1.2,2.8,Bad Service and Bad Hygiene,A
+u83,shop115,1.1,3.4,Bad Service and Bad Hygiene,B
+u93,shop150,3.5,4.5,Good Service,A
+u58,shop140,4,5,Good Hygiene,A
+u30,shop92,2.4,4.3,Good Service,B
+u3,shop39,3.6,3.4,Good Hygiene,A
+u79,shop120,4.8,3.2,Good Hygiene,A
+u97,shop100,1.5,3.4,Bad Service and Bad Hygiene,B
+u72,shop42,3.4,5,Good Service,A
+u79,shop94,1.1,2.2,Bad Service and Bad Hygiene,B
+u3,shop51,2.9,3.8,Good Service,B
+u47,shop46,2,4.7,Good Service,B
+u91,shop79,4.2,4.8,Good Hygiene,B
+u79,shop26,4.7,3.4,Good Hygiene,A
+u47,shop36,3.6,3.2,Good Hygiene,A
+u20,shop47,4.4,1.2,Good Hygiene,A
+u84,shop74,3.4,3.8,Good Service,A
+u6,shop29,2,4.5,Good Service,B
+u80,shop133,3.9,4.2,Good Hygiene,A
+u46,shop36,3.4,2.9,Bad Service and Bad Hygiene,A
+u1,shop66,4.4,3.7,Good Hygiene,A
+u98,shop71,1.5,3.7,Good Service,A
+u50,shop70,1.1,2.5,Bad Service and Bad Hygiene,B
+u89,shop34,1.4,4.6,Good Service,A
+u61,shop71,2.8,1.4,Bad Service and Bad Hygiene,A
+u89,shop99,4.4,4.1,Good Hygiene,B
+u100,shop118,2.6,4,Good Service,B
+u37,shop36,2.5,3.7,Good Service,B
+u43,shop150,1.1,3,Bad Service and Bad Hygiene,A
+u76,shop79,4.6,3.7,Good Hygiene,A
+u33,shop85,4.5,2.2,Good Hygiene,A
+u55,shop19,3.9,4.3,Good Hygiene,A
+u42,shop20,5,3.8,Good Hygiene,B
+u64,shop6,4.9,2,Good Hygiene,A
+u33,shop74,1.5,1.3,Bad Service and Bad Hygiene,B
+u46,shop95,5,2.8,Good Hygiene,B
+u13,shop96,2,2.4,Bad Service and Bad Hygiene,A
+u12,shop62,2.2,5,Good Service,A
+u17,shop5,3.8,3.2,Good Hygiene,B
+u45,shop80,3.2,4.5,Good Service,A
+u96,shop148,4.2,4.2,Good Hygiene,B
+u92,shop72,4.1,4.9,Good Hygiene,B
+u29,shop75,2.2,4.6,Good Service,B
+u59,shop88,1.4,3.1,Bad Service and Bad Hygiene,B
+u51,shop55,3.2,2.2,Bad Service and Bad Hygiene,A
+u34,shop96,5,4.2,Good Hygiene,B
+u13,shop22,2,1.5,Bad Service and Bad Hygiene,A
+u56,shop81,1.1,2.7,Bad Service and Bad Hygiene,A
+u26,shop137,2.4,4,Good Service,B
+u10,shop91,2,3.6,Good Service,B
+u38,shop43,4.4,3,Good Hygiene,B
+u40,shop45,5,2.7,Good Hygiene,A
+u27,shop124,1.3,2.2,Bad Service and Bad Hygiene,A
+u67,shop37,4.5,4.5,Good Hygiene,B
+u12,shop37,4.9,4.6,Good Hygiene,B
+u40,shop65,3.6,3.4,Good Hygiene,B
+u63,shop136,3.7,4.5,Good Hygiene,A
+u47,shop71,1.2,2.5,Bad Service and Bad Hygiene,A
+u2,shop77,1.5,4.5,Good Service,B
+u94,shop101,1.3,1.2,Bad Service and Bad Hygiene,B
+u70,shop136,4.5,5,Good Hygiene,A
+u19,shop60,3,3.5,Bad Service and Bad Hygiene,A
+u40,shop5,2.4,1.1,Bad Service and Bad Hygiene,B
+u94,shop98,1.2,4.9,Good Service,B
+u93,shop89,4.5,4.1,Good Hygiene,B
+u47,shop13,3,2,Bad Service and Bad Hygiene,A
+u75,shop144,1.3,3.5,Bad Service and Bad Hygiene,B
+u55,shop6,3,1.5,Bad Service and Bad Hygiene,A
+u39,shop128,3.8,3.9,Good Hygiene,A
+u72,shop17,3,4.4,Good Service,B
+u96,shop95,2.6,1.2,Bad Service and Bad Hygiene,A
+u83,shop118,4.7,4,Good Hygiene,A
+u78,shop36,3.9,4.3,Good Hygiene,A
+u36,shop86,3.8,1.4,Good Hygiene,B
+u17,shop72,4.7,4.3,Good Hygiene,B
+u93,shop110,2.9,3.6,Good Service,B
+u25,shop14,3.5,1.3,Bad Service and Bad Hygiene,A
+u50,shop126,3.4,2.9,Bad Service and Bad Hygiene,B
+u96,shop142,2.6,2.9,Bad Service and Bad Hygiene,A
+u100,shop10,2,3.5,Bad Service and Bad Hygiene,A
+u3,shop141,2.4,4.7,Good Service,A
+u10,shop58,1.4,2.4,Bad Service and Bad Hygiene,A
+u51,shop11,4.8,4.6,Good Hygiene,B
+u25,shop78,2.2,5,Good Service,A
+u2,shop140,2.5,1.4,Bad Service and Bad Hygiene,A
+u49,shop29,3.7,2.4,Good Hygiene,A
+u84,shop76,3.9,2.8,Good Hygiene,A
+u61,shop9,2.8,4.4,Good Service,B
+u2,shop125,2.6,4.5,Good Service,B
+u92,shop11,2.5,2.9,Bad Service and Bad Hygiene,B
+u39,shop21,4,3,Good Hygiene,B
+u65,shop123,3.7,4.3,Good Hygiene,B
+u68,shop35,1.4,2.5,Bad Service and Bad Hygiene,A
+u99,shop146,5,2.4,Good Hygiene,B
+u48,shop28,1.3,4.8,Good Service,A
+u71,shop127,1.3,1.4,Bad Service and Bad Hygiene,A
+u98,shop101,5,2.7,Good Hygiene,B
+u29,shop9,4.2,1.2,Good Hygiene,B
+u44,shop10,3.5,3.9,Good Service,B
+u94,shop63,1.1,3.8,Good Service,A
+u64,shop59,4.4,3.7,Good Hygiene,A
+u91,shop147,4.8,4.9,Good Hygiene,B
+u80,shop109,3.6,2.5,Good Hygiene,A
+u34,shop114,4.8,2.8,Good Hygiene,A
+u35,shop47,3.4,1.5,Bad Service and Bad Hygiene,A
+u29,shop80,3.9,2.7,Good Hygiene,B
+u64,shop100,2.8,4.2,Good Service,A
+u11,shop67,1.5,2.6,Bad Service and Bad Hygiene,B
+u3,shop21,3.2,3.1,Bad Service and Bad Hygiene,A
+u63,shop125,4.4,2.9,Good Hygiene,A
+u40,shop29,4.1,5,Good Hygiene,B
+u42,shop129,3.2,3.7,Good Service,A
+u56,shop83,4,1.2,Good Hygiene,A
+u5,shop15,1.3,5,Good Service,B
+u95,shop85,3.8,2.9,Good Hygiene,B
+u45,shop56,3.4,1.2,Bad Service and Bad Hygiene,B
+u35,shop21,4.2,4.3,Good Hygiene,B
+u3,shop82,1.4,3.1,Bad Service and Bad Hygiene,A
+u43,shop133,4.5,2.4,Good Hygiene,B
+u63,shop113,3,2.2,Bad Service and Bad Hygiene,A
+u23,shop42,1.1,4.2,Good Service,B
+u46,shop28,2.9,1.5,Bad Service and Bad Hygiene,B
+u100,shop133,4.2,3.7,Good Hygiene,A
+u62,shop50,4.7,3.7,Good Hygiene,A
+u3,shop127,4.6,3.4,Good Hygiene,A
+u55,shop90,2.6,4.9,Good Service,A
+u54,shop39,3.7,1.1,Good Hygiene,B
+u86,shop28,3,2.5,Bad Service and Bad Hygiene,B
+u38,shop54,1.1,4,Good Service,B
+u22,shop116,3.4,3.4,Bad Service and Bad Hygiene,B
+u69,shop49,1.3,2.6,Bad Service and Bad Hygiene,A
+u61,shop23,3.7,4.5,Good Hygiene,A
+u72,shop76,3.6,2.2,Good Hygiene,A
+u93,shop133,2.2,2.8,Bad Service and Bad Hygiene,A
+u85,shop19,1.1,2.9,Bad Service and Bad Hygiene,A
+u27,shop86,4.7,1.1,Good Hygiene,A
+u94,shop19,2.8,5,Good Service,B
+u20,shop141,3.8,2.6,Good Hygiene,B
+u50,shop132,4.3,4.4,Good Hygiene,A
+u37,shop134,3.5,4.6,Good Service,A
+u67,shop1,4.7,2.5,Good Hygiene,B
+u85,shop14,4.6,2.4,Good Hygiene,B
+u87,shop29,4.2,3.5,Good Hygiene,B
+u28,shop107,2.2,3.9,Good Service,B
+u90,shop24,3.8,4.3,Good Hygiene,A
+u80,shop18,3.9,3,Good Hygiene,B
+u37,shop107,4.1,4.7,Good Hygiene,A
+u5,shop134,4.2,3.9,Good Hygiene,B
+u85,shop17,2.9,2.5,Bad Service and Bad Hygiene,B
+u5,shop47,4.7,1.2,Good Hygiene,B
+u54,shop21,1.2,3.6,Good Service,A
+u88,shop120,3.4,3.1,Bad Service and Bad Hygiene,A
+u10,shop127,4.7,3.4,Good Hygiene,B
+u51,shop57,3.4,3.8,Good Service,A
+u79,shop54,2.4,2,Bad Service and Bad Hygiene,A
+u68,shop105,3.2,4.3,Good Service,A
+u88,shop45,3.6,4.9,Good Hygiene,A
+u53,shop135,1.3,4.1,Good Service,A
+u36,shop134,2.6,4.1,Good Service,B
+u54,shop43,2.9,1.5,Bad Service and Bad Hygiene,A
+u16,shop98,4.9,2.5,Good Hygiene,A
+u60,shop1,3.4,4.1,Good Service,A
+u36,shop129,4,4.7,Good Hygiene,A
+u70,shop87,3.9,1.2,Good Hygiene,A
+u40,shop118,2.8,2.5,Bad Service and Bad Hygiene,A
+u52,shop100,2,1.1,Bad Service and Bad Hygiene,B
+u74,shop119,2.7,4.2,Good Service,A
+u27,shop39,4.1,3.6,Good Hygiene,A
+u8,shop5,4.7,4,Good Hygiene,B
+u89,shop20,2.8,3,Bad Service and Bad Hygiene,B
+u11,shop27,2.6,3,Bad Service and Bad Hygiene,B
+u88,shop7,2.2,2.9,Bad Service and Bad Hygiene,A
+u50,shop105,4.2,2,Good Hygiene,A
+u3,shop94,2.6,3.9,Good Service,B
+u42,shop118,5,3.6,Good Hygiene,B
+u61,shop16,4.2,3,Good Hygiene,A
+u83,shop111,3,2,Bad Service and Bad Hygiene,A
+u85,shop26,4.1,4.9,Good Hygiene,B
+u35,shop102,2.6,5,Good Service,A
+u56,shop36,3.2,1.3,Bad Service and Bad Hygiene,A
+u81,shop84,3.6,4.6,Good Hygiene,B
+u26,shop102,4,1.5,Good Hygiene,B
+u99,shop144,1.2,4.9,Good Service,B
+u85,shop129,4,2.4,Good Hygiene,B
+u71,shop89,1.1,2.9,Bad Service and Bad Hygiene,A
+u53,shop93,2.8,2.2,Bad Service and Bad Hygiene,B
+u89,shop93,2.6,3.4,Bad Service and Bad Hygiene,B
+u67,shop109,2.8,3.2,Bad Service and Bad Hygiene,A
+u99,shop72,3.5,4,Good Service,A
+u85,shop148,4.3,2.5,Good Hygiene,A
+u78,shop32,4,2.6,Good Hygiene,A
+u23,shop60,2.9,4.4,Good Service,B
+u25,shop29,3.2,2.4,Bad Service and Bad Hygiene,A
+u43,shop105,2.2,2.7,Bad Service and Bad Hygiene,B
+u16,shop149,3.2,2.7,Bad Service and Bad Hygiene,A
+u57,shop55,4.7,2.7,Good Hygiene,A
+u59,shop44,1.4,2.9,Bad Service and Bad Hygiene,B
+u63,shop71,1.5,4.5,Good Service,A
+u98,shop143,2.2,4.7,Good Service,A
+u14,shop20,1.1,3.2,Bad Service and Bad Hygiene,A
+u75,shop81,2.6,1.1,Bad Service and Bad Hygiene,B
+u5,shop46,3.6,4.2,Good Hygiene,A
+u28,shop61,5,3.7,Good Hygiene,A
+u13,shop85,2.8,4.1,Good Service,B
+u42,shop101,1.5,3.7,Good Service,A
+u94,shop76,4.4,4.5,Good Hygiene,B
+u16,shop33,4.6,1.1,Good Hygiene,A
+u13,shop42,5,3.2,Good Hygiene,A
+u66,shop148,4.8,2.9,Good Hygiene,B
+u67,shop114,2.8,2.2,Bad Service and Bad Hygiene,B
+u82,shop45,4.8,4.5,Good Hygiene,A
+u2,shop119,5,1.3,Good Hygiene,A
+u93,shop145,3.2,4.3,Good Service,A
+u23,shop39,1.4,3.6,Good Service,B
+u39,shop14,1.1,2.6,Bad Service and Bad Hygiene,B
+u7,shop20,5,3.7,Good Hygiene,A
+u19,shop131,4.5,1.4,Good Hygiene,B
+u52,shop35,3.5,3.5,Bad Service and Bad Hygiene,A
+u28,shop27,4.2,2.6,Good Hygiene,A
+u26,shop52,4.7,2.5,Good Hygiene,A
+u40,shop103,3.9,3,Good Hygiene,A
+u28,shop60,4,1.1,Good Hygiene,B
+u3,shop137,4.5,4,Good Hygiene,B
+u58,shop140,4.5,3.7,Good Hygiene,B
+u88,shop9,2.9,2.2,Bad Service and Bad Hygiene,A
+u89,shop93,1.2,3.7,Good Service,B
+u95,shop109,4.3,3,Good Hygiene,A
+u47,shop4,5,3.8,Good Hygiene,A
+u98,shop142,2.7,4.3,Good Service,B
+u44,shop91,4.4,4.9,Good Hygiene,A
+u97,shop51,3.2,4,Good Service,A
+u40,shop36,1.5,3.8,Good Service,A
+u69,shop121,4.5,3.4,Good Hygiene,A
+u16,shop29,2,2.2,Bad Service and Bad Hygiene,A
+u7,shop80,5,4.7,Good Hygiene,B
+u21,shop15,1.3,1.4,Bad Service and Bad Hygiene,B
+u74,shop107,4,4.2,Good Hygiene,B
+u51,shop62,2.8,2.9,Bad Service and Bad Hygiene,B
+u38,shop114,3.1,1.4,Bad Service and Bad Hygiene,B
+u93,shop82,5,2.5,Good Hygiene,B
+u10,shop74,5,4.3,Good Hygiene,B
+u7,shop24,4.2,2.2,Good Hygiene,A
+u22,shop62,1.2,5,Good Service,A
+u95,shop137,2,2.4,Bad Service and Bad Hygiene,B
+u55,shop15,4.4,2,Good Hygiene,B
+u28,shop77,1.4,3.2,Bad Service and Bad Hygiene,A
+u81,shop27,1.1,4.8,Good Service,B
+u56,shop93,4,4.7,Good Hygiene,A
+u7,shop30,2.5,3.2,Bad Service and Bad Hygiene,B
+u82,shop27,2.2,4.9,Good Service,A
+u59,shop11,3.4,3.7,Good Service,B
+u6,shop65,4,2.2,Good Hygiene,A
+u17,shop42,4.8,3.4,Good Hygiene,B
+u24,shop75,2.9,1.1,Bad Service and Bad Hygiene,B
+u79,shop37,2.4,3,Bad Service and Bad Hygiene,B
+u38,shop29,3.5,1.3,Bad Service and Bad Hygiene,A
+u39,shop55,3.4,1.5,Bad Service and Bad Hygiene,A
+u79,shop36,3.7,4.1,Good Hygiene,A
+u19,shop58,4.9,4.2,Good Hygiene,A
+u73,shop69,1.5,1.3,Bad Service and Bad Hygiene,A
+u48,shop136,4.8,4,Good Hygiene,B
+u36,shop121,2.2,1.1,Bad Service and Bad Hygiene,A
+u30,shop86,3.5,1.2,Bad Service and Bad Hygiene,B
+u22,shop104,1.4,4.7,Good Service,B
+u100,shop45,1.3,2.5,Bad Service and Bad Hygiene,A
+u99,shop114,4.7,3.6,Good Hygiene,A
+u46,shop85,3.7,4.2,Good Hygiene,A
+u44,shop92,4.6,1.1,Good Hygiene,A
+u71,shop127,4.1,4.4,Good Hygiene,A
+u36,shop121,3.2,3.9,Good Service,A
+u34,shop34,2.7,4.9,Good Service,A
+u56,shop87,1.4,1.2,Bad Service and Bad Hygiene,B
+u68,shop19,1.2,2.9,Bad Service and Bad Hygiene,A
+u21,shop110,1.2,3.1,Bad Service and Bad Hygiene,A
+u22,shop45,2.6,3.8,Good Service,A
+u91,shop80,4,4.7,Good Hygiene,A
+u89,shop4,1.4,4,Good Service,A
+u73,shop51,4.7,4.8,Good Hygiene,A
+u10,shop150,3.8,4.6,Good Hygiene,B
+u58,shop76,1.4,3.5,Bad Service and Bad Hygiene,B
+u68,shop26,3.4,3.1,Bad Service and Bad Hygiene,A
+u62,shop82,2.5,4.4,Good Service,A
+u62,shop75,4.3,3.8,Good Hygiene,B
+u52,shop67,1.3,2,Bad Service and Bad Hygiene,B
+u81,shop49,4,4,Good Hygiene,B
+u60,shop2,2.4,2.5,Bad Service and Bad Hygiene,B
+u74,shop43,3.4,4.5,Good Service,A
+u10,shop106,2.9,4,Good Service,B
+u87,shop130,4,4.4,Good Hygiene,A
+u81,shop119,1.1,2.6,Bad Service and Bad Hygiene,A
+u97,shop69,4.4,2,Good Hygiene,B
+u29,shop137,2.2,4.7,Good Service,A
+u40,shop114,3.1,4.3,Good Service,B
+u49,shop64,2.9,2.2,Bad Service and Bad Hygiene,A
+u30,shop16,4.9,3,Good Hygiene,B
+u15,shop129,2.9,3.9,Good Service,A
+u21,shop74,4.2,4.3,Good Hygiene,B
+u58,shop103,3,4.7,Good Service,B
+u77,shop6,2.6,4.3,Good Service,B
+u100,shop51,2.8,3.8,Good Service,B
+u40,shop117,4.9,4,Good Hygiene,A
+u16,shop28,1.4,4.6,Good Service,B
+u36,shop73,4.3,2.9,Good Hygiene,A
+u13,shop35,1.5,1.1,Bad Service and Bad Hygiene,B
+u97,shop82,2.4,4.3,Good Service,B
+u47,shop66,1.5,4.4,Good Service,A
+u18,shop145,2.6,4.6,Good Service,A
+u83,shop50,1.4,4.5,Good Service,A
+u18,shop37,3.4,4.8,Good Service,A
+u25,shop110,2.7,3.4,Bad Service and Bad Hygiene,A
+u88,shop49,2.4,4.2,Good Service,B
+u81,shop73,4.3,4.1,Good Hygiene,B
+u61,shop58,4.8,4,Good Hygiene,A
+u64,shop132,4.3,3.8,Good Hygiene,A
+u6,shop101,4.4,4,Good Hygiene,B
+u47,shop61,1.5,4.6,Good Service,B
+u69,shop58,4.3,3.9,Good Hygiene,A
+u6,shop71,4.9,2,Good Hygiene,A
+u9,shop111,5,4.2,Good Hygiene,A
+u5,shop117,4.1,3.4,Good Hygiene,B
+u100,shop4,2,1.2,Bad Service and Bad Hygiene,A
+u83,shop6,3.5,3.6,Good Service,A
+u51,shop113,3.9,2.4,Good Hygiene,A
+u80,shop127,2.6,1.3,Bad Service and Bad Hygiene,B
+u55,shop76,2.5,4.6,Good Service,A
+u93,shop70,4.6,2.5,Good Hygiene,A
+u68,shop3,4.1,3.9,Good Hygiene,B
+u29,shop129,4.7,2.2,Good Hygiene,B
+u73,shop55,4.4,1.1,Good Hygiene,B
+u16,shop99,3,3.9,Good Service,A
+u7,shop50,3.1,4.1,Good Service,A
+u55,shop53,4.4,3.8,Good Hygiene,B
+u96,shop37,4.2,4,Good Hygiene,B
+u57,shop7,3.4,2.4,Bad Service and Bad Hygiene,A
+u89,shop31,3.2,1.3,Bad Service and Bad Hygiene,A
+u24,shop31,3.9,3.5,Good Hygiene,A
+u34,shop135,2.2,3.8,Good Service,B
+u81,shop29,3.8,1.4,Good Hygiene,B
+u82,shop150,2.8,2.6,Bad Service and Bad Hygiene,B
+u62,shop116,4.7,2.6,Good Hygiene,A
+u25,shop74,3.1,4.3,Good Service,A
+u55,shop85,4.8,4.6,Good Hygiene,A
+u53,shop97,5,5,Good Hygiene,B
+u64,shop103,3.6,1.1,Good Hygiene,B
+u6,shop21,4.3,3.2,Good Hygiene,B
+u86,shop22,3.1,4.8,Good Service,A
+u21,shop145,2.8,3.2,Bad Service and Bad Hygiene,A
+u50,shop111,3.1,3.8,Good Service,A
+u63,shop114,4,1.3,Good Hygiene,B
+u15,shop34,4.8,2.9,Good Hygiene,A
+u50,shop102,2.7,4.6,Good Service,B
+u17,shop14,4.3,4.9,Good Hygiene,A
+u69,shop129,2.2,3.1,Bad Service and Bad Hygiene,A
+u75,shop1,1.4,1.5,Bad Service and Bad Hygiene,B
+u96,shop150,1.5,1.1,Bad Service and Bad Hygiene,B
+u19,shop66,1.2,3.1,Bad Service and Bad Hygiene,A
+u13,shop96,4.5,1.3,Good Hygiene,B
+u52,shop101,3.8,1.1,Good Hygiene,B
+u44,shop69,3.4,1.4,Bad Service and Bad Hygiene,A
+u87,shop149,2.4,3.2,Bad Service and Bad Hygiene,B
+u53,shop38,3.4,3.1,Bad Service and Bad Hygiene,B
+u71,shop117,1.5,4,Good Service,A
+u47,shop24,2.4,4.9,Good Service,B
+u10,shop144,2.8,3.8,Good Service,A
+u34,shop94,2.7,4.8,Good Service,B
+u43,shop47,2.8,3.2,Bad Service and Bad Hygiene,A
+u55,shop23,1.5,4.4,Good Service,B
+u56,shop74,3.7,3.8,Good Hygiene,A
+u53,shop129,2.4,4.7,Good Service,A
+u50,shop7,3.9,4.5,Good Hygiene,B
+u97,shop9,1.3,2.5,Bad Service and Bad Hygiene,A
+u70,shop95,3.4,3.8,Good Service,A
+u68,shop119,4.7,4.6,Good Hygiene,B
+u35,shop47,2.5,2.9,Bad Service and Bad Hygiene,A
+u93,shop71,3.7,4.3,Good Hygiene,B
+u18,shop13,5,4.8,Good Hygiene,B
+u7,shop48,4.6,1.1,Good Hygiene,A
+u22,shop79,4.2,1.5,Good Hygiene,A
+u26,shop62,4.3,2.5,Good Hygiene,B
+u39,shop94,4.2,2.2,Good Hygiene,B
+u91,shop41,3.7,3.1,Good Hygiene,A
+u97,shop125,4.1,3.6,Good Hygiene,A
+u94,shop66,3.4,2.6,Bad Service and Bad Hygiene,A
+u74,shop132,3.4,4.4,Good Service,B
+u26,shop74,3,4.5,Good Service,A
+u65,shop67,3.4,4.2,Good Service,A
+u27,shop146,1.1,1.1,Bad Service and Bad Hygiene,B
+u71,shop33,3.1,3.5,Bad Service and Bad Hygiene,A
+u28,shop27,3.8,3.1,Good Hygiene,B
+u72,shop73,4.7,3,Good Hygiene,A
+u41,shop29,1.5,3.9,Good Service,B
+u99,shop60,1.1,3.2,Bad Service and Bad Hygiene,B
+u51,shop55,3,2,Bad Service and Bad Hygiene,B
+u50,shop23,2.8,3.8,Good Service,A
+u68,shop94,3.2,2.6,Bad Service and Bad Hygiene,A
+u62,shop120,4.7,2.9,Good Hygiene,B
+u73,shop100,3.2,4.1,Good Service,A
+u21,shop137,2.4,2.7,Bad Service and Bad Hygiene,A
+u27,shop133,4.5,2.2,Good Hygiene,B
+u39,shop104,4.6,2.6,Good Hygiene,A
+u47,shop101,4.2,4.4,Good Hygiene,B
+u73,shop15,3.8,5,Good Hygiene,B
+u21,shop105,1.4,1.3,Bad Service and Bad Hygiene,B
+u72,shop67,4.9,3.4,Good Hygiene,A
+u42,shop137,3.6,2,Good Hygiene,A
+u17,shop92,4.1,4.5,Good Hygiene,A
+u3,shop26,3.7,4.4,Good Hygiene,A
+u98,shop23,3,2.9,Bad Service and Bad Hygiene,B
+u36,shop13,3.9,5,Good Hygiene,A
+u15,shop147,2,1.5,Bad Service and Bad Hygiene,B
+u60,shop6,3.5,1.2,Bad Service and Bad Hygiene,B
+u78,shop106,1.3,3.1,Bad Service and Bad Hygiene,B
+u62,shop1,4.8,1.5,Good Hygiene,B
+u77,shop110,3.5,4.4,Good Service,A
+u91,shop119,4.2,2.4,Good Hygiene,B
+u73,shop119,3.4,1.3,Bad Service and Bad Hygiene,B
+u29,shop150,1.1,1.4,Bad Service and Bad Hygiene,A
+u26,shop106,3.6,2.8,Good Hygiene,A
+u18,shop3,3.8,4.2,Good Hygiene,B
+u11,shop96,3.8,1.2,Good Hygiene,B
+u59,shop93,4.3,3.5,Good Hygiene,A
+u46,shop145,3.2,1.5,Bad Service and Bad Hygiene,A
+u65,shop119,2.7,4.9,Good Service,B
+u48,shop86,2.5,2.8,Bad Service and Bad Hygiene,B
+u94,shop86,4.9,1.5,Good Hygiene,A
+u54,shop116,1.5,2.9,Bad Service and Bad Hygiene,A
+u50,shop94,3.7,4.9,Good Hygiene,B
+u42,shop149,4.7,4.8,Good Hygiene,A
+u98,shop9,3.5,4.9,Good Service,B
+u89,shop66,1.3,2.9,Bad Service and Bad Hygiene,B
+u90,shop115,1.4,4.7,Good Service,B
+u8,shop12,1.4,2,Bad Service and Bad Hygiene,A
+u69,shop48,2.7,4.4,Good Service,B
+u65,shop140,1.1,3.9,Good Service,B
+u19,shop44,2.6,2.8,Bad Service and Bad Hygiene,A
+u8,shop74,2.6,1.5,Bad Service and Bad Hygiene,A
+u76,shop62,1.2,3.5,Bad Service and Bad Hygiene,B
+u23,shop65,2,4,Good Service,A
+u98,shop132,3.7,2.7,Good Hygiene,B
+u59,shop126,4,2.4,Good Hygiene,A
+u65,shop103,4.5,1.3,Good Hygiene,B
+u70,shop91,2.7,2,Bad Service and Bad Hygiene,A
+u84,shop64,1.4,3.1,Bad Service and Bad Hygiene,B
+u33,shop101,3.6,3.7,Good Hygiene,A
+u90,shop14,2.5,3.4,Bad Service and Bad Hygiene,B
+u11,shop64,3.4,2.7,Bad Service and Bad Hygiene,A
+u96,shop45,3.8,3.1,Good Hygiene,B
+u49,shop108,2.2,3.5,Bad Service and Bad Hygiene,B
+u29,shop12,2.4,1.4,Bad Service and Bad Hygiene,A
+u92,shop144,4.6,2.7,Good Hygiene,B
+u47,shop31,3.9,4.6,Good Hygiene,A
+u51,shop64,4.1,4,Good Hygiene,A
+u2,shop90,4.4,1.2,Good Hygiene,A
+u58,shop71,2.9,2.2,Bad Service and Bad Hygiene,B
+u88,shop3,3,1.5,Bad Service and Bad Hygiene,A
+u28,shop99,4.4,4.9,Good Hygiene,A
+u18,shop54,4.6,1.5,Good Hygiene,A
+u62,shop116,3.8,4,Good Hygiene,B
+u16,shop43,3,3.7,Good Service,A
+u94,shop9,4.6,4.7,Good Hygiene,A
+u25,shop128,5,2,Good Hygiene,A
+u53,shop101,4.1,4.2,Good Hygiene,B
+u53,shop30,4.8,2.6,Good Hygiene,B
+u94,shop125,3.7,3.2,Good Hygiene,B
+u70,shop39,4,3.7,Good Hygiene,A
+u49,shop22,3.6,2.2,Good Hygiene,A
+u70,shop110,4.2,3.9,Good Hygiene,A
+u67,shop29,3,3.5,Bad Service and Bad Hygiene,B
+u66,shop146,1.4,4.4,Good Service,B
+u40,shop130,4.9,4.5,Good Hygiene,A
+u91,shop55,3.6,2.5,Good Hygiene,B
+u39,shop126,2.2,1.3,Bad Service and Bad Hygiene,A
+u11,shop133,1.5,1.1,Bad Service and Bad Hygiene,B
+u37,shop147,2,2.6,Bad Service and Bad Hygiene,A
+u67,shop15,4.1,4.9,Good Hygiene,B
+u53,shop133,2.4,4.1,Good Service,B
+u22,shop82,3.8,4,Good Hygiene,A
+u29,shop119,3.1,3.5,Bad Service and Bad Hygiene,B
+u16,shop46,3.1,2.2,Bad Service and Bad Hygiene,A
+u75,shop81,1.1,1.5,Bad Service and Bad Hygiene,A
+u65,shop26,4.3,3.9,Good Hygiene,B
+u16,shop88,2.8,4.8,Good Service,A
+u38,shop131,1.3,4,Good Service,B
+u81,shop107,2.7,3.1,Bad Service and Bad Hygiene,A
+u33,shop85,4.6,3.5,Good Hygiene,B
+u68,shop88,4.5,2.2,Good Hygiene,A
+u92,shop143,4.4,3.1,Good Hygiene,A
+u62,shop54,1.2,3.9,Good Service,B
+u40,shop95,2.7,1.2,Bad Service and Bad Hygiene,A
+u87,shop57,1.2,3.6,Good Service,B
+u8,shop99,2.5,2,Bad Service and Bad Hygiene,B
+u28,shop81,4.6,1.4,Good Hygiene,B
+u45,shop23,3.8,2.5,Good Hygiene,A
+u76,shop150,4.3,2,Good Hygiene,A
+u71,shop77,3.1,2.8,Bad Service and Bad Hygiene,A
+u6,shop16,1.1,4.9,Good Service,A
+u30,shop137,4.2,1.5,Good Hygiene,A
+u52,shop108,2.9,3.9,Good Service,B
+u88,shop11,4.2,3.9,Good Hygiene,B
+u61,shop104,4.1,2.6,Good Hygiene,A
+u48,shop108,3.2,3,Bad Service and Bad Hygiene,A
+u21,shop19,2.9,2.5,Bad Service and Bad Hygiene,A
+u67,shop119,4.2,2.5,Good Hygiene,A
+u41,shop30,2.4,2.8,Bad Service and Bad Hygiene,A
+u94,shop142,3,4.3,Good Service,B
+u2,shop62,4.7,5,Good Hygiene,B
+u19,shop146,3.1,3.9,Good Service,A
+u66,shop110,5,1.3,Good Hygiene,B
+u96,shop27,1.5,4.3,Good Service,A
+u59,shop63,3,4.4,Good Service,A
+u93,shop128,1.1,3,Bad Service and Bad Hygiene,B
+u98,shop27,3.2,1.2,Bad Service and Bad Hygiene,A
+u91,shop23,4,4.9,Good Hygiene,B
+u12,shop85,4.1,1.3,Good Hygiene,B
+u32,shop142,4.2,4,Good Hygiene,B
+u48,shop18,3.6,3.6,Good Hygiene,A
+u9,shop103,4.2,3,Good Hygiene,B
+u70,shop2,3.9,4.1,Good Hygiene,A
+u65,shop99,1.3,3.4,Bad Service and Bad Hygiene,B
+u64,shop136,4.8,3.4,Good Hygiene,A
+u15,shop75,2,2.2,Bad Service and Bad Hygiene,A
+u64,shop148,4.4,3,Good Hygiene,B
+u87,shop112,2,1.5,Bad Service and Bad Hygiene,A
+u84,shop42,3.4,4.2,Good Service,A
+u88,shop89,2.8,3.8,Good Service,B
+u19,shop67,4.7,4.8,Good Hygiene,B
+u8,shop35,3.1,2.5,Bad Service and Bad Hygiene,B
+u74,shop104,3.6,3.9,Good Hygiene,A
+u92,shop93,3.8,1.4,Good Hygiene,B
+u61,shop79,1.5,3.2,Bad Service and Bad Hygiene,A
+u27,shop67,2.4,4.3,Good Service,A
+u88,shop141,4.3,3,Good Hygiene,A
+u46,shop79,1.2,1.3,Bad Service and Bad Hygiene,A
+u95,shop55,4.2,4.2,Good Hygiene,B
+u36,shop49,3.1,3,Bad Service and Bad Hygiene,B
+u28,shop150,4.4,5,Good Hygiene,B
+u42,shop4,3.5,2.5,Bad Service and Bad Hygiene,A
+u70,shop95,2,4.9,Good Service,A
+u29,shop142,4.7,1.3,Good Hygiene,A
+u62,shop99,2.7,3.7,Good Service,A
+u42,shop11,3.8,4.6,Good Hygiene,A
+u10,shop126,4.2,3.5,Good Hygiene,A
+u7,shop130,2.2,4.8,Good Service,B
+u77,shop143,3.5,2.2,Bad Service and Bad Hygiene,A
+u89,shop99,3.6,4,Good Hygiene,B
+u99,shop96,3.1,4.4,Good Service,A
+u87,shop30,4.3,4.8,Good Hygiene,B
+u54,shop37,2,1.5,Bad Service and Bad Hygiene,A
+u99,shop36,1.5,4.7,Good Service,B
+u13,shop83,2.5,1.1,Bad Service and Bad Hygiene,B
+u72,shop6,2.9,3.2,Bad Service and Bad Hygiene,B
+u19,shop85,2.9,4,Good Service,A
+u10,shop36,4.1,1.5,Good Hygiene,B
+u13,shop102,2.6,4.7,Good Service,B
+u65,shop145,3.2,1.3,Bad Service and Bad Hygiene,B
+u43,shop65,2.4,2.4,Bad Service and Bad Hygiene,A
+u75,shop104,2.6,2.4,Bad Service and Bad Hygiene,A
+u67,shop142,4.4,3.7,Good Hygiene,B
+u20,shop54,5,2.4,Good Hygiene,A
+u31,shop144,2.7,2.4,Bad Service and Bad Hygiene,A
+u19,shop55,4.4,1.5,Good Hygiene,B
+u79,shop16,4.5,2.6,Good Hygiene,A
+u63,shop76,4.1,1.3,Good Hygiene,B
+u51,shop41,4.7,4.6,Good Hygiene,A
+u3,shop146,2.9,4.6,Good Service,A
+u79,shop147,4.8,3.2,Good Hygiene,A
+u92,shop13,4.6,1.5,Good Hygiene,A
+u57,shop92,4.5,4.9,Good Hygiene,B
+u96,shop76,3.7,4.9,Good Hygiene,B
+u46,shop44,3.4,5,Good Service,B
+u40,shop63,4.7,2.2,Good Hygiene,A
+u35,shop150,4.8,4.9,Good Hygiene,A
+u13,shop123,3.8,3,Good Hygiene,B
+u95,shop30,2.7,1.5,Bad Service and Bad Hygiene,B
+u52,shop94,4.8,4.8,Good Hygiene,A
+u51,shop11,1.1,3.1,Bad Service and Bad Hygiene,B
+u38,shop116,3.8,4.3,Good Hygiene,A
+u69,shop147,4.2,2.6,Good Hygiene,B
+u14,shop11,4,3.4,Good Hygiene,A
+u99,shop12,1.5,4.6,Good Service,A
+u56,shop131,4.6,4.9,Good Hygiene,B
+u35,shop21,1.2,3.2,Bad Service and Bad Hygiene,B
+u64,shop1,4.1,5,Good Hygiene,B
+u99,shop11,2.2,4.5,Good Service,A
+u84,shop105,4.1,3.2,Good Hygiene,B
+u90,shop87,3.2,3.5,Bad Service and Bad Hygiene,A
+u40,shop141,1.2,2.6,Bad Service and Bad Hygiene,B
+u77,shop19,4.7,4.8,Good Hygiene,B
+u18,shop34,4.2,4.4,Good Hygiene,B
+u81,shop59,3.6,3.8,Good Hygiene,A
+u4,shop68,4.4,2.8,Good Hygiene,A
+u100,shop59,3,4.6,Good Service,A
+u81,shop92,1.4,4.3,Good Service,B
+u42,shop63,2.7,2.6,Bad Service and Bad Hygiene,A
+u54,shop60,1.5,4.9,Good Service,A
+u87,shop44,2.5,3.8,Good Service,A
+u2,shop118,1.2,4.3,Good Service,B
+u39,shop135,4.5,4.7,Good Hygiene,B
+u37,shop137,4.8,4.1,Good Hygiene,A
+u53,shop129,4.2,4,Good Hygiene,B
+u70,shop7,1.2,4.7,Good Service,B
+u2,shop92,4.1,2.4,Good Hygiene,B
+u11,shop62,1.5,3.1,Bad Service and Bad Hygiene,A
+u86,shop108,4.6,4,Good Hygiene,B
+u1,shop87,3.2,4.7,Good Service,A
+u91,shop31,1.4,3.5,Bad Service and Bad Hygiene,B
+u77,shop5,2.5,2.8,Bad Service and Bad Hygiene,A
+u14,shop10,3.5,2.6,Bad Service and Bad Hygiene,A
+u72,shop84,1.5,3.5,Bad Service and Bad Hygiene,A
+u64,shop121,1.4,1.3,Bad Service and Bad Hygiene,A
+u85,shop59,1.2,2.2,Bad Service and Bad Hygiene,B
+u47,shop101,5,5,Good Hygiene,A
+u28,shop103,3.4,4.6,Good Service,B
+u11,shop54,2.8,2.7,Bad Service and Bad Hygiene,B
+u48,shop17,4.7,2.7,Good Hygiene,A
+u84,shop9,1.3,4.2,Good Service,B
+u70,shop127,4,1.4,Good Hygiene,B
+u73,shop42,2.9,1.2,Bad Service and Bad Hygiene,A
+u71,shop39,1.2,1.5,Bad Service and Bad Hygiene,B
+u42,shop84,2.2,4.6,Good Service,B
+u95,shop60,4.2,4.5,Good Hygiene,A
+u22,shop72,4.8,4.4,Good Hygiene,B
+u8,shop13,1.4,4.8,Good Service,A
+u16,shop38,3.2,2.6,Bad Service and Bad Hygiene,B
+u39,shop150,1.2,3.1,Bad Service and Bad Hygiene,A
+u91,shop90,4.7,2.4,Good Hygiene,A
+u85,shop45,4.3,2.4,Good Hygiene,B
+u60,shop145,2.4,4.6,Good Service,B
+u4,shop58,4.8,3.7,Good Hygiene,B
+u47,shop88,3.1,4.6,Good Service,B
+u58,shop144,2.2,3.1,Bad Service and Bad Hygiene,A
+u95,shop104,4.4,4.9,Good Hygiene,A
+u58,shop70,3,2.4,Bad Service and Bad Hygiene,A
+u32,shop48,1.1,4.5,Good Service,A
+u84,shop45,3.2,2.4,Bad Service and Bad Hygiene,B
+u74,shop52,2.9,3.8,Good Service,A
+u63,shop48,4.5,3.5,Good Hygiene,B
+u47,shop61,3.4,4.3,Good Service,A
+u22,shop79,4.1,4,Good Hygiene,B
+u3,shop71,4.8,2.8,Good Hygiene,B
+u83,shop92,3.6,1.5,Good Hygiene,A
+u76,shop3,2,5,Good Service,A
+u25,shop39,3.4,3.7,Good Service,B
+u2,shop125,3.5,2.7,Bad Service and Bad Hygiene,A
+u64,shop21,2.9,3.1,Bad Service and Bad Hygiene,A
+u62,shop111,4.9,2.5,Good Hygiene,B
+u87,shop85,3,1.1,Bad Service and Bad Hygiene,A
+u52,shop75,4.5,3.4,Good Hygiene,A
+u20,shop4,4.3,1.5,Good Hygiene,B
+u7,shop42,2.6,4,Good Service,B
+u58,shop95,1.3,4.4,Good Service,B
+u69,shop116,2.7,4.5,Good Service,B
+u88,shop118,2,4.3,Good Service,A
+u52,shop120,5,4.1,Good Hygiene,A
+u25,shop24,3.6,3.1,Good Hygiene,B
+u54,shop78,3.4,4.4,Good Service,B
+u42,shop122,5,3.5,Good Hygiene,A
+u67,shop127,2.7,1.1,Bad Service and Bad Hygiene,B
+u37,shop52,2.4,2.4,Bad Service and Bad Hygiene,A
+u45,shop27,4.8,3.1,Good Hygiene,B
+u74,shop56,5,4.8,Good Hygiene,A
+u68,shop121,2.7,2.4,Bad Service and Bad Hygiene,B
+u7,shop87,4,3.6,Good Hygiene,A
+u39,shop101,4.8,4.3,Good Hygiene,A
+u77,shop21,2.9,2.7,Bad Service and Bad Hygiene,A
+u65,shop24,4.6,4.3,Good Hygiene,A
+u74,shop2,1.1,3.7,Good Service,A
+u59,shop108,2.9,2.6,Bad Service and Bad Hygiene,B
+u5,shop111,5,3.4,Good Hygiene,B
+u64,shop116,2.8,2.4,Bad Service and Bad Hygiene,B
+u38,shop51,2.6,1.5,Bad Service and Bad Hygiene,B
+u81,shop108,4.4,1.3,Good Hygiene,A
+u1,shop16,2.6,4.2,Good Service,A
+u15,shop40,3.4,4.4,Good Service,B
+u39,shop18,3.5,4.4,Good Service,A
+u73,shop11,4.9,2.7,Good Hygiene,B
+u87,shop58,2.9,4.4,Good Service,A
+u58,shop105,2.2,4.9,Good Service,A
+u23,shop89,2.8,3,Bad Service and Bad Hygiene,B
+u61,shop84,2.9,1.5,Bad Service and Bad Hygiene,B
+u95,shop108,4.3,4.8,Good Hygiene,B
+u40,shop37,2.6,2.9,Bad Service and Bad Hygiene,A
+u6,shop145,2.2,2.8,Bad Service and Bad Hygiene,B
+u26,shop79,4.6,2.8,Good Hygiene,B
+u4,shop16,1.3,2.7,Bad Service and Bad Hygiene,A
+u40,shop34,2.7,3.9,Good Service,A
+u41,shop33,3.4,2.6,Bad Service and Bad Hygiene,A
+u22,shop39,2.6,4.8,Good Service,B
+u23,shop77,3.9,2.5,Good Hygiene,B
+u57,shop93,4.1,1.3,Good Hygiene,B
+u35,shop42,2.5,4.2,Good Service,B
+u75,shop117,4,1.3,Good Hygiene,B
+u44,shop114,2.8,3.5,Bad Service and Bad Hygiene,A
+u12,shop134,4.1,1.4,Good Hygiene,A
+u95,shop106,3.5,3.9,Good Service,B
+u87,shop58,3.8,2.7,Good Hygiene,A
+u38,shop105,4.7,4.4,Good Hygiene,B
+u25,shop137,4.3,2.8,Good Hygiene,B
+u27,shop138,3.6,1.3,Good Hygiene,A
+u58,shop85,2.9,2.4,Bad Service and Bad Hygiene,A
+u19,shop81,2.2,4,Good Service,A
+u80,shop69,4.9,2.6,Good Hygiene,A
+u46,shop95,1.3,4.9,Good Service,A
+u89,shop91,2.5,2.5,Bad Service and Bad Hygiene,A
+u33,shop62,3.1,1.5,Bad Service and Bad Hygiene,A
+u59,shop10,3.5,4.1,Good Service,B
+u91,shop34,1.3,3.5,Bad Service and Bad Hygiene,A
+u45,shop80,3.5,3.6,Good Service,B
+u41,shop43,4.1,1.1,Good Hygiene,A
+u9,shop72,3.7,2.8,Good Hygiene,A
+u77,shop43,5,4,Good Hygiene,B
+u23,shop60,3,2.9,Bad Service and Bad Hygiene,B
+u14,shop83,4.7,2.7,Good Hygiene,A
+u44,shop85,2.6,1.1,Bad Service and Bad Hygiene,B
+u55,shop41,2.4,3.7,Good Service,B
+u30,shop122,3,4.9,Good Service,A
+u85,shop30,4.9,4.5,Good Hygiene,A
+u86,shop22,4.8,4.7,Good Hygiene,A
+u55,shop39,3.9,4.1,Good Hygiene,A
+u28,shop50,3.4,5,Good Service,A
+u78,shop120,2.7,4.6,Good Service,B
+u21,shop134,4.3,3.6,Good Hygiene,B
+u25,shop22,2.7,3.2,Bad Service and Bad Hygiene,A
+u76,shop64,4.6,3.5,Good Hygiene,A
+u33,shop123,4.4,1.1,Good Hygiene,A
+u96,shop132,4.9,4.8,Good Hygiene,B
+u24,shop80,1.2,1.2,Bad Service and Bad Hygiene,B
+u79,shop134,4.4,2.4,Good Hygiene,B
+u19,shop86,4.5,3.2,Good Hygiene,A
+u72,shop125,4.5,2.7,Good Hygiene,A
+u60,shop149,3,3.8,Good Service,A
+u35,shop27,1.4,3.8,Good Service,B
+u97,shop145,3.4,4.9,Good Service,B
+u52,shop103,2.9,4.6,Good Service,B
+u33,shop127,2.8,2.9,Bad Service and Bad Hygiene,A
+u31,shop72,4.5,2.2,Good Hygiene,B
+u66,shop101,4.9,2,Good Hygiene,B
+u74,shop101,3.5,2.7,Bad Service and Bad Hygiene,B
+u99,shop34,2.4,2.5,Bad Service and Bad Hygiene,B
+u60,shop136,1.3,1.4,Bad Service and Bad Hygiene,B
+u88,shop44,3.9,4.7,Good Hygiene,B
+u85,shop58,5,4.5,Good Hygiene,B
+u59,shop123,4.4,4.8,Good Hygiene,B
+u68,shop26,3.4,4.5,Good Service,A
+u92,shop40,3.2,4.7,Good Service,A
+u43,shop148,3.9,3.7,Good Hygiene,B
+u48,shop144,4.6,1.5,Good Hygiene,B
+u47,shop110,4.5,4.4,Good Hygiene,A
+u10,shop35,4.2,1.4,Good Hygiene,A
+u48,shop50,4.4,5,Good Hygiene,A
+u76,shop31,4.4,1.5,Good Hygiene,B
+u97,shop13,2,4.3,Good Service,B
+u72,shop26,4.3,4.9,Good Hygiene,A
+u29,shop148,2,1.2,Bad Service and Bad Hygiene,B
+u52,shop37,2.2,3.2,Bad Service and Bad Hygiene,A
+u41,shop87,2.9,1.1,Bad Service and Bad Hygiene,B
+u28,shop77,1.2,1.4,Bad Service and Bad Hygiene,B
+u73,shop128,4.2,2.9,Good Hygiene,A
+u56,shop59,1.5,4.5,Good Service,B
+u33,shop3,2.8,3.2,Bad Service and Bad Hygiene,A
+u17,shop145,2.5,1.1,Bad Service and Bad Hygiene,A
+u38,shop75,1.1,3.8,Good Service,B
+u86,shop146,2.4,4.2,Good Service,B
+u71,shop9,2.4,3.1,Bad Service and Bad Hygiene,B
+u67,shop148,2.5,3.4,Bad Service and Bad Hygiene,B
+u58,shop45,3.9,4.7,Good Hygiene,B
+u90,shop37,4.5,4.4,Good Hygiene,B
+u81,shop90,3.8,1.5,Good Hygiene,A
+u44,shop75,1.5,3.9,Good Service,A
+u6,shop73,4.7,3.6,Good Hygiene,A
+u44,shop141,4.1,3.2,Good Hygiene,B
+u47,shop97,3.2,3.8,Good Service,B
+u5,shop54,5,3,Good Hygiene,A
+u21,shop26,2.7,4.5,Good Service,A
+u86,shop8,2.8,3,Bad Service and Bad Hygiene,B
+u76,shop143,3.4,3.7,Good Service,A
+u87,shop110,2.9,4.1,Good Service,A
+u40,shop81,4.6,2.8,Good Hygiene,A
+u34,shop131,4.3,1.5,Good Hygiene,B
+u98,shop26,4.9,4.6,Good Hygiene,B
+u81,shop90,4,2.5,Good Hygiene,A
+u65,shop76,4.5,4.1,Good Hygiene,A
+u33,shop116,2.4,3.1,Bad Service and Bad Hygiene,A
+u33,shop116,4,4.6,Good Hygiene,B
+u49,shop67,4.5,1.3,Good Hygiene,A
+u4,shop141,2.7,4.8,Good Service,B
+u42,shop63,2,2.8,Bad Service and Bad Hygiene,A
+u48,shop118,1.2,4.1,Good Service,B
+u52,shop69,2.9,4,Good Service,B
+u83,shop94,3.5,5,Good Service,A
+u48,shop16,2,2.8,Bad Service and Bad Hygiene,B
+u30,shop150,3.1,4.6,Good Service,B
+u56,shop141,4.8,2.5,Good Hygiene,B
+u20,shop147,1.4,3.7,Good Service,B
+u98,shop140,2.5,4.8,Good Service,A
+u94,shop82,2.6,3.7,Good Service,A
+u32,shop132,3,3.4,Bad Service and Bad Hygiene,B
+u5,shop98,5,2.6,Good Hygiene,A
+u28,shop113,4.1,4.6,Good Hygiene,A
+u3,shop21,4.6,2.2,Good Hygiene,A
+u95,shop9,1.1,2.2,Bad Service and Bad Hygiene,B
+u97,shop113,4.5,3.6,Good Hygiene,A
+u70,shop124,1.4,4.6,Good Service,A
+u20,shop92,3.5,1.3,Bad Service and Bad Hygiene,A
+u96,shop47,3.4,2.5,Bad Service and Bad Hygiene,B
+u49,shop48,4.7,1.1,Good Hygiene,A
+u92,shop128,3,4.5,Good Service,A
+u30,shop46,4.2,3,Good Hygiene,B
+u59,shop148,3,2.7,Bad Service and Bad Hygiene,B
+u83,shop15,2.6,2.2,Bad Service and Bad Hygiene,A
+u9,shop131,3.9,4.7,Good Hygiene,A
+u53,shop34,4.3,3.6,Good Hygiene,A
+u5,shop13,2.7,2.4,Bad Service and Bad Hygiene,B
+u85,shop123,4.6,4.1,Good Hygiene,A
+u73,shop38,3.2,4.5,Good Service,A
+u88,shop81,4.7,4.3,Good Hygiene,B
+u16,shop32,3.1,2.6,Bad Service and Bad Hygiene,A
+u72,shop30,1.3,2.7,Bad Service and Bad Hygiene,A
+u95,shop3,4.5,3.4,Good Hygiene,B
+u43,shop143,2.6,2.4,Bad Service and Bad Hygiene,A
+u67,shop105,3.9,4.5,Good Hygiene,A
+u91,shop106,2.4,4.8,Good Service,B
+u79,shop56,2.5,2.4,Bad Service and Bad Hygiene,B
+u31,shop63,3.7,1.2,Good Hygiene,B
+u21,shop39,5,2.9,Good Hygiene,A
+u49,shop24,2.6,2,Bad Service and Bad Hygiene,B
+u23,shop106,4.3,3.8,Good Hygiene,B
+u59,shop113,3.8,3.6,Good Hygiene,B
+u86,shop30,3.1,3.8,Good Service,B
+u60,shop116,2.6,2.5,Bad Service and Bad Hygiene,B
+u11,shop63,3.9,3.2,Good Hygiene,A
+u31,shop73,3.1,2.7,Bad Service and Bad Hygiene,B
+u29,shop40,4.9,2.4,Good Hygiene,B
+u87,shop75,4.7,2.6,Good Hygiene,B
+u65,shop50,4.2,3.8,Good Hygiene,A
+u49,shop144,4.6,1.4,Good Hygiene,A
+u3,shop19,4.7,4.3,Good Hygiene,A
+u78,shop64,4.3,3.4,Good Hygiene,A
+u36,shop40,2.8,2.8,Bad Service and Bad Hygiene,B
+u99,shop52,1.4,4.5,Good Service,A
+u35,shop146,4.1,2.6,Good Hygiene,B
+u11,shop64,3.9,1.4,Good Hygiene,A
+u62,shop111,3.8,3.4,Good Hygiene,A
+u27,shop7,2.4,2.8,Bad Service and Bad Hygiene,A
+u98,shop4,2.5,3.7,Good Service,A
+u63,shop122,3.1,5,Good Service,B
+u6,shop126,3.4,4.5,Good Service,A
+u32,shop132,4.2,2.5,Good Hygiene,A
+u76,shop75,2.6,1.4,Bad Service and Bad Hygiene,B
+u92,shop106,3.4,3,Bad Service and Bad Hygiene,B
+u21,shop109,3.1,1.5,Bad Service and Bad Hygiene,A
+u43,shop98,3.1,2.6,Bad Service and Bad Hygiene,B
+u82,shop94,2.8,2.8,Bad Service and Bad Hygiene,A
+u63,shop145,3.8,2.7,Good Hygiene,A
+u23,shop15,2,2,Bad Service and Bad Hygiene,A
+u48,shop86,3.4,1.5,Bad Service and Bad Hygiene,A
+u75,shop53,2.6,3.5,Bad Service and Bad Hygiene,A
+u30,shop6,4.2,2.4,Good Hygiene,B
+u32,shop127,3.7,1.3,Good Hygiene,B
+u92,shop87,2.8,2.8,Bad Service and Bad Hygiene,A
+u11,shop23,3,3.1,Bad Service and Bad Hygiene,A
+u37,shop55,3.2,5,Good Service,A
+u50,shop10,1.4,4.8,Good Service,B
+u15,shop16,3.5,4.6,Good Service,A
+u40,shop113,2.5,1.5,Bad Service and Bad Hygiene,A
+u55,shop2,2,4.7,Good Service,B
+u84,shop36,2.6,1.1,Bad Service and Bad Hygiene,B
+u93,shop126,3.4,3.5,Bad Service and Bad Hygiene,A
+u58,shop44,2.2,3.2,Bad Service and Bad Hygiene,A
+u65,shop79,4.6,4.9,Good Hygiene,B
+u99,shop121,2.7,1.5,Bad Service and Bad Hygiene,B
+u18,shop90,3.5,3.9,Good Service,A
+u15,shop120,3.7,1.5,Good Hygiene,A
+u54,shop2,1.3,3.4,Bad Service and Bad Hygiene,B
+u50,shop86,3,4.9,Good Service,B
+u62,shop146,2.7,2.2,Bad Service and Bad Hygiene,B
+u3,shop146,4.7,3.4,Good Hygiene,A
+u19,shop149,1.2,4.3,Good Service,A
+u64,shop14,1.3,2.5,Bad Service and Bad Hygiene,B
+u48,shop25,4.6,1.4,Good Hygiene,A
+u89,shop83,4.6,1.1,Good Hygiene,A
+u75,shop122,3.5,2.5,Bad Service and Bad Hygiene,A
+u24,shop8,4.7,3.4,Good Hygiene,A
+u30,shop5,1.1,4.7,Good Service,B
+u69,shop47,2.8,3.2,Bad Service and Bad Hygiene,A
+u17,shop67,4.6,3.1,Good Hygiene,A
+u36,shop82,5,1.4,Good Hygiene,A
+u94,shop51,2.4,4.6,Good Service,A
+u11,shop129,2.9,3.4,Bad Service and Bad Hygiene,A
+u24,shop70,2.2,3.9,Good Service,A
+u15,shop136,4.9,3.6,Good Hygiene,A
+u12,shop135,4,4.7,Good Hygiene,B
+u73,shop63,1.3,2.4,Bad Service and Bad Hygiene,B
+u59,shop13,1.2,4.1,Good Service,B
+u10,shop20,1.1,5,Good Service,B
+u20,shop128,2.4,2.2,Bad Service and Bad Hygiene,A
+u74,shop73,2.5,4.9,Good Service,A
+u73,shop103,1.4,3,Bad Service and Bad Hygiene,A
+u91,shop78,4.8,3.9,Good Hygiene,A
+u89,shop116,3.1,2.8,Bad Service and Bad Hygiene,A
+u66,shop84,3.5,2.6,Bad Service and Bad Hygiene,B
+u14,shop96,4,3.1,Good Hygiene,A
+u22,shop22,4.9,4.2,Good Hygiene,B
+u45,shop75,3.5,3.2,Bad Service and Bad Hygiene,A
+u74,shop68,4,3,Good Hygiene,A
+u29,shop52,4.8,4.2,Good Hygiene,A
+u70,shop119,2.6,2.2,Bad Service and Bad Hygiene,B
+u81,shop56,2.4,1.2,Bad Service and Bad Hygiene,B
+u54,shop30,4.8,2.2,Good Hygiene,A
+u39,shop7,2,4,Good Service,A
+u40,shop37,4.8,2.5,Good Hygiene,A
+u92,shop16,3.9,3.9,Good Hygiene,A
+u94,shop20,1.2,3.1,Bad Service and Bad Hygiene,A
+u36,shop137,1.1,3.1,Bad Service and Bad Hygiene,A
+u24,shop52,2.4,3,Bad Service and Bad Hygiene,B
+u6,shop144,4.3,4.6,Good Hygiene,A
+u8,shop80,1.1,2.9,Bad Service and Bad Hygiene,A
+u40,shop111,4.7,3.7,Good Hygiene,A
+u60,shop143,2.9,4,Good Service,B
+u12,shop47,3.4,4.5,Good Service,B
+u12,shop57,4.6,4.1,Good Hygiene,B
+u86,shop31,3,1.2,Bad Service and Bad Hygiene,B
+u60,shop10,4.7,4.1,Good Hygiene,A
+u47,shop39,1.5,4.3,Good Service,B
+u4,shop24,1.4,3.1,Bad Service and Bad Hygiene,A
+u11,shop68,2.7,1.5,Bad Service and Bad Hygiene,A
+u64,shop121,1.1,4.3,Good Service,A
+u67,shop61,3.9,2.8,Good Hygiene,B
+u65,shop124,3.4,4.9,Good Service,B
+u91,shop19,2,4.9,Good Service,A
+u46,shop126,2.6,3.4,Bad Service and Bad Hygiene,A
+u16,shop149,3.8,2,Good Hygiene,B
+u69,shop105,2.5,2.8,Bad Service and Bad Hygiene,A
+u32,shop123,2.2,1.3,Bad Service and Bad Hygiene,B
+u29,shop96,3.6,3.7,Good Hygiene,A
+u78,shop59,2.2,2.2,Bad Service and Bad Hygiene,B
+u44,shop7,4.3,3.5,Good Hygiene,B
+u4,shop69,4.4,2.2,Good Hygiene,B
+u88,shop103,4.9,1.1,Good Hygiene,B
+u60,shop19,4.4,2,Good Hygiene,A
+u44,shop117,4.8,3.1,Good Hygiene,B
+u55,shop92,4.3,2.7,Good Hygiene,B
+u85,shop118,3.1,1.2,Bad Service and Bad Hygiene,B
+u10,shop51,1.2,2.8,Bad Service and Bad Hygiene,A
+u92,shop23,4.4,2.8,Good Hygiene,A
+u36,shop78,4,4.3,Good Hygiene,A
+u2,shop140,3,4.7,Good Service,A
+u23,shop105,2.7,2.8,Bad Service and Bad Hygiene,A
+u69,shop92,2.5,4.9,Good Service,B
+u19,shop9,2.8,1.4,Bad Service and Bad Hygiene,B
+u91,shop149,3.1,5,Good Service,A
+u38,shop38,3.4,2.2,Bad Service and Bad Hygiene,A
+u22,shop61,3.4,2.9,Bad Service and Bad Hygiene,A
+u17,shop46,1.4,1.5,Bad Service and Bad Hygiene,B
+u86,shop105,3,4.1,Good Service,A
+u57,shop84,2.4,4.8,Good Service,A
+u62,shop91,3.9,3.5,Good Hygiene,A
+u7,shop40,2.9,2.9,Bad Service and Bad Hygiene,B
+u9,shop150,2.7,5,Good Service,B
+u29,shop85,2.2,4.8,Good Service,A
+u81,shop25,4.6,2.7,Good Hygiene,B
+u98,shop47,3,3.4,Bad Service and Bad Hygiene,B
+u45,shop73,4.5,3.6,Good Hygiene,B
+u85,shop76,2.9,4.9,Good Service,B
+u61,shop33,3.7,3.8,Good Hygiene,A
+u52,shop74,3.8,4.9,Good Hygiene,A
+u6,shop91,2.4,4.7,Good Service,A
+u21,shop32,3.1,4.9,Good Service,B
+u17,shop99,1.1,4.1,Good Service,B
+u93,shop75,5,4.4,Good Hygiene,B
+u95,shop73,2.5,3.4,Bad Service and Bad Hygiene,B
+u73,shop49,1.5,3.7,Good Service,B
+u43,shop55,4.3,1.2,Good Hygiene,B
+u61,shop23,2.7,2.7,Bad Service and Bad Hygiene,A
+u37,shop136,4.2,2.6,Good Hygiene,B
+u79,shop32,4.9,4.7,Good Hygiene,A
+u59,shop81,1.2,3.1,Bad Service and Bad Hygiene,B
+u75,shop6,4.9,2.6,Good Hygiene,A
+u5,shop96,2.5,1.2,Bad Service and Bad Hygiene,A
+u27,shop53,2.8,2.7,Bad Service and Bad Hygiene,A
+u90,shop66,2.2,3.9,Good Service,A
+u16,shop52,3.2,1.5,Bad Service and Bad Hygiene,A
+u60,shop35,4,1.1,Good Hygiene,A
+u37,shop75,2.9,4.4,Good Service,B
+u69,shop22,3.1,3.7,Good Service,B
+u28,shop91,3.1,4.3,Good Service,A
+u18,shop66,4.5,3.4,Good Hygiene,B
+u15,shop130,1.2,3.7,Good Service,A
+u63,shop142,1.1,4.7,Good Service,B
+u47,shop72,1.5,3.8,Good Service,B
+u77,shop83,4.6,1.3,Good Hygiene,B
+u87,shop112,3.7,1.4,Good Hygiene,B
+u49,shop90,2.2,2.9,Bad Service and Bad Hygiene,A
+u87,shop71,4.5,3.1,Good Hygiene,A
+u34,shop139,3.7,2,Good Hygiene,A
+u20,shop125,4.8,2.8,Good Hygiene,A
+u61,shop76,4.9,4.8,Good Hygiene,B
+u41,shop16,2.5,3.2,Bad Service and Bad Hygiene,A
+u46,shop35,4.8,3,Good Hygiene,B
+u25,shop5,1.4,3.1,Bad Service and Bad Hygiene,A
+u5,shop59,3.6,1.4,Good Hygiene,A
+u51,shop6,3.7,2.8,Good Hygiene,B
+u35,shop62,2,1.1,Bad Service and Bad Hygiene,B
+u41,shop10,1.2,4.3,Good Service,A
+u86,shop9,3.4,2.7,Bad Service and Bad Hygiene,A
+u96,shop97,2.8,3.1,Bad Service and Bad Hygiene,A
+u92,shop2,4.5,3.4,Good Hygiene,B
+u61,shop77,4.4,2.2,Good Hygiene,A
+u90,shop14,2.8,5,Good Service,B
+u90,shop83,3.1,2.8,Bad Service and Bad Hygiene,A
+u2,shop7,2.6,4.9,Good Service,B
+u18,shop127,4.8,4,Good Hygiene,A
+u35,shop113,1.3,4.2,Good Service,B
+u69,shop34,2.4,1.2,Bad Service and Bad Hygiene,B
+u28,shop23,4,2.8,Good Hygiene,B
+u38,shop47,3.2,4.2,Good Service,A
+u52,shop11,3,4.8,Good Service,A
+u74,shop85,4.6,2.5,Good Hygiene,A
+u79,shop10,3.1,3.2,Bad Service and Bad Hygiene,A
+u97,shop114,3.5,4.1,Good Service,A
+u26,shop119,4.3,5,Good Hygiene,A
+u99,shop112,1.2,5,Good Service,A
+u68,shop30,3,3.6,Good Service,B
+u1,shop103,3.2,3.5,Bad Service and Bad Hygiene,B
+u97,shop24,3.6,3.2,Good Hygiene,A
+u15,shop65,2.7,4.9,Good Service,B
+u6,shop70,4,2.2,Good Hygiene,A
+u77,shop111,3.4,3.5,Bad Service and Bad Hygiene,A
+u27,shop24,4.4,1.1,Good Hygiene,B
+u92,shop96,1.4,1.1,Bad Service and Bad Hygiene,B
+u15,shop140,1.1,1.4,Bad Service and Bad Hygiene,B
+u84,shop27,1.4,1.5,Bad Service and Bad Hygiene,A
+u78,shop49,1.3,3.9,Good Service,B
+u97,shop7,2.9,2.6,Bad Service and Bad Hygiene,A
+u22,shop82,3.6,1.1,Good Hygiene,B
+u19,shop16,4.9,3.7,Good Hygiene,A
+u7,shop39,4.1,3.7,Good Hygiene,B
+u88,shop116,2.7,2.7,Bad Service and Bad Hygiene,A
+u33,shop2,4.6,4.3,Good Hygiene,B
+u96,shop54,3.1,3.2,Bad Service and Bad Hygiene,A
+u17,shop148,4.5,4.8,Good Hygiene,B
+u9,shop19,4.2,4.7,Good Hygiene,A
+u43,shop24,1.1,4.3,Good Service,A
+u76,shop31,2.8,3.1,Bad Service and Bad Hygiene,B
+u27,shop88,2.5,2.7,Bad Service and Bad Hygiene,B
+u26,shop92,4.5,4.4,Good Hygiene,B
+u25,shop69,3.7,2.2,Good Hygiene,B
+u99,shop38,2.9,2.9,Bad Service and Bad Hygiene,A
+u1,shop68,2.2,3.8,Good Service,A
+u13,shop41,1.4,1.5,Bad Service and Bad Hygiene,B
+u51,shop138,2.2,2,Bad Service and Bad Hygiene,B
+u97,shop64,4.3,2.8,Good Hygiene,A
+u58,shop78,2.4,3.4,Bad Service and Bad Hygiene,B
+u99,shop33,4.9,4.2,Good Hygiene,B
+u55,shop1,4,2.8,Good Hygiene,B
+u94,shop19,3.9,4.1,Good Hygiene,B
+u57,shop147,2,4.5,Good Service,B
+u45,shop117,3.6,3.5,Good Hygiene,A
+u48,shop140,5,4.7,Good Hygiene,A
+u14,shop115,4.7,2.7,Good Hygiene,A
+u34,shop130,2.5,4.6,Good Service,A
+u70,shop133,4.8,2.5,Good Hygiene,B
+u75,shop70,3.8,1.5,Good Hygiene,B
+u74,shop64,2.8,3.7,Good Service,B
+u79,shop136,1.2,4.5,Good Service,A
+u54,shop101,3.1,1.3,Bad Service and Bad Hygiene,A
+u90,shop123,2,2.2,Bad Service and Bad Hygiene,A
+u70,shop119,1.5,2.2,Bad Service and Bad Hygiene,A
+u4,shop122,3.2,3.5,Bad Service and Bad Hygiene,A
+u39,shop83,2.5,2.7,Bad Service and Bad Hygiene,A
+u30,shop44,1.3,3.4,Bad Service and Bad Hygiene,A
+u34,shop134,2.2,4.2,Good Service,A
+u46,shop82,4.5,4.3,Good Hygiene,A
+u6,shop7,3.9,1.1,Good Hygiene,A
+u61,shop27,4.7,1.5,Good Hygiene,B
+u61,shop109,4.4,3.2,Good Hygiene,B
+u69,shop27,4.6,3.6,Good Hygiene,B
+u13,shop7,4.3,5,Good Hygiene,A
+u17,shop116,3.9,3.2,Good Hygiene,A
+u86,shop148,4,4.8,Good Hygiene,B
+u64,shop46,5,4.7,Good Hygiene,B
+u45,shop102,2.9,5,Good Service,A
+u17,shop116,3.7,3.5,Good Hygiene,A
+u1,shop42,3.9,1.4,Good Hygiene,B
+u96,shop92,4.3,1.1,Good Hygiene,B
+u1,shop114,3.1,4,Good Service,B
+u20,shop105,2.2,4.5,Good Service,B
+u23,shop17,3.4,1.2,Bad Service and Bad Hygiene,B
+u70,shop95,2.9,3.1,Bad Service and Bad Hygiene,A
+u35,shop82,1.2,3.6,Good Service,A
+u91,shop71,4.7,4.8,Good Hygiene,B
+u26,shop52,3,3.5,Bad Service and Bad Hygiene,B
+u85,shop54,3.7,4.7,Good Hygiene,B
+u84,shop127,3.7,2.4,Good Hygiene,A
+u58,shop144,3.2,4.9,Good Service,B
+u71,shop144,2.4,3.9,Good Service,A
+u24,shop90,1.2,3.8,Good Service,A
+u53,shop17,2.8,3.6,Good Service,B
+u9,shop89,4.1,2.8,Good Hygiene,B
+u4,shop100,1.2,1.4,Bad Service and Bad Hygiene,B
+u32,shop31,1.5,3.9,Good Service,B
+u20,shop63,2.4,5,Good Service,A
+u56,shop113,4.3,1.1,Good Hygiene,B
+u31,shop43,2.9,2.4,Bad Service and Bad Hygiene,B
+u40,shop38,2.9,1.2,Bad Service and Bad Hygiene,A
+u68,shop136,4.2,4,Good Hygiene,A
+u26,shop57,2.6,1.1,Bad Service and Bad Hygiene,B
+u6,shop55,2,4.5,Good Service,B
+u63,shop103,4.6,4.6,Good Hygiene,B
+u86,shop46,3.7,1.3,Good Hygiene,A
+u88,shop84,4.7,4.6,Good Hygiene,A
+u81,shop13,1.2,3.8,Good Service,B
+u55,shop62,3.4,2.5,Bad Service and Bad Hygiene,B
+u61,shop28,3.1,4.9,Good Service,B
+u87,shop51,4.7,4.1,Good Hygiene,B
+u60,shop106,4.6,4.6,Good Hygiene,A
+u86,shop86,2.5,3.8,Good Service,A
+u47,shop122,2.4,5,Good Service,A
+u65,shop126,3.7,4.7,Good Hygiene,B
+u33,shop124,3.9,1.1,Good Hygiene,A
+u42,shop126,2.8,3.5,Bad Service and Bad Hygiene,A
+u56,shop28,2.7,1.4,Bad Service and Bad Hygiene,B
+u79,shop81,4,3.2,Good Hygiene,A
+u97,shop100,3.1,2.9,Bad Service and Bad Hygiene,B
+u76,shop96,1.1,2,Bad Service and Bad Hygiene,B
+u13,shop63,2.7,4.5,Good Service,A
+u32,shop67,3.8,2.9,Good Hygiene,A
+u45,shop52,1.3,3.8,Good Service,B
+u36,shop3,1.1,3.8,Good Service,B
+u47,shop139,4.3,3.7,Good Hygiene,B
+u8,shop92,3.6,2.6,Good Hygiene,B
+u94,shop136,4.1,4.4,Good Hygiene,B
+u35,shop131,3.2,3.7,Good Service,A
+u55,shop28,4.4,4.1,Good Hygiene,A
+u98,shop50,3.5,2,Bad Service and Bad Hygiene,B
+u22,shop90,2.8,3.6,Good Service,B
+u84,shop25,5,5,Good Hygiene,B
+u19,shop64,4.2,1.2,Good Hygiene,A
+u82,shop54,2.7,1.4,Bad Service and Bad Hygiene,B
+u88,shop72,3.5,3.4,Bad Service and Bad Hygiene,A
+u49,shop26,4.4,4.7,Good Hygiene,A
+u18,shop84,1.3,4,Good Service,B
+u84,shop67,4,3.1,Good Hygiene,B
+u46,shop119,4.4,1.5,Good Hygiene,A
+u84,shop80,3.8,4.8,Good Hygiene,B
+u54,shop73,3.1,3.1,Bad Service and Bad Hygiene,B
+u64,shop120,2.2,2.8,Bad Service and Bad Hygiene,A
+u53,shop144,3.9,2.7,Good Hygiene,B
+u98,shop144,3.5,3.9,Good Service,B
+u98,shop6,3.7,2.8,Good Hygiene,B
+u84,shop39,4.5,4.6,Good Hygiene,A
+u3,shop139,3.5,4.8,Good Service,A
+u34,shop89,3.7,4,Good Hygiene,A
+u44,shop80,3.8,1.3,Good Hygiene,B
+u65,shop90,1.5,2.4,Bad Service and Bad Hygiene,A
+u56,shop113,4.8,4.9,Good Hygiene,B
+u26,shop63,1.1,4.8,Good Service,A
+u21,shop84,4.7,2,Good Hygiene,B
+u77,shop40,4.5,2.7,Good Hygiene,B
+u20,shop86,2.5,3.4,Bad Service and Bad Hygiene,B
+u96,shop109,3.8,4.7,Good Hygiene,A
+u49,shop9,1.5,4.7,Good Service,B
+u3,shop91,3.9,1.4,Good Hygiene,A
+u94,shop56,1.1,4,Good Service,B
+u27,shop16,4.3,2.8,Good Hygiene,B
+u69,shop128,1.3,1.5,Bad Service and Bad Hygiene,A
+u67,shop85,2.5,4.2,Good Service,A
+u33,shop34,3.5,4.7,Good Service,B
+u23,shop110,2.7,2.9,Bad Service and Bad Hygiene,B
+u21,shop111,3.1,2.7,Bad Service and Bad Hygiene,B
+u59,shop3,2.5,2.9,Bad Service and Bad Hygiene,B
+u51,shop122,3.2,2.2,Bad Service and Bad Hygiene,A
+u83,shop3,4.7,2.6,Good Hygiene,A
+u25,shop2,3.5,5,Good Service,B
+u64,shop102,2.6,4.2,Good Service,B
+u89,shop56,2.4,2.6,Bad Service and Bad Hygiene,B
+u16,shop4,1.2,2.2,Bad Service and Bad Hygiene,B
+u45,shop39,4.5,3.1,Good Hygiene,A
+u40,shop36,2.5,3.6,Good Service,B
+u19,shop30,2.2,2.9,Bad Service and Bad Hygiene,A
+u87,shop102,2.2,2.8,Bad Service and Bad Hygiene,A
+u72,shop2,2.4,4.7,Good Service,A
+u93,shop79,5,2.8,Good Hygiene,B
+u10,shop124,2.8,4.2,Good Service,B
+u2,shop31,3,2.5,Bad Service and Bad Hygiene,B
+u56,shop24,3.2,1.3,Bad Service and Bad Hygiene,B
+u57,shop149,1.2,4.5,Good Service,A
+u58,shop64,4,2.8,Good Hygiene,B
+u95,shop64,4.9,4.2,Good Hygiene,B
+u55,shop118,2.6,1.5,Bad Service and Bad Hygiene,B
+u78,shop21,4.5,1.2,Good Hygiene,B
+u52,shop150,4.2,3.1,Good Hygiene,B
+u3,shop6,2.4,4.7,Good Service,B
+u61,shop124,2.5,4.2,Good Service,A
+u92,shop28,3.8,2.5,Good Hygiene,B
+u38,shop113,2.4,5,Good Service,B
+u92,shop62,2.4,1.3,Bad Service and Bad Hygiene,B
+u11,shop88,3.1,3.9,Good Service,B
+u9,shop61,2.6,2.4,Bad Service and Bad Hygiene,A
+u10,shop2,2.9,1.1,Bad Service and Bad Hygiene,B
+u70,shop76,4.2,2.4,Good Hygiene,B
+u88,shop137,3.6,4.5,Good Hygiene,A
+u28,shop50,2,3.1,Bad Service and Bad Hygiene,B
+u5,shop86,5,3,Good Hygiene,A
+u96,shop82,4.7,4.9,Good Hygiene,A
+u80,shop28,2.2,3.8,Good Service,B
+u76,shop146,4.7,2.6,Good Hygiene,B
+u49,shop26,1.1,4.3,Good Service,A
+u43,shop48,2.2,1.1,Bad Service and Bad Hygiene,B
+u32,shop68,2.9,3.2,Bad Service and Bad Hygiene,B
+u10,shop7,3.9,4.6,Good Hygiene,A
+u95,shop29,4.8,3.6,Good Hygiene,B
+u87,shop51,2.7,5,Good Service,A
+u30,shop24,3.6,2.7,Good Hygiene,A
+u67,shop137,3.6,2.9,Good Hygiene,B
+u5,shop5,2.7,2.9,Bad Service and Bad Hygiene,B
+u24,shop22,4.9,2.5,Good Hygiene,A
+u8,shop49,1.3,3.9,Good Service,A
+u26,shop107,3.8,3.6,Good Hygiene,A
+u93,shop14,1.4,3.7,Good Service,A
+u6,shop119,4.9,1.1,Good Hygiene,B
+u67,shop107,3.4,4.9,Good Service,B
+u14,shop22,3.8,3.6,Good Hygiene,B
+u51,shop63,4.7,4.2,Good Hygiene,A
+u10,shop61,3.5,1.3,Bad Service and Bad Hygiene,B
+u22,shop123,1.3,2.6,Bad Service and Bad Hygiene,B
+u82,shop12,1.5,5,Good Service,B
+u29,shop90,2.7,3.8,Good Service,A
+u25,shop148,4.9,3,Good Hygiene,A
+u48,shop118,2.9,3,Bad Service and Bad Hygiene,A
+u68,shop77,2.7,3.4,Bad Service and Bad Hygiene,B
+u64,shop52,1.4,4.2,Good Service,A
+u79,shop141,2,1.1,Bad Service and Bad Hygiene,A
+u71,shop78,5,3.9,Good Hygiene,B
+u86,shop98,1.4,3.6,Good Service,A
+u1,shop54,4,4.9,Good Hygiene,B
+u19,shop80,3.1,5,Good Service,A
+u48,shop35,3.7,2.6,Good Hygiene,B
+u53,shop130,3,4.6,Good Service,B
+u15,shop90,3.2,2.7,Bad Service and Bad Hygiene,B
+u10,shop7,2.9,1.4,Bad Service and Bad Hygiene,B
+u75,shop33,2.2,4.4,Good Service,A
+u23,shop54,3.4,1.1,Bad Service and Bad Hygiene,A
+u7,shop4,2.2,2.9,Bad Service and Bad Hygiene,A
+u37,shop100,3.5,3.2,Bad Service and Bad Hygiene,A
+u40,shop3,4.4,2,Good Hygiene,A
+u92,shop134,1.2,1.3,Bad Service and Bad Hygiene,A
+u12,shop48,2.8,4.1,Good Service,B
+u45,shop144,1.1,4.9,Good Service,B
+u31,shop7,2.4,4,Good Service,B
+u20,shop35,2.8,3.5,Bad Service and Bad Hygiene,B
+u2,shop106,4.7,3.7,Good Hygiene,A
+u90,shop42,3.9,1.3,Good Hygiene,B
+u56,shop13,2.7,1.1,Bad Service and Bad Hygiene,A
+u57,shop3,3.4,3.6,Good Service,A
+u70,shop141,4.8,2.4,Good Hygiene,B
+u82,shop58,4.1,1.2,Good Hygiene,A
+u60,shop66,1.2,3.7,Good Service,B
+u63,shop47,5,3.6,Good Hygiene,B
+u19,shop85,2.8,4.3,Good Service,A
+u88,shop10,2.5,2.4,Bad Service and Bad Hygiene,B
+u34,shop136,3.8,3.5,Good Hygiene,B
+u86,shop62,4.6,3.8,Good Hygiene,B
+u14,shop29,3.8,1.5,Good Hygiene,A
+u66,shop16,1.5,4.6,Good Service,B
+u31,shop8,3.7,3.6,Good Hygiene,A
+u26,shop73,3.8,1.3,Good Hygiene,B
+u67,shop144,2.6,1.5,Bad Service and Bad Hygiene,B
+u82,shop114,2,4.1,Good Service,B
+u30,shop85,5,3.6,Good Hygiene,B
+u54,shop13,3.7,4.7,Good Hygiene,A
+u27,shop128,4.6,1.2,Good Hygiene,B
+u94,shop62,4.3,2,Good Hygiene,A
+u66,shop128,2.7,3.6,Good Service,A
+u11,shop69,2.7,2.5,Bad Service and Bad Hygiene,A
+u17,shop83,1.1,1.3,Bad Service and Bad Hygiene,A
+u79,shop121,2.2,2,Bad Service and Bad Hygiene,A
+u17,shop86,2.9,4.2,Good Service,B
+u85,shop26,4,4.5,Good Hygiene,B
+u100,shop79,4.8,4.1,Good Hygiene,B
+u99,shop68,4.6,2,Good Hygiene,A
+u99,shop100,4.7,1.4,Good Hygiene,B
+u73,shop74,2.8,1.4,Bad Service and Bad Hygiene,B
+u32,shop115,5,4.7,Good Hygiene,A
+u77,shop12,1.4,4.7,Good Service,A
+u53,shop5,2.4,3.5,Bad Service and Bad Hygiene,B
+u13,shop5,2.2,2.4,Bad Service and Bad Hygiene,B
+u36,shop95,3.1,2.4,Bad Service and Bad Hygiene,A
+u51,shop67,5,3.1,Good Hygiene,A
+u39,shop48,4.9,5,Good Hygiene,A
+u95,shop97,5,1.4,Good Hygiene,B
+u98,shop70,3.4,4.9,Good Service,A
+u85,shop115,4.3,3.6,Good Hygiene,A
+u81,shop106,4.2,4.3,Good Hygiene,B
+u76,shop4,1.3,1.2,Bad Service and Bad Hygiene,B
+u51,shop64,4.6,4.1,Good Hygiene,B
+u85,shop124,2.5,2.9,Bad Service and Bad Hygiene,B
+u87,shop27,4.8,4,Good Hygiene,B
+u71,shop121,1.3,4.2,Good Service,A
+u74,shop21,4.1,3.2,Good Hygiene,B
+u31,shop28,4.9,3.5,Good Hygiene,B
+u73,shop141,2.2,4,Good Service,B
+u78,shop60,4.7,3.9,Good Hygiene,A
+u67,shop88,1.5,4,Good Service,A
+u63,shop70,2.5,4.5,Good Service,B
+u37,shop28,5,4.1,Good Hygiene,B
+u39,shop31,2.8,4.2,Good Service,B
+u56,shop123,2,4.3,Good Service,A
+u19,shop85,4.8,1.4,Good Hygiene,B
+u51,shop89,1.5,3.4,Bad Service and Bad Hygiene,A
+u45,shop67,4.2,4.6,Good Hygiene,B
+u24,shop6,3.1,4.4,Good Service,A
+u22,shop139,2.4,2.5,Bad Service and Bad Hygiene,B
+u21,shop31,3.8,2,Good Hygiene,A
+u84,shop46,4.6,1.4,Good Hygiene,B
+u92,shop112,3.1,4.2,Good Service,B
+u98,shop14,2.6,4.9,Good Service,A
+u60,shop136,4.9,4.5,Good Hygiene,B
+u86,shop95,4.4,4,Good Hygiene,A
+u12,shop116,1.5,4.6,Good Service,B
+u71,shop101,2.4,1.3,Bad Service and Bad Hygiene,B
+u8,shop70,3.6,4.3,Good Hygiene,A
+u44,shop107,5,4.5,Good Hygiene,B
+u94,shop98,4.1,2.5,Good Hygiene,A
+u77,shop8,4.1,1.1,Good Hygiene,A
+u80,shop149,4.3,2.5,Good Hygiene,B
+u38,shop57,3.8,1.5,Good Hygiene,B
+u34,shop61,3.4,4.4,Good Service,B
+u14,shop75,4.6,1.2,Good Hygiene,B
+u94,shop100,2.9,4.5,Good Service,B
+u82,shop39,5,1.4,Good Hygiene,B
+u86,shop114,3.2,2.8,Bad Service and Bad Hygiene,B
+u39,shop13,2.6,1.2,Bad Service and Bad Hygiene,A
+u1,shop75,4.7,3.8,Good Hygiene,A
+u85,shop106,2,3,Bad Service and Bad Hygiene,A
+u25,shop85,1.4,4.8,Good Service,B
+u19,shop98,4.2,4.4,Good Hygiene,B
+u90,shop137,3.6,3.5,Good Hygiene,B
+u60,shop110,3.7,3.7,Good Hygiene,B
+u60,shop18,4.7,2.4,Good Hygiene,A
+u17,shop136,3.4,2.7,Bad Service and Bad Hygiene,B
+u24,shop13,3.2,1.3,Bad Service and Bad Hygiene,B
+u5,shop107,4.6,1.2,Good Hygiene,A
+u48,shop15,3.7,4.1,Good Hygiene,A
+u72,shop39,3.1,2,Bad Service and Bad Hygiene,B
+u95,shop127,1.4,2.4,Bad Service and Bad Hygiene,A
+u27,shop134,3.7,3.2,Good Hygiene,B
+u2,shop1,1.3,4.3,Good Service,B
+u31,shop122,3.4,3.6,Good Service,B
+u93,shop100,1.3,3.4,Bad Service and Bad Hygiene,A
+u67,shop125,4.6,5,Good Hygiene,A
+u91,shop98,4.3,3.1,Good Hygiene,B
+u87,shop47,2.4,3.2,Bad Service and Bad Hygiene,A
+u100,shop122,5,5,Good Hygiene,B
+u35,shop55,4.6,3.6,Good Hygiene,B
+u28,shop89,2.8,1.5,Bad Service and Bad Hygiene,A
+u20,shop60,2.8,1.4,Bad Service and Bad Hygiene,A
+u93,shop81,4.5,1.1,Good Hygiene,B
+u13,shop71,2.7,1.4,Bad Service and Bad Hygiene,B
+u63,shop93,3.1,3,Bad Service and Bad Hygiene,A
+u89,shop65,1.1,3.8,Good Service,A
+u39,shop71,1.5,4.7,Good Service,B
+u97,shop93,4.1,1.1,Good Hygiene,A
+u56,shop87,4.3,3.8,Good Hygiene,B
+u22,shop85,2.6,3,Bad Service and Bad Hygiene,B
+u59,shop67,1.4,2,Bad Service and Bad Hygiene,A
+u100,shop52,3.9,1.2,Good Hygiene,B
+u63,shop140,2.8,2,Bad Service and Bad Hygiene,A
+u10,shop146,4.8,4.7,Good Hygiene,A
+u96,shop63,4.6,3.1,Good Hygiene,A
+u15,shop96,4.3,4.3,Good Hygiene,A
+u76,shop18,1.5,2,Bad Service and Bad Hygiene,B
+u21,shop6,4.3,4.8,Good Hygiene,A
+u90,shop2,4.3,2.9,Good Hygiene,A
+u61,shop145,1.1,1.2,Bad Service and Bad Hygiene,A
+u23,shop96,3.4,2.4,Bad Service and Bad Hygiene,B
+u67,shop91,1.1,3.8,Good Service,B
+u14,shop91,4.6,3,Good Hygiene,B
+u19,shop1,2,4,Good Service,A
+u62,shop72,1.1,4.1,Good Service,B
+u87,shop112,1.1,4.7,Good Service,A
+u23,shop123,4.1,2.9,Good Hygiene,A
+u7,shop16,1.5,3.4,Bad Service and Bad Hygiene,B
+u35,shop22,3.1,2.5,Bad Service and Bad Hygiene,B
+u56,shop34,3.9,2.4,Good Hygiene,B
+u45,shop53,4.7,1.4,Good Hygiene,A
+u52,shop134,2.7,1.4,Bad Service and Bad Hygiene,A
+u67,shop64,4.6,2.6,Good Hygiene,A
+u76,shop113,4.8,4.2,Good Hygiene,B
+u21,shop17,1.2,1.3,Bad Service and Bad Hygiene,A
+u47,shop145,2.6,2.5,Bad Service and Bad Hygiene,B
+u70,shop105,3.1,3.2,Bad Service and Bad Hygiene,A
+u76,shop137,4.2,4.1,Good Hygiene,B
+u8,shop60,1.3,2.6,Bad Service and Bad Hygiene,B
+u90,shop48,2.9,4.6,Good Service,B
+u61,shop105,2.4,2.6,Bad Service and Bad Hygiene,B
+u11,shop97,3,2.9,Bad Service and Bad Hygiene,A
+u63,shop47,4.3,4.2,Good Hygiene,A
+u8,shop21,3.2,1.5,Bad Service and Bad Hygiene,A
+u74,shop52,2.4,4.4,Good Service,B
+u88,shop104,4.6,2.6,Good Hygiene,B
+u64,shop11,2.8,3.4,Bad Service and Bad Hygiene,B
+u45,shop79,4.8,2.7,Good Hygiene,A
+u25,shop5,2.4,2.9,Bad Service and Bad Hygiene,A
+u54,shop101,1.5,2.9,Bad Service and Bad Hygiene,B
+u43,shop92,4.5,3.9,Good Hygiene,B
+u95,shop148,3.6,4.1,Good Hygiene,B
+u88,shop90,4.5,4.6,Good Hygiene,A
+u19,shop58,3.4,1.5,Bad Service and Bad Hygiene,A
+u97,shop89,4.9,3.9,Good Hygiene,A
+u79,shop64,2.7,3.4,Bad Service and Bad Hygiene,B
+u13,shop150,3.2,2.9,Bad Service and Bad Hygiene,B
+u77,shop99,4.7,3.6,Good Hygiene,A
+u5,shop43,1.2,3.8,Good Service,B
+u7,shop136,4.8,3.4,Good Hygiene,A
+u8,shop70,2.9,3.4,Bad Service and Bad Hygiene,A
+u48,shop114,4.3,2.5,Good Hygiene,B
+u1,shop61,2.7,1.2,Bad Service and Bad Hygiene,A
+u3,shop146,4.6,1.1,Good Hygiene,B
+u36,shop133,2.8,1.4,Bad Service and Bad Hygiene,A
+u75,shop32,4,2.4,Good Hygiene,A
+u11,shop135,4.5,1.3,Good Hygiene,B
+u17,shop100,4.1,3.1,Good Hygiene,A
+u13,shop18,3.8,4.3,Good Hygiene,A
+u90,shop2,2,2,Bad Service and Bad Hygiene,B
+u37,shop77,1.2,2.4,Bad Service and Bad Hygiene,A
+u75,shop70,2.2,2.8,Bad Service and Bad Hygiene,A
+u7,shop121,3,2.5,Bad Service and Bad Hygiene,A
+u22,shop43,2,2.8,Bad Service and Bad Hygiene,A
+u63,shop8,2.7,2.8,Bad Service and Bad Hygiene,B
+u74,shop135,2.2,3,Bad Service and Bad Hygiene,B
+u85,shop1,3.9,4.4,Good Hygiene,B
+u41,shop7,2.2,3.9,Good Service,A
+u40,shop82,2.8,2.6,Bad Service and Bad Hygiene,B
+u98,shop33,4.9,4.1,Good Hygiene,B
+u15,shop13,2.7,4.3,Good Service,B
+u90,shop41,4.1,1.1,Good Hygiene,A
+u27,shop59,2.5,4.9,Good Service,B
+u60,shop62,4.4,3.7,Good Hygiene,A
+u18,shop25,3.8,4.1,Good Hygiene,A
+u53,shop27,1.2,1.4,Bad Service and Bad Hygiene,B
+u64,shop89,3.4,2.5,Bad Service and Bad Hygiene,A
+u5,shop125,2.8,4.8,Good Service,B
+u26,shop99,4.2,1.1,Good Hygiene,B
+u38,shop144,3.9,2.8,Good Hygiene,B
+u4,shop83,1.5,3.4,Bad Service and Bad Hygiene,B
+u15,shop64,3.5,3.9,Good Service,B
+u52,shop96,4.4,3.9,Good Hygiene,A
+u90,shop120,2.8,2.5,Bad Service and Bad Hygiene,B
+u51,shop19,3.5,2.7,Bad Service and Bad Hygiene,B
+u94,shop41,4.1,3.2,Good Hygiene,A
+u100,shop27,2.6,3.4,Bad Service and Bad Hygiene,B
+u38,shop43,3.8,3.1,Good Hygiene,A
+u13,shop25,3.5,4.7,Good Service,A
+u79,shop78,3.7,1.5,Good Hygiene,A
+u37,shop69,2.5,2.2,Bad Service and Bad Hygiene,B
+u58,shop135,3.5,4.5,Good Service,A
+u37,shop52,1.5,3.2,Bad Service and Bad Hygiene,B
+u84,shop101,4.5,4.4,Good Hygiene,A
+u71,shop145,3.5,1.4,Bad Service and Bad Hygiene,A
+u6,shop22,3.6,3.2,Good Hygiene,B
+u94,shop110,3.1,4.9,Good Service,B
+u58,shop60,2.2,1.1,Bad Service and Bad Hygiene,B
+u24,shop30,1.3,2.6,Bad Service and Bad Hygiene,A
+u80,shop84,1.3,4.7,Good Service,B
+u65,shop145,2.5,2.4,Bad Service and Bad Hygiene,B
+u37,shop50,1.3,4.9,Good Service,B
+u51,shop88,1.3,3,Bad Service and Bad Hygiene,A
+u25,shop39,2,2,Bad Service and Bad Hygiene,A
+u5,shop66,2.9,4.9,Good Service,A
+u10,shop19,2.9,4.1,Good Service,A
+u95,shop61,4.5,2.2,Good Hygiene,A
+u80,shop148,2.2,4.4,Good Service,B
+u51,shop129,1.5,4.8,Good Service,B
+u22,shop62,2,4.1,Good Service,B
+u74,shop135,3.6,1.3,Good Hygiene,A
+u77,shop74,1.1,4.5,Good Service,B
+u37,shop130,2.4,2,Bad Service and Bad Hygiene,A
+u6,shop130,3.6,3.2,Good Hygiene,B
+u73,shop29,1.4,3.4,Bad Service and Bad Hygiene,A
+u16,shop142,4.6,3.5,Good Hygiene,A
+u34,shop33,4.5,2,Good Hygiene,A
+u64,shop56,1.1,3.2,Bad Service and Bad Hygiene,B
+u59,shop135,4.8,4,Good Hygiene,B
+u1,shop63,1.2,1.1,Bad Service and Bad Hygiene,A
+u33,shop144,3.6,4.5,Good Hygiene,A
+u33,shop70,2.9,5,Good Service,A
+u52,shop70,4.5,1.4,Good Hygiene,A
+u87,shop81,1.4,4.3,Good Service,B
+u74,shop23,3.6,2.8,Good Hygiene,B
+u27,shop110,1.3,4.1,Good Service,A
+u57,shop111,4.8,1.4,Good Hygiene,B
+u59,shop150,1.4,2,Bad Service and Bad Hygiene,B
+u5,shop83,2.9,3.4,Bad Service and Bad Hygiene,A
+u100,shop19,1.1,4.4,Good Service,B
+u31,shop46,2.7,1.1,Bad Service and Bad Hygiene,A
+u65,shop101,3.9,3.8,Good Hygiene,A
+u27,shop2,3.5,2.5,Bad Service and Bad Hygiene,A
+u71,shop97,2.7,4.6,Good Service,B
+u85,shop7,3.6,4.2,Good Hygiene,B
+u23,shop150,1.3,3.8,Good Service,A
+u74,shop5,1.4,4.4,Good Service,A
+u14,shop102,2,4.1,Good Service,B
+u20,shop45,4.3,2.7,Good Hygiene,B
+u21,shop47,2,5,Good Service,A
+u20,shop76,2.7,3,Bad Service and Bad Hygiene,A
+u91,shop93,4.7,2,Good Hygiene,B
+u68,shop60,3.8,2.6,Good Hygiene,B
+u3,shop74,4.4,1.4,Good Hygiene,A
+u34,shop89,2.5,1.5,Bad Service and Bad Hygiene,B
+u92,shop80,3.7,4.5,Good Hygiene,A
+u99,shop85,4.5,4.3,Good Hygiene,B
+u50,shop22,2,3.7,Good Service,B
+u84,shop96,2.6,4.2,Good Service,A
+u40,shop72,4.5,2.8,Good Hygiene,B
+u28,shop137,2.4,4.4,Good Service,A
+u38,shop43,2.6,3.9,Good Service,A
+u36,shop44,4,4.5,Good Hygiene,A
+u52,shop61,2.8,4.7,Good Service,B
+u15,shop44,3.6,3.4,Good Hygiene,B
+u58,shop49,5,4.9,Good Hygiene,B
+u53,shop128,2.5,1.1,Bad Service and Bad Hygiene,A
+u4,shop43,4.5,2.5,Good Hygiene,A
+u41,shop99,3.9,4.4,Good Hygiene,B
+u91,shop128,3.4,2.8,Bad Service and Bad Hygiene,A
+u91,shop24,4.5,2.8,Good Hygiene,A
+u92,shop115,4.5,2.6,Good Hygiene,B
+u18,shop31,2,4.8,Good Service,A
+u7,shop19,4.5,2.4,Good Hygiene,B
+u19,shop17,2.4,3.4,Bad Service and Bad Hygiene,A
+u15,shop15,3.9,4.6,Good Hygiene,B
+u81,shop85,4.4,3.6,Good Hygiene,A
+u97,shop58,3.8,4.2,Good Hygiene,A
+u25,shop101,2.2,1.5,Bad Service and Bad Hygiene,B
+u5,shop112,2.9,1.4,Bad Service and Bad Hygiene,B
+u12,shop95,2,1.5,Bad Service and Bad Hygiene,A
+u33,shop11,3.7,3.7,Good Hygiene,B
+u42,shop103,4.7,3.6,Good Hygiene,A
+u72,shop15,3.6,1.3,Good Hygiene,B
+u41,shop65,2,4.9,Good Service,A
+u25,shop106,3.9,4.7,Good Hygiene,B
+u49,shop30,2,1.1,Bad Service and Bad Hygiene,B
+u95,shop3,4.1,2.7,Good Hygiene,B
+u51,shop79,2.6,2,Bad Service and Bad Hygiene,B
+u58,shop33,4,3.7,Good Hygiene,A
+u25,shop16,1.3,1.3,Bad Service and Bad Hygiene,A
+u92,shop130,5,4.1,Good Hygiene,A
+u47,shop50,2.9,2.8,Bad Service and Bad Hygiene,B
+u100,shop25,4.6,4.3,Good Hygiene,B
+u2,shop101,3.7,4.4,Good Hygiene,A
+u62,shop79,4.2,3.8,Good Hygiene,B
+u53,shop103,3.1,4,Good Service,B
+u49,shop120,5,3,Good Hygiene,B
+u66,shop51,4.6,2.7,Good Hygiene,A
+u72,shop145,3.5,4.7,Good Service,B
+u51,shop27,2.2,4.8,Good Service,B
+u47,shop31,4.1,4.6,Good Hygiene,A
+u74,shop16,2.2,4.6,Good Service,A
+u84,shop58,4.7,3.1,Good Hygiene,B
+u32,shop67,4.5,3.6,Good Hygiene,A
+u57,shop123,4.4,3.6,Good Hygiene,B
+u19,shop140,3.4,2.9,Bad Service and Bad Hygiene,B
+u93,shop24,3.6,2.2,Good Hygiene,A
+u82,shop121,3.4,4.3,Good Service,B
+u46,shop134,1.3,1.3,Bad Service and Bad Hygiene,B
+u4,shop147,3.1,3.2,Bad Service and Bad Hygiene,A
+u88,shop46,2.5,2.9,Bad Service and Bad Hygiene,A
+u12,shop28,2.7,4.8,Good Service,A
+u15,shop121,2.2,4.3,Good Service,A
+u94,shop1,4.5,4,Good Hygiene,B
+u58,shop56,4.8,1.3,Good Hygiene,B
+u48,shop58,4.5,2.4,Good Hygiene,A
+u42,shop29,3.7,4.8,Good Hygiene,A
+u33,shop15,4,3.5,Good Hygiene,B
+u12,shop96,1.5,4.7,Good Service,B
+u97,shop139,1.5,3.8,Good Service,A
+u54,shop37,3.4,3.9,Good Service,A
+u26,shop44,3.7,3.2,Good Hygiene,A
+u37,shop149,3.1,2,Bad Service and Bad Hygiene,B
+u17,shop42,3.6,4.8,Good Hygiene,A
+u28,shop84,1.1,1.3,Bad Service and Bad Hygiene,B
+u74,shop104,4.2,1.1,Good Hygiene,A
+u8,shop4,1.4,4,Good Service,A
+u42,shop33,4.7,1.3,Good Hygiene,A
+u56,shop79,2.4,1.4,Bad Service and Bad Hygiene,A
+u12,shop33,3.6,5,Good Hygiene,B
+u6,shop100,3.4,1.2,Bad Service and Bad Hygiene,B
+u40,shop17,2.9,2,Bad Service and Bad Hygiene,B
+u50,shop109,3.2,4.9,Good Service,A
+u40,shop18,1.4,1.3,Bad Service and Bad Hygiene,A
+u40,shop139,1.4,2.5,Bad Service and Bad Hygiene,B
+u54,shop76,3.7,1.2,Good Hygiene,B
+u94,shop24,3.2,3,Bad Service and Bad Hygiene,A
+u83,shop64,3.1,2,Bad Service and Bad Hygiene,A
+u11,shop76,4.6,4.8,Good Hygiene,B
+u39,shop32,2.6,4.8,Good Service,A
+u3,shop103,2,4.3,Good Service,A
+u56,shop109,3.5,2.9,Bad Service and Bad Hygiene,A
+u100,shop136,2.5,3.9,Good Service,B
+u87,shop33,4,1.2,Good Hygiene,B
+u50,shop58,4.1,3.4,Good Hygiene,B
+u15,shop93,2.2,4.6,Good Service,A
+u45,shop102,2.2,4.5,Good Service,A
+u13,shop25,3.1,4.4,Good Service,B
+u21,shop7,2.9,4.2,Good Service,A
+u32,shop52,4.1,4.1,Good Hygiene,A
+u63,shop75,2.7,3.8,Good Service,A
+u69,shop83,1.1,3.5,Bad Service and Bad Hygiene,A
+u55,shop33,2.4,2.6,Bad Service and Bad Hygiene,A
+u13,shop38,1.3,2.4,Bad Service and Bad Hygiene,A
+u7,shop89,3.4,5,Good Service,B
+u63,shop9,4.9,3.2,Good Hygiene,A
+u22,shop108,4.2,2,Good Hygiene,A
+u2,shop34,4.5,3.5,Good Hygiene,A
+u52,shop71,2.9,2,Bad Service and Bad Hygiene,B
+u75,shop109,2.5,3.8,Good Service,B
+u40,shop47,2,4.1,Good Service,B
+u89,shop105,4.7,3.2,Good Hygiene,A
+u75,shop100,3.8,3.8,Good Hygiene,B
+u65,shop26,1.3,2.8,Bad Service and Bad Hygiene,A
+u18,shop37,2.2,3.6,Good Service,B
+u68,shop142,2.9,2.9,Bad Service and Bad Hygiene,A
+u87,shop40,4,2.5,Good Hygiene,A
+u24,shop29,1.3,2.8,Bad Service and Bad Hygiene,A
+u62,shop6,2.6,2.6,Bad Service and Bad Hygiene,A
+u75,shop129,4,3.5,Good Hygiene,B
+u47,shop10,2.5,2.6,Bad Service and Bad Hygiene,B
+u44,shop25,4.3,3.5,Good Hygiene,B
+u17,shop45,1.1,4.1,Good Service,B
+u17,shop108,2,1.2,Bad Service and Bad Hygiene,A
+u44,shop68,4.7,3.8,Good Hygiene,A
+u42,shop23,2,3.4,Bad Service and Bad Hygiene,A
+u52,shop61,4,1.5,Good Hygiene,A
+u48,shop93,4.6,1.3,Good Hygiene,A
+u51,shop138,4.2,2.6,Good Hygiene,B
+u14,shop77,4.6,2.5,Good Hygiene,A
+u95,shop126,4.6,2.6,Good Hygiene,A
+u43,shop56,2.5,1.5,Bad Service and Bad Hygiene,A
+u4,shop122,1.5,3.5,Bad Service and Bad Hygiene,B
+u6,shop74,3.4,2.4,Bad Service and Bad Hygiene,B
+u90,shop1,1.4,2,Bad Service and Bad Hygiene,A
+u17,shop11,4.8,4.9,Good Hygiene,B
+u68,shop137,5,3.1,Good Hygiene,A
+u80,shop124,2.9,1.3,Bad Service and Bad Hygiene,A
+u47,shop18,4.1,2.2,Good Hygiene,A
+u67,shop42,4.8,4.7,Good Hygiene,A
+u83,shop56,4.1,3.4,Good Hygiene,A
+u72,shop119,2.7,2.9,Bad Service and Bad Hygiene,A
+u99,shop17,1.5,4.4,Good Service,B
+u1,shop64,2.7,3.1,Bad Service and Bad Hygiene,B
+u49,shop100,2.4,4.4,Good Service,B
+u28,shop87,3.9,3.2,Good Hygiene,B
+u94,shop15,2.8,1.2,Bad Service and Bad Hygiene,B
+u53,shop16,1.4,2.5,Bad Service and Bad Hygiene,B
+u25,shop5,1.2,2.7,Bad Service and Bad Hygiene,A
+u35,shop94,1.5,5,Good Service,A
+u17,shop114,3.4,3.8,Good Service,B
+u71,shop85,4,5,Good Hygiene,B
+u88,shop33,3.4,4.6,Good Service,B
+u43,shop1,3.7,4.5,Good Hygiene,B
+u95,shop96,1.4,3.4,Bad Service and Bad Hygiene,B
+u53,shop52,3.7,4.4,Good Hygiene,B
+u32,shop16,3.8,2.8,Good Hygiene,B
+u71,shop127,2.9,1.1,Bad Service and Bad Hygiene,B
+u2,shop20,2,4.4,Good Service,B
+u81,shop45,4.9,3.8,Good Hygiene,A
+u95,shop33,5,2.2,Good Hygiene,B
+u64,shop85,3.4,4.4,Good Service,B
+u24,shop109,2.2,2.7,Bad Service and Bad Hygiene,A
+u52,shop138,4.1,2.2,Good Hygiene,A
+u47,shop137,2.2,1.4,Bad Service and Bad Hygiene,B
+u86,shop66,1.1,3.7,Good Service,B
+u36,shop95,2.9,2.9,Bad Service and Bad Hygiene,B
+u8,shop120,3.4,2.8,Bad Service and Bad Hygiene,B
+u89,shop65,4.2,3.9,Good Hygiene,A
+u83,shop61,2.7,3.5,Bad Service and Bad Hygiene,B
+u81,shop71,1.1,2.6,Bad Service and Bad Hygiene,A
+u54,shop52,3.7,3.6,Good Hygiene,B
+u75,shop105,4.2,4.7,Good Hygiene,B
+u38,shop23,2.7,2.8,Bad Service and Bad Hygiene,A
+u58,shop14,3.4,3.5,Bad Service and Bad Hygiene,A
+u10,shop144,1.1,3.4,Bad Service and Bad Hygiene,B
+u77,shop148,4.8,3.1,Good Hygiene,A
+u72,shop52,2.9,4.8,Good Service,B
+u95,shop18,3.6,4.5,Good Hygiene,A
+u94,shop150,3.1,4.5,Good Service,A
+u74,shop110,4.8,3.2,Good Hygiene,A
+u97,shop14,2.4,4.1,Good Service,B
+u47,shop27,4.4,4.6,Good Hygiene,A
+u93,shop136,3.8,2.4,Good Hygiene,B
+u55,shop74,1.4,3.4,Bad Service and Bad Hygiene,B
+u12,shop81,4.9,2.4,Good Hygiene,B
+u22,shop114,3,3.5,Bad Service and Bad Hygiene,A
+u50,shop55,3.9,2,Good Hygiene,A
+u17,shop140,3.8,4.6,Good Hygiene,B
+u69,shop17,3,4.3,Good Service,B
+u5,shop66,2.7,4,Good Service,B
+u38,shop24,3,3.7,Good Service,A
+u13,shop23,2.9,2,Bad Service and Bad Hygiene,A
+u71,shop126,1.3,2.9,Bad Service and Bad Hygiene,B
+u11,shop38,3.7,1.3,Good Hygiene,A
+u14,shop95,4.6,1.5,Good Hygiene,A
+u68,shop65,2.7,3.1,Bad Service and Bad Hygiene,B
+u9,shop50,1.2,2.4,Bad Service and Bad Hygiene,A
+u14,shop61,4.6,4.9,Good Hygiene,B
+u90,shop50,2.4,3.7,Good Service,B
+u38,shop87,3.6,3.1,Good Hygiene,A
+u87,shop90,1.3,3.9,Good Service,A
+u87,shop63,2.9,3.5,Bad Service and Bad Hygiene,A
+u62,shop110,4.7,2.4,Good Hygiene,B
+u62,shop142,4.3,5,Good Hygiene,A
+u17,shop71,4.7,3.5,Good Hygiene,A
+u98,shop16,4.9,4.9,Good Hygiene,B
+u18,shop129,3.6,3.1,Good Hygiene,A
+u15,shop125,2.5,5,Good Service,B
+u58,shop116,4.1,3.2,Good Hygiene,A
+u8,shop87,2.9,4.4,Good Service,B
+u10,shop67,4.6,3,Good Hygiene,A
+u27,shop133,2.5,4.7,Good Service,A
+u89,shop99,2.4,3.7,Good Service,A
+u51,shop103,2.4,2.4,Bad Service and Bad Hygiene,B
+u95,shop9,4.6,2.6,Good Hygiene,A
+u92,shop45,4.8,4.5,Good Hygiene,B
+u61,shop45,4,4.2,Good Hygiene,A
+u16,shop16,5,4.8,Good Hygiene,B
+u72,shop139,3.4,2.4,Bad Service and Bad Hygiene,A
+u28,shop123,3.5,4.7,Good Service,B
+u70,shop116,5,4.1,Good Hygiene,B
+u41,shop12,4.5,4,Good Hygiene,A
+u98,shop28,4.6,3.9,Good Hygiene,B
+u68,shop132,2.6,3,Bad Service and Bad Hygiene,B
+u43,shop97,4.7,1.4,Good Hygiene,B
+u16,shop82,3,4.6,Good Service,B

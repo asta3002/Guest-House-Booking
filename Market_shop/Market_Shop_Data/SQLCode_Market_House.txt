@@ -1,0 +1,578 @@
+create database Testing;
+use Testing;
+create table SecurityPass(
+   Security_Id varchar(255) not null,
+   DateofIssue date not null,
+   DateofExpiry date not null,
+   primary key(Security_Id)
+);
+create table ShopKpr(
+      ShopKpr_Id varchar(255) not null,
+      Name varchar(50) not null,
+      Age int not null,
+      Address varchar(255) not null,
+      Security_Id varchar(255) not null,
+      primary key(ShopKpr_Id),
+      foreign key(Security_Id) references SecurityPass(Security_Id)
+);
+create table ShopKpr_Phno(
+      ShopKpr_Id varchar(255) not null,
+      PhNo bigint not null,
+      primary key(ShopKpr_Id,PhNo),
+      foreign key(ShopKpr_Id) references ShopKpr(ShopKpr_Id)
+      
+);
+
+
+
+
+create table License(
+    License_Id varchar(255) not null,
+    Start_Date date not null,
+    Expiry_Date date not null,
+    primary key(License_ID)
+);
+create table Shops(
+    Shop_Id varchar(255) not null,
+    Name varchar(50) not null,
+    ShopKpr_Id varchar(255) not null,
+    Location varchar(30) not null,
+    PrdSer varchar(255) not null,
+    License_Id varchar(255) not null,
+    primary key(Shop_Id),
+    foreign key(ShopKpr_Id) references ShopKpr(ShopKpr_Id),
+    foreign key(License_ID) references License(License_Id)
+    
+);
+
+create table Extensions(   
+    Extension_Id varchar(255) not null,
+    License_Id varchar(255) not null,
+    Extended_Date date not null,
+    Issue_Date date not null,
+    primary key(Extension_Id),
+    foreign key(License_Id) references License(License_Id)
+);
+
+create table Users
+(
+    User_Id varchar(255) not null,
+    Name varchar(30) not null,
+    Age int not null,
+    PhNo bigint not null,
+    primary key(User_Id)
+    
+);
+create table FeedBack(   
+    User_Id varchar(255) not null,
+    Shop_Id varchar(255) not null,
+    Hygiene_Score int default 3,
+    Service_Rating int default 3,
+    Comments varchar(255),
+    Status char(1) default 'P',
+    primary key(User_Id,Shop_Id),
+    foreign key(Shop_Id) references Shops(Shop_Id),
+    foreign key(User_Id) references Users(User_Id)
+
+);
+create table Performance(
+    Shop_Id varchar(255) not null,
+    Overall_Score float not null default 0,
+    primary key(Shop_Id),
+    foreign key(Shop_Id) references Shops(Shop_Id)
+);
+
+
+
+
+create table Payments(
+    Payment_Id varchar(10) not null,
+    Shop_Id varchar(255) not null,
+    Month varchar(10) not null,
+    Yr varchar(10) not null,
+    Category varchar(20) not null,
+    Val bigint not null,
+   primary key(Payment_Id),
+   foreign key(Shop_Id) references Shops (Shop_Id),
+   check (Month in ('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec') )
+);
+create table Transactions(
+    Transaction_Id varchar(10) not null,
+    Payment_Id varchar(10) not null,
+    Amount bigint not null,
+    primary key(Payment_Id,Transaction_Id),
+    foreign key(Payment_Id) references Payments(Payment_Id)
+);
+
+create table Pending_Charges(
+    
+    Payment_Id varchar(10) not null,
+   
+    Pending_Amount bigint not null,
+   
+    primary key(Payment_Id),
+    foreign key(Payment_Id) references Payments(Payment_Id)
+
+
+);
+// Users//
+
+delimiter |
+create procedure User_Comments(IN Id varchar(255))
+begin
+  select Users.User_Id,FeedBack.Shop_Id ,Shops.Name,FeedBack.Comments from (Shops inner join ( Users inner join FeedBack on Users.User_Id = FeedBack.User_Id) on Shops.Shop_Id = FeedBack.Shop_Id) where Users.User_Id = Id;
+end;
+|
+
+delimiter ;
+////////////////////////
+
+
+
+
+// Payments and Transactions //
+
+delimiter |
+create trigger ins_trans before insert on Transactions
+for each row 
+begin  
+
+ declare Amnt bigint ;
+ declare Pend bigint ;
+ 
+ select Val into Amnt from Payments where Payments.Payment_Id = new.Payment_Id;
+  if exists (select Pending_Charges.Payment_Id from Pending_Charges where Pending_Charges.Payment_Id = new.Payment_Id) then
+       begin
+       select Pending_Charges.Pending_Amount into Pend from Pending_Charges where Pending_Charges.Payment_Id = new.Payment_Id;
+       if(Pend>new.Amount) then
+       update Pending_Charges set Pending_Charges.Pending_Amount = Pending_Charges.Pending_Amount - new.Amount where Pending_Charges.Payment_Id = new.Payment_Id;
+       elseif(Pend = new.Amount) then
+       delete from Pending_Charges where Pending_Charges.Payment_Id = new.Payment_Id;
+       end if;
+       end;
+         
+  elseif (Amnt > new.Amount) then
+    
+   insert into Pending_Charges values(new.Payment_Id,(Amnt-new.Amount));
+
+
+  
+end if; 
+end;
+|
+
+create trigger del_trans before delete on Transactions 
+for each row
+begin
+ 
+ declare Pend bigint;
+ if exists (select Pending_Charges.Payment_Id from Pending_Charges where Pending_Charges.Payment_Id = old.Payment_Id) then
+        update Pending_Charges set Pending_Charges.Pending_Amount = Pending_Charges.Pending_Amount + old.Amount where Pending_Charges.Payment_Id = old.Payment_Id;
+
+         
+ else 
+   insert into Pending_Charges values(old.Payment_Id,old.Amount);
+
+end if;
+end;
+|
+
+
+create procedure Update_Pendings()
+begin
+   declare done int default 0;
+   declare P_Id varchar(10);
+   declare Sm bigint default 0;
+   declare P_amnt bigint default 0;
+   declare P_cursor cursor for select Payment_Id from Payments;
+   declare continue handler for not found set done =1;
+   open P_cursor;
+   Label: LOOP
+     fetch P_cursor into P_Id;
+     
+     if done =1 then 
+       leave Label;
+     else
+           
+           if (not exists (select Payment_Id from Pending_Charges where Payment_ID = P_Id) ) then
+               select Val into P_amnt from Payments where Payment_Id = P_Id;
+               insert into pending_charges values (P_Id,P_amnt-Sm);
+           end if;    
+            
+        
+       end if;
+       end LOOP;
+       close P_cursor;
+end;
+|
+
+create function Due_Amnt(Id varchar(10))
+returns bigint 
+deterministic
+begin
+ 
+ declare Pending bigint default 0;
+  call Update_Pendings();
+ select  sum(Pending_Charges.Pending_Amount) into Pending from( payments inner join pending_charges on pending_charges.Payment_ID = payments.Payment_ID) group by(Payments.Shop_Id) having payments.Shop_Id =Id;
+ return Pending;
+end;
+|
+
+
+
+
+create procedure Pending_Summary()
+begin
+   call Update_Pendings();
+   select Payments.Shop_Id, sum(Pending_Charges.Pending_Amount) from (Pending_Charges inner join Payments on Payments.Payment_Id  = Pending_Charges.Payment_Id) group by(Payments.Shop_Id);
+end;
+|
+delimiter  ;
+///////////////////////////////
+
+
+//Shop_Details//
+
+delimiter |
+create procedure Area_Details(IN Lcn varchar(30))
+begin
+   select Shops.Shop_Id,Shops.Name,Shops.ShopKpr_Id,ShopKpr.Name,Shops.PrdSer from ( Shops inner join ShopKpr on ShopKpr.ShopKpr_Id = Shops.ShopKpr_Id) where (Shops.Location = Lcn);
+end;
+|
+
+
+create procedure Shop_Details(IN Id varchar(30))
+begin
+   select Shops.Shop_Id,Shops.Name,Shops.ShopKpr_Id,ShopKpr.Name,Shops.PrdSer from ( Shops inner join ShopKpr on ShopKpr.ShopKpr_Id = Shops.ShopKpr_Id)  where(Shops.Shop_Id = Id);
+end;
+|
+
+////////////////////////////
+
+///Shop_Feedback////
+
+create trigger ins_score before insert on FeedBack
+for each row 
+begin   
+if ( (new.Status ='A') and (exists ( select Performance.Shop_Id from Performance where Performance.Shop_Id = new.Shop_Id) ) ) then 
+     update Performance set Performance.Overall_Score = Performance.Overall_Score + ( (new.Hygiene_Score +new.Service_Rating)/2)  where Performance.Shop_Id = new.Shop_Id;  
+elseif ( (new.Status ='A')and ( not exists ( select Performance.Shop_Id from Performance where Performance.Shop_Id = new.Shop_Id) ) )  then
+     insert into Performance values (new.Shop_Id,((new.Hygiene_Score +new.Service_Rating)/2));   
+end if; 
+end;
+|
+
+create trigger upd_score before update on FeedBack
+for each row 
+begin   
+if ((old.Status='A')and(new.Status='P') ) then 
+     update Performance set Performance.Overall_Score = Performance.Overall_Score - ((old.Hygiene_Score +old.Service_Rating)/2) where ( (Performance.Shop_Id = new.Shop_Id) );
+elseif ((old.Status='A')and(new.Status='A')) then
+     update Performance set Performance.Overall_Score = Performance.Overall_Score + ((new.Hygiene_Score +new.Service_Rating)/2) -((old.Hygiene_Score +old.Service_Rating)/2) where ((Performance.Shop_Id = new.Shop_Id)); 
+elseif ((old.Status='P')and(new.Status='A')) then
+     update Performance set Performance.Overall_Score = Performance.Overall_Score + ((new.Hygiene_Score +new.Service_Rating)/2)  where ( (Performance.Shop_Id = new.Shop_Id) );
+  
+end if; 
+end; 
+|
+
+create trigger del_score after delete  on FeedBack 
+for each row
+begin   
+if ( (old.Status='A') ) then 
+     update Performance set Performance.Overall_Score = Performance.Overall_Score - ((old.Hygiene_Score +old.Service_Rating)/2) where     ( (Performance.Shop_Id = old.Shop_Id) );
+
+end if; 
+end; 
+|
+
+create procedure del_comments()
+begin
+delete from FeedBack where status ='P';
+end; 
+|
+
+
+create procedure Get_Performance(IN S_Id varchar(255))
+begin
+ declare score float;
+ declare Err varchar(20);
+ set Err = "ID not present";
+ if exists( select Shop_Id from Performance where Shop_Id = S_Id)  then
+   select Shops.Shop_Id, Shops.Name, Performance.Overall_Score from ( Performance inner join Shops on Shops.Shop_Id = Performance.Shop_Id) where Shops.Shop_Id = S_Id;
+  else
+    select Err ;
+end if;
+
+end; 
+|
+
+
+
+create procedure Performance_Summary(IN S_Id varchar(255))
+
+begin
+ 
+ select Shops.Shop_Id,Shops.Name,FeedBack.Hygiene_Score,FeedBack.Service_Rating,FeedBack.Comments from ( Shops inner join FeedBack on Shops.Shop_Id = FeedbACK.Shop_Id)  where ((FeedBack.Shop_Id = S_Id)and(FeedBack.Status='A'));
+ 
+end;
+|
+
+create procedure RankList()
+begin
+  select Shops.Shop_Id, Shops.Name, Performance.Overall_Score from ( Performance inner join Shops on Shops.Shop_Id = Performance.Shop_Id) order by Performance.Overall_Score ;
+end
+|
+delimiter ;
+///////////////////////////////////////////////////////////////
+
+//Shopkpr//
+
+delimiter |
+create procedure Check_Pass(IN Id varchar(255) )
+begin
+    declare C_Date date;
+   
+    declare MsgA, MsgB, MsgC varchar(30);
+    declare diff int ;
+    set C_Date = CURDATE();
+   
+    set diff = DATEDIFF( C_Date, (SELECT SecurityPass.DateofExpiry from ( SecurityPass inner join ShopKpr on ShopKpr.Security_Id =SecurityPass.Security_Id) where ShopKpr.ShopKpr_Id = Id));
+    set MsgA = "Pass Expired";
+    set MsgB = "Valid Pass";
+
+    if(diff>0) then
+       select MsgA;
+    else
+       select MsgB;
+    end if;
+ end;
+|
+
+create procedure ShpKpr_Details(IN Id varchar(255))
+begin 
+ 
+   select ShopKpr.ShopKpr_Id, ShopKpr.Name,ShopKpr.Age,ShopKpr.Address,ShopKpr.Security_Id, SecurityPass.DateofExpiry as PassExpiryDate from (SecurityPass inner join  ShopKpr on ShopKpr.Security_Id =SecurityPass.Security_Id)  where(ShopKpr.ShopKpr_Id= Id);
+   
+end;
+|
+
+create procedure Expire_Pass() 
+begin
+        declare done int default 0; 
+        declare S_ID varchar(255) ; 
+        declare S_Iss, S_Exp date;
+         declare C_Date date; 
+        
+        declare Pcursor CURSOR 
+        for select * from SecurityPass ; 
+        declare continue handler for not found set done = 1; 
+        open Pcursor;
+        set C_Date = CURDATE();
+        
+        label: LOOP 
+        fetch Pcursor into S_ID,S_Iss,S_Exp;
+        if done = 1 then 
+        leave label;        
+        else
+           
+           if ((SELECT DATEDIFF( S_Exp,C_Date)) <=5) then
+              select S_ID, ShopKpr.ShopKpr_Id,ShopKpr.Name from (SecurityPass inner join ShopKpr on ShopKpr.Security_Id = SecurityPass.Security_Id) where SecurityPass.Security_Id = S_Id;
+           end if;  
+        
+            
+        
+       end if;
+       end loop;
+       close Pcursor;
+        
+        
+  end; 
+  |
+ 
+delimiter  ;
+
+
+//////////////////////////////////////////
+
+
+//Expiring Licenses//
+
+delimiter |
+
+create trigger ins_extension  before insert on Extensions
+for each row
+begin
+    update License set License.Expiry_Date = new.Extended_Date where License.License_ID = new.License_ID;
+end;
+|
+create procedure Expire_License() /** procedure to implement different operations based on input by if else statements**/
+begin
+        declare done int default 0; /* declare loop end indicator*/
+       declare L_ID varchar(255) ;/* variables to fetch the entries into*/
+        declare L_Sd,L_Exp date;
+        declare C_Date date;        
+        
+        declare P_cursor cursor for select * from License; /* declare cursor*/
+        declare continue handler for not found set done = 1; /* sets done =1 if no entry if fetched*/
+        open P_cursor;
+        set C_Date = CURDATE();
+        label: LOOP /* while loop*/
+        fetch P_cursor into L_ID,L_Sd, L_Exp;
+        if done = 1 then 
+        leave label;        
+        else
+           
+           if ((SELECT DATEDIFF( L_Exp,C_Date)) <=5) then
+              select L_ID, Shops.Shop_Id,Shops.Name,ShopKpr.ShopKpr_Id,ShopKpr.Name from (ShopKpr inner join (License inner join Shops on Shops.License_Id = License.License_Id) on ShopKpr.ShopKpr_Id = Shops.ShopKpr_Id) where License.License_Id = L_Id;
+           end if;  
+        
+            
+        
+       end if;
+       end loop;
+       close P_cursor;
+        
+        
+  end; |
+delimiter ;
+
+///////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+CREATE index index_1 on feedback(User_Id,Shop_Id);
+
+
+////////////////////////////////////////////////////
+insert into securitypass values
+('001','2022-09-20','2023-09-20'),
+('002','2022-09-20','2023-09-20'),
+('003','2022-09-20','2023-09-20'),
+('004','2022-09-20','2023-09-20'),
+('005','2022-09-20','2023-09-20'),
+('006','2022-09-20','2023-09-20'),
+('007','2022-09-20','2023-09-20');
+
+insert into shopkpr values 
+('001','Praveen',34,'IIT Patna','001'),
+('002','Praveen',34,'IIT Patna','002'),
+('003','Praveen',34,'IIT Patna','003'),
+('004','Praveen',34,'IIT Patna','004'),
+('005','Praveen',34,'IIT Patna','005'),
+('006','Praveen',34,'IIT Patna','006'),
+('007','Praveen',34,'IIT Patna','007');
+
+insert into license values 
+('001','2022-09-20','2023-09-20'),
+('002','2022-09-20','2023-09-20'),
+('003','2022-09-20','2023-09-20'),
+('004','2022-09-20','2023-09-20'),
+('005','2022-09-20','2023-09-20'),
+('006','2022-09-20','2023-09-20'),
+('007','2022-09-20','2023-09-20');
+
+insert into shops values
+('001','Nescafe','001','Acad','Cafe','001'),
+('002','Nescafe','001','Acad','Cafe','002'),
+('003','Cycle','003','Hostel','Cycle','003'),
+('004','FoodCourt','002','Library','Food','004'),
+('005','Stationary','004','Quarters','Stationary','005'),
+('006','Icecream','005','Hostel','Icecream','006'),
+('007','Saloon','006','Hostel','Hairstyle','007');
+
+
+insert into shopkpr_phno values 
+('001',12312141),
+('002',12312147),
+('003',12312146),
+('007',12312145),
+('006',12312143),
+('001',12312142);
+
+
+
+insert into extensions values
+('001','002','2023-10-20','2023-09-20'),
+('002','003','2023-10-20','2023-09-20'),
+('003','004','2023-10-20','2023-09-20'),
+('004','006','2023-10-20','2023-09-20'),
+('005','007','2023-10-20','2023-09-20'),
+('006','003','2023-10-30','2023-09-20'),
+('007','004','2023-09-30','2023-09-20');
+
+insert into users values 
+('001','Sai',90,12311131),
+('002','Sai',90,12311131),
+('003','Sai',90,12311131),
+('004','Sai',90,12311131),
+('005','Sai',90,12311131),
+('006','Sai',90,12311131);
+
+insert into FeedBack values 
+('001','001',3,5,'Bad','P'),
+('002','001',3,5,'Good','A'),
+('003','002',3,5,'Best','P'),
+('004','003',3,5,'Ok','A'),
+('002','004',3,5,'Normal','A'),
+('001','003',3,5,'Bad','P'),
+('006','002',3,5,'Bad','A'),
+('001','005',3,5,'Normal','P');
+
+insert into payments values 
+('001','001','Jan','2020','Rent',2000),
+('002','003','Jan','2020','Rent',2000),
+('003','001','Jan','2020','Rent',3000),
+('004','002','Mar','2020','Rent',4000),
+('005','003','May','2020','Rent',5000);
+
+
+insert into transactions values 
+('001','001',150),
+('002','001',150),
+('003','002',150),
+('004','003',150),
+('005','001',150);
+////////////////////////////
+
+///Queries used:
+
+select count(*) from extensions;
+select count(*) from feedback;
+select count(*) from license;
+select count(*) from payments;
+select count(*) from pending_charges;
+select count(*) from performance;
+select count(*) from securitypass;
+select count(*) from shopkpr;
+select count(*) from shopkpr_phno;
+select count(*) from shops;
+select count(*) from transactions;
+select count(*) from users;
+
+
+insert into feedback values('010','003',2,3,'Bad','A');
+update feedback set Status ='P' where Shop_Id = '001';
+delete from feedback where Shop_Id ='002';
+insert into Extension values ('010','001','2024-10-09','2022-10-09');
+insert into transactions values('010','001',25);
+delete from transactions where (Payment_Id ='001');
+
+
+call Area_Details('Hostel');
+call Check_Pass('001');
+call del_comments();
+call Expire_License();
+call Expire_Pass();
+call Get_Performance('001');
+call Pending_Summary();
+call performance_Summary('001');
+call Ranklist();
+call Shop_Details('001');
+call ShpKpr_Details('001');
+call Update_Pendings();
+call User_Comments('u2');
